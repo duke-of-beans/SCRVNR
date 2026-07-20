@@ -1,0 +1,70 @@
+#!/bin/sh
+#
+# SCRVNR pre-commit hook — HARD BLOCK on secrets in staged files.
+# Runs before every commit. Rejects the commit if ANY secret pattern is found.
+#
+# Install: copy to .git/hooks/pre-commit (done by install_hooks.py)
+#
+# This is the last line of defense. The corpus pipeline should also strip
+# secrets at extraction time, and .gitignore should exclude corpus files.
+# But if both of those fail, this hook stops the commit.
+
+echo "SCRVNR pre-commit: scanning for secrets..."
+
+# Patterns that match real API key formats
+PATTERNS=(
+    'sk-ant-api'
+    'sk-proj-'
+    'sk-or-v1-'
+    'sk-[a-f0-9]{32}'
+    'ghp_[A-Za-z0-9]{36}'
+    'github_pat_'
+    'gho_[A-Za-z0-9]'
+    'npm_[A-Za-z0-9]{36}'
+    'vcp_[A-Za-z0-9]{50}'
+    'sbp_[a-f0-9]{40}'
+    'sb_secret_'
+    're_[A-Za-z0-9]{10}_[A-Za-z0-9]'
+    'GOCSPX-'
+    'xai-[A-Za-z0-9]{60}'
+    'AIzaSy[A-Za-z0-9_-]{33}'
+    'sk_live_'
+    'sk_test_'
+    'pk_live_'
+    'pk_test_'
+    'Bearer [A-Za-z0-9_-]{20,}'
+    'ANTHROPIC_API_KEY'
+    'OPENAI_API_KEY'
+    'SUPABASE_SERVICE_ROLE_KEY'
+)
+
+FOUND=0
+
+for pattern in "${PATTERNS[@]}"; do
+    # Check only staged files (what's about to be committed)
+    MATCHES=$(git diff --cached --diff-filter=ACM -S "$pattern" --name-only 2>/dev/null)
+    if [ -n "$MATCHES" ]; then
+        echo "BLOCKED: Secret pattern '$pattern' found in:"
+        echo "$MATCHES"
+        FOUND=1
+    fi
+done
+
+# Also hard-block any .jsonl, .db, .env files from being committed
+BLOCKED_FILES=$(git diff --cached --name-only | grep -E '\.(jsonl|db|db-journal|db-wal|env|key|pem|secret)$')
+if [ -n "$BLOCKED_FILES" ]; then
+    echo "BLOCKED: Forbidden file type staged for commit:"
+    echo "$BLOCKED_FILES"
+    FOUND=1
+fi
+
+if [ "$FOUND" -ne 0 ]; then
+    echo ""
+    echo "COMMIT REJECTED — secrets or forbidden files detected."
+    echo "Remove the sensitive content and try again."
+    echo "If this is a false positive, use: git commit --no-verify"
+    exit 1
+fi
+
+echo "SCRVNR pre-commit: clean."
+exit 0
