@@ -114,6 +114,8 @@
 - **The Bimodal Beat**: in TECH register, alternates 4-word directives with 25-word explanations. The short sentence sets up; the long sentence delivers.
 - **The Architecture Sentence**: describes system relationships using spatial metaphors — 'upstream', 'downstream', 'surfaces', 'layers', 'pipeline'.
 
+- **The Cultural Stab**: embeds exact quotes from public figures mid-sentence as dependent clauses that invert the original meaning. 3-8 exact words, no attribution, sentence survives without it, original moment carried public emotion. Reader recognizes it and feels the knife, or the sentence reads clean. Seven rules: (1) exact words not paraphrase, (2) 3-8 words, (3) no attribution, (4) meaning inverts in context, (5) placed at apex of claim, (6) original moment carried emotion, (7) sentence survives without it. All seven must pass.
+
 ## Anti-Patterns (things David never does)
 
 - Never uses em-dashes (—). Uses hyphens with spaces (` - `) instead. This is the #1 AI detection signal.
