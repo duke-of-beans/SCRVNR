@@ -1,0 +1,188 @@
+# INVESTIGATE ENVIRONMENT CALIBRATION
+# Investigative & Research-Action Voice
+# Version: 1.0.0
+
+---
+
+environment:
+  name: investigate
+  description: "Active investigation — digging into data, chasing leads, building evidence"
+  audience: "Self, research collaborators, editorial teams"
+  
+voice_parameters:
+  formality: 6  # 1-10 scale (focused but not academic)
+  contraction_target: 0.39  # 39% of opportunities (lower — precision mode)
+  dash_tolerance: 3  # maximum per page
+  technical_depth: high  # Deep domain investigation
+  personality_integration: moderate
+  directness: 8  # Direct, evidence-focused
+
+metrics_targets:
+  contraction_rate:
+    minimum: 0.30
+    target: 0.39
+    maximum: 0.50
+  dash_density:
+    maximum: 3  # per page
+  caps_emphasis:
+    note: "High (20.3/1k) — used for entity names, key terms, emphasis"
+  evidence_density:
+    required: true  # Claims must be traceable
+
+---
+
+adjustments:
+  relative_to_core:
+    evidence_chasing: true
+    source_tracking: "Every claim linked to source"
+    cross_referencing: "Multiple sources triangulated"
+    file_path_heavy: "10.3% of messages contain file paths"
+    
+  tone_shifts:
+    from_research: "Less academic, more action-oriented"
+    from_dev: "Less code, more data/evidence"
+    from_work: "Less strategic, more forensic"
+    from_personal: "More focused, less casual"
+
+---
+
+encouraged_patterns:
+  investigation_framing:
+    - "The trail leads to..."
+    - "Cross-referencing with..."
+    - "Source confirms..."
+    - "Pattern emerging:"
+    
+  evidence_tracking:
+    - Specific file paths and URLs
+    - Named sources and documents
+    - Timestamps and dates
+    - Quantified findings
+    
+  analytical_action:
+    - "Pulling data from..."
+    - "Checking against..."
+    - "The discrepancy here is..."
+    - "This contradicts what..."
+
+---
+
+discouraged_patterns:
+  premature_conclusions:
+    - Assertions without evidence
+    - Single-source claims
+    - Speculation presented as fact
+    
+  lazy_investigation:
+    - "It seems like" (verify it)
+    - "Probably" (check)
+    - "I assume" (confirm)
+
+---
+
+forbidden_additions:
+  phrases:
+    - "it goes without saying"
+    - "everyone knows"
+    - "common knowledge"
+    - "no need to verify"
+
+---
+
+required_patterns:
+  evidence_chain:
+    - Source identified for all claims
+    - Multiple sources when possible
+    - Contradictions flagged explicitly
+    - Gaps in evidence acknowledged
+
+---
+
+voice_markers:
+  present:
+    - Low contraction rate (~39%) — precision mode
+    - Very high caps emphasis (20.3/1k) — entities, key terms
+    - High file path density (10.3%)
+    - High ellipsis rate (2.2/1k) — trailing thoughts, connections
+    - Bimodal sentence length — short notes + long analysis
+    - High em-dash rate (0.71/1k)
+    
+  absent:
+    - Academic hedging
+    - Unsupported assertions
+    - Casual chattiness
+    - Corporate framing
+
+---
+
+use_cases:
+  primary:
+    - Investigative journalism (FINE PRINT, National Razor)
+    - Data investigation
+    - PACER/court document research
+    - Competitive intelligence
+    - Evidence compilation
+    
+  not_for:
+    - Academic papers (use research)
+    - Technical docs (use dev)
+    - Business proposals (use work)
+
+---
+
+examples_reference:
+  location: "environments/investigate/examples/"
+  should_feel_like:
+    - "Journalist chasing a lead"
+    - "Evidence-first, conclusion-second"
+    - "Precise but driven"
+    - "Connected dots, traced sources"
+
+---
+
+quality_checks:
+  evidence_validation:
+    - All claims sourced
+    - Contradictions flagged
+    - Gaps acknowledged
+    - Cross-references verified
+    
+  voice_authenticity:
+    - Contraction rate 35-45%
+    - Caps emphasis for entities
+    - File paths and URLs present
+    - Analytical action language
+
+---
+
+cross_environment_notes:
+  vs_research:
+    difference: "Action-oriented vs academically neutral"
+    similarity: "Both evidence-based, precise"
+    
+  vs_dev:
+    difference: "Data/evidence vs code/systems"
+    similarity: "Both high caps emphasis, specific"
+
+---
+
+vfp_measured:
+  register: INVESTIGATE
+  mean_zipf: 4.3661
+  kite_skew: -1.5691
+  contraction_rate: 0.3867
+  sentence_len_mean: 15.5057
+  is_bimodal: true
+  bimodality_coefficient: 0.7356
+  profanity_rate: 0.3798
+  caps_emphasis_rate: 20.279
+  source: "voice_profile.json (VFP-04, 2026-07-16)"
+
+---
+
+version_info:
+  version: "1.0.0"
+  created: "2026-07-16"
+  environment: "investigate"
+  based_on: "core/protocols/MASTER_PROTOCOL.md"
+  adjustments: "Investigative research-action context with VFP measurements"

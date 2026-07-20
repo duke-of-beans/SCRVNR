@@ -1,0 +1,186 @@
+# CASUAL ENVIRONMENT CALIBRATION
+# Quick Messages & Chat Voice
+# Version: 1.0.0
+
+---
+
+environment:
+  name: casual
+  description: "Short-form casual messages — texts, quick chats, brief replies"
+  audience: "Friends, family, close collaborators"
+  
+voice_parameters:
+  formality: 2  # 1-10 scale (minimal formality)
+  contraction_target: 0.74  # 74% of opportunities (highest after argumentative)
+  dash_tolerance: 3  # maximum per page
+  technical_depth: low  # Conversational
+  personality_integration: maximum  # Full authentic self
+  directness: 9  # Very direct, no fluff
+
+metrics_targets:
+  contraction_rate:
+    minimum: 0.65
+    target: 0.74
+    maximum: 0.85
+  dash_density:
+    maximum: 3  # per page
+  sentence_length:
+    average: 3-6  # words (shortest of all registers — mean 4.5)
+  message_length:
+    average: 4-10  # words (median 4 words per message)
+  exclamation_rate:
+    note: "Highest of all registers (8.4/1k) — enthusiasm, emphasis"
+
+---
+
+adjustments:
+  relative_to_core:
+    maximum_brevity: true
+    chat_rhythm: "Staccato — short bursts, not paragraphs"
+    high_profanity: "Second highest (1.38/1k) — casual authenticity"
+    no_em_dashes: "Lowest em-dash rate (0.03/1k) — too formal for chat"
+    
+  tone_shifts:
+    from_work: "Much shorter, much less formal"
+    from_dev: "No technical structure, pure chat"
+    from_research: "Completely different register"
+    from_personal: "Even shorter, more staccato"
+
+---
+
+encouraged_patterns:
+  chat_rhythm:
+    - One-line messages
+    - Fragment sentences OK
+    - Quick reactions
+    - "lol", "lfg", abbreviations natural
+    
+  authentic_brevity:
+    - "nice"
+    - "yeah that works"
+    - "on it"
+    - "wait what"
+    
+  casual_markers:
+    - High exclamation rate (enthusiasm)
+    - Double periods (trailing thought..)
+    - Lowercase acceptable
+    - Typos more tolerated (authentic)
+
+---
+
+discouraged_patterns:
+  over_formal:
+    - Full paragraphs in chat context
+    - Professional framing
+    - Academic language
+    - Business strategy language
+    
+  over_structured:
+    - Bullet points in chat
+    - Numbered lists
+    - Headers
+    - Formal transitions
+
+---
+
+forbidden_additions:
+  phrases:
+    - "I wanted to reach out"
+    - "hope this finds you well"
+    - "per my previous message"
+    - "please advise"
+    - "at your earliest convenience"
+
+---
+
+voice_markers:
+  present:
+    - Very high contraction rate (~74%)
+    - Shortest sentences of all registers (mean 4.5 words)
+    - Shortest messages (median 4 words)
+    - Highest exclamation rate (8.4/1k)
+    - High profanity rate (1.38/1k)
+    - Near-zero em-dash rate (0.03/1k)
+    - NOT bimodal — consistently short
+    - High double-period rate (3.0/1k) — trailing thoughts
+    
+  absent:
+    - Em-dashes (too formal)
+    - Long sentences
+    - Structured formatting
+    - Professional language
+    - Academic framing
+
+---
+
+use_cases:
+  primary:
+    - Text messages
+    - Quick chat replies
+    - Slack/Discord messages
+    - Brief reactions
+    
+  not_for:
+    - Email (use personal or work)
+    - Documentation (use dev)
+    - Reports (use research or work)
+    - Applications (use career)
+
+---
+
+examples_reference:
+  location: "environments/casual/examples/"
+  should_feel_like:
+    - "Texting a friend"
+    - "Quick chat, not a letter"
+    - "Authentic shorthand"
+    - "Staccato rhythm"
+
+---
+
+quality_checks:
+  brevity:
+    - Messages appropriately short
+    - No over-elaboration
+    - Chat rhythm maintained
+    
+  authenticity:
+    - Contraction rate 70-80%
+    - No formal language
+    - No em-dashes
+    - Exclamation marks natural, not forced
+
+---
+
+cross_environment_notes:
+  vs_personal:
+    difference: "Much shorter, more staccato"
+    similarity: "Both maximum authenticity"
+    
+  vs_frustrated:
+    difference: "Less intense, more playful"
+    similarity: "Both short sentences, high exclamation"
+
+---
+
+vfp_measured:
+  register: CASUAL
+  mean_zipf: 4.55
+  kite_skew: -1.5249
+  contraction_rate: 0.7372
+  sentence_len_mean: 4.5372
+  is_bimodal: false
+  bimodality_coefficient: 0.4841
+  profanity_rate: 1.3807
+  caps_emphasis_rate: 10.6181
+  source: "voice_profile.json (VFP-04, 2026-07-16)"
+
+---
+
+version_info:
+  version: "1.0.0"
+  created: "2026-07-16"
+  environment: "casual"
+  based_on: "core/protocols/MASTER_PROTOCOL.md"
+  adjustments: "Quick chat context with VFP measurements"

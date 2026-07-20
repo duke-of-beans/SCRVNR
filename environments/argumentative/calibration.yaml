@@ -1,0 +1,198 @@
+# ARGUMENTATIVE ENVIRONMENT CALIBRATION
+# Persuasive & Position-Taking Voice
+# Version: 1.0.0
+
+---
+
+environment:
+  name: argumentative
+  description: "Persuasive writing, position defense, debate-style communication"
+  audience: "Opponents, decision-makers, public audiences"
+  
+voice_parameters:
+  formality: 6  # 1-10 scale (varies by context)
+  contraction_target: 0.75  # 75% of opportunities (high — conversational conviction)
+  dash_tolerance: 3  # maximum per page
+  technical_depth: moderate  # Accessible but substantive
+  personality_integration: high  # Strong personal voice
+  directness: 10  # Maximum directness
+
+metrics_targets:
+  contraction_rate:
+    minimum: 0.65
+    target: 0.75
+    maximum: 0.85
+  dash_density:
+    maximum: 3  # per page
+  sentence_length:
+    average: 18-22  # words (longer, more complex constructions)
+  caps_emphasis:
+    note: "Highest of all registers (25.3 per 1k words) — used for rhetorical emphasis"
+
+---
+
+adjustments:
+  relative_to_core:
+    maximum_conviction: true
+    evidence_backed: "Claims supported but stated forcefully"
+    rhetorical_devices: "Ellipsis, repetition, caps emphasis"
+    longer_form: "Highest mean message length (780 words)"
+    
+  tone_shifts:
+    from_personal: "More forceful, longer form, position-taking"
+    from_work: "Less diplomatic, more direct confrontation"
+    from_research: "Less hedged, more assertive"
+    from_dev: "Less technical, more persuasive"
+
+---
+
+encouraged_patterns:
+  conviction_language:
+    - "Here's what's actually happening:"
+    - "The real issue is"
+    - "This isn't about X, it's about Y"
+    - "Let's be clear:"
+    
+  evidence_stacking:
+    - "First... Second... Third..."
+    - "The data shows... The pattern shows... The result shows..."
+    - Specific dollar amounts (highest $ density of all registers)
+    - Named examples and counterexamples
+    
+  rhetorical_devices:
+    - Strategic ellipsis (5.19 per 1k words — highest)
+    - Caps emphasis for key terms
+    - Rhetorical questions (17.9% question density)
+    - Repetition for emphasis
+
+---
+
+discouraged_patterns:
+  weak_positioning:
+    - "I might be wrong but"
+    - "Some people think"
+    - "It could be argued"
+    - "There are two sides"
+    
+  false_balance:
+    - Equal weight to unequal positions
+    - "Both sides have a point"
+    - Hedging when conviction is warranted
+
+---
+
+forbidden_additions:
+  phrases:
+    - "with all due respect"
+    - "I hear what you're saying"
+    - "that's a valid point" (when it isn't)
+    - "we can agree to disagree"
+
+---
+
+required_patterns:
+  position_clarity:
+    - State position within first paragraph
+    - Support with specific evidence
+    - Anticipate and address counterarguments
+    - Conclude with reinforced position
+    
+  evidence_standards:
+    - Dollar amounts when relevant (18.5% of messages contain $)
+    - Named entities and specific examples
+    - Quantified claims
+
+---
+
+voice_markers:
+  present:
+    - Very high contraction rate (~75%)
+    - Highest caps emphasis of all registers (25.3/1k)
+    - Highest ellipsis rate (5.19/1k) — rhetorical pauses
+    - Long-form messages (median 203 words)
+    - High dollar-amount density
+    - Strong conviction language
+    
+  absent:
+    - Hedging qualifiers
+    - False balance
+    - Academic neutrality
+    - Passive constructions
+
+---
+
+use_cases:
+  primary:
+    - Position papers
+    - Debate responses
+    - Policy arguments
+    - Business case advocacy
+    - Persuasive essays
+    
+  not_for:
+    - Neutral research (use research)
+    - Technical docs (use dev)
+    - Personal warmth (use personal)
+
+---
+
+examples_reference:
+  location: "environments/argumentative/examples/"
+  should_feel_like:
+    - "Confident, evidence-backed conviction"
+    - "Direct confrontation of bad ideas"
+    - "Persuasive without being manipulative"
+    - "Long-form, thorough argumentation"
+
+---
+
+quality_checks:
+  conviction_validation:
+    - Position clearly stated
+    - Evidence supports claims
+    - Counterarguments addressed
+    - No false hedging
+    
+  voice_authenticity:
+    - Contraction rate 70-80%
+    - Caps emphasis present
+    - Ellipsis used rhetorically
+    - Long-form when needed
+
+---
+
+cross_environment_notes:
+  vs_research:
+    difference: "Advocates position vs explores neutrally"
+    similarity: "Both evidence-based"
+    
+  vs_personal:
+    difference: "More forceful, longer form"
+    similarity: "Both high contraction, authentic voice"
+    
+  vs_work:
+    difference: "More confrontational, less diplomatic"
+    similarity: "Both results-focused, strategic"
+
+---
+
+vfp_measured:
+  register: ARGUMENTATIVE
+  mean_zipf: 4.5025
+  kite_skew: -3.1583
+  contraction_rate: 0.7451
+  sentence_len_mean: 19.593
+  is_bimodal: true
+  bimodality_coefficient: 0.7068
+  profanity_rate: 0.3196
+  caps_emphasis_rate: 25.3329
+  source: "voice_profile.json (VFP-04, 2026-07-16)"
+
+---
+
+version_info:
+  version: "1.0.0"
+  created: "2026-07-16"
+  environment: "argumentative"
+  based_on: "core/protocols/MASTER_PROTOCOL.md"
+  adjustments: "Persuasive position-taking context with VFP measurements"

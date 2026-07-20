@@ -1,0 +1,61 @@
+STDOUT:
+
+[GATE] QUALITY GATE RESULTS
+============================================================
+
+Overall: [FAIL] FAIL
+Score: 29% (2/7 checks passed)
+
+[LIST] Check Results:
+   [FAIL] contraction_rate
+   [OK] dash_density
+   [OK] forbidden_patterns
+   [FAIL] rhetorical_questions
+   [FAIL] expert_audience
+   [FAIL] third_person
+   [FAIL] voice_profile
+
+[WARN] Violations (12):
+
+   Line 8 (rhetorical_questions):
+      It takes a certain kind of person to look past the bright colors, the spectacle,...
+
+   Line 27 (rhetorical_questions):
+      The participants denied the meeting occurred for twenty years. It was finally ac...
+
+   Line 59 (rhetorical_questions):
+      "The Nixon campaign in 1968, and the Nixon White House after that, had two enemi...
+
+   Line 89 (rhetorical_questions):
+      You can see it now, can't you? The three rings and their Shock Doctrine distract...
+
+   Line 93 (rhetorical_questions):
+      But the risk of losing the bread in your hand to reveal how the circus runs in t...
+
+   Line 59 (expert_audience):
+      "The Nixon campaign in 1968, and the Nixon White House after that, had two enemi...
+
+   Line 23 (third_person):
+      On November 22, 1910, six men boarded a private railcar in New Jersey under assu...
+
+   Line 23 (third_person):
+      On November 22, 1910, six men boarded a private railcar in New Jersey under assu...
+
+   Line 44 (third_person):
+      In 1947, the country got two new pieces of infrastructure in the same year. The ...
+
+   Line 48 (third_person):
+      Fourteen years later, on January 17, 1961, Eisenhower delivered his farewell add...
+
+[INFO] Suggestions:
+   - Add more contractions (measured: 5%, minimum: 40%)
+   - Remove rhetorical questions (or limit to 1 opening hook)
+   - Remove condescending language
+   - Use first-person (I/my) not third-person (David's/his)
+   - Voice profile FAIL (0.43) - rewrite with flag adjustments
+
+
+STDERR:
+
+
+RETURN CODE: 0

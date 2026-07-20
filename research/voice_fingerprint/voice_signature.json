@@ -1,0 +1,709 @@
+{
+  "global_rarity": {
+    "david_mean_zipf": 4.3274,
+    "storyscope_human_mean_percentile": 0.71,
+    "storyscope_ai_mean_percentile": 0.49,
+    "note": "Zipf and percentile are different scales — relative position is informative, not directly comparable"
+  },
+  "top_50_rarest_words": [
+    {
+      "word": "c:\\windows\\system32>cd",
+      "mean_zipf": 0.15,
+      "messages": 50,
+      "occurrences": 52
+    },
+    {
+      "word": "c:\\windows\\system32>python",
+      "mean_zipf": 0.15,
+      "messages": 13,
+      "occurrences": 13
+    },
+    {
+      "word": "c:\\windows\\system32>powershell",
+      "mean_zipf": 0.15,
+      "messages": 5,
+      "occurrences": 5
+    },
+    {
+      "word": "c:\\windows\\system32>dir",
+      "mean_zipf": 0.15,
+      "messages": 9,
+      "occurrences": 10
+    },
+    {
+      "word": "u+200b",
+      "mean_zipf": 0.61,
+      "messages": 5,
+      "occurrences": 6
+    },
+    {
+      "word": "morph-48n",
+      "mean_zipf": 0.76,
+      "messages": 5,
+      "occurrences": 5
+    },
+    {
+      "word": "webhooks",
+      "mean_zipf": 1.01,
+      "messages": 14,
+      "occurrences": 19
+    },
+    {
+      "word": "ioexception",
+      "mean_zipf": 1.01,
+      "messages": 10,
+      "occurrences": 15
+    },
+    {
+      "word": "socket.io/redis-adapter",
+      "mean_zipf": 1.01,
+      "messages": 11,
+      "occurrences": 25
+    },
+    {
+      "word": "amsterdams",
+      "mean_zipf": 1.01,
+      "messages": 11,
+      "occurrences": 11
+    },
+    {
+      "word": "shim's",
+      "mean_zipf": 1.01,
+      "messages": 10,
+      "occurrences": 23
+    },
+    {
+      "word": "onboarded",
+      "mean_zipf": 1.02,
+      "messages": 11,
+      "occurrences": 11
+    },
+    {
+      "word": "description's",
+      "mean_zipf": 1.02,
+      "messages": 14,
+      "occurrences": 14
+    },
+    {
+      "word": "masterlist",
+      "mean_zipf": 1.02,
+      "messages": 7,
+      "occurrences": 8
+    },
+    {
+      "word": "draggable",
+      "mean_zipf": 1.03,
+      "messages": 10,
+      "occurrences": 10
+    },
+    {
+      "word": "walbro",
+      "mean_zipf": 1.03,
+      "messages": 41,
+      "occurrences": 119
+    },
+    {
+      "word": "carefu",
+      "mean_zipf": 1.03,
+      "messages": 8,
+      "occurrences": 8
+    },
+    {
+      "word": "plae",
+      "mean_zipf": 1.03,
+      "messages": 7,
+      "occurrences": 7
+    },
+    {
+      "word": "sayng",
+      "mean_zipf": 1.03,
+      "messages": 8,
+      "occurrences": 8
+    },
+    {
+      "word": "prerendered",
+      "mean_zipf": 1.03,
+      "messages": 15,
+      "occurrences": 21
+    },
+    {
+      "word": "thc’s",
+      "mean_zipf": 1.03,
+      "messages": 8,
+      "occurrences": 9
+    },
+    {
+      "word": "graet",
+      "mean_zipf": 1.04,
+      "messages": 15,
+      "occurrences": 15
+    },
+    {
+      "word": "absolutey",
+      "mean_zipf": 1.04,
+      "messages": 6,
+      "occurrences": 6
+    },
+    {
+      "word": "builing",
+      "mean_zipf": 1.04,
+      "messages": 5,
+      "occurrences": 5
+    },
+    {
+      "word": "package.json#prisma",
+      "mean_zipf": 1.04,
+      "messages": 16,
+      "occurrences": 19
+    },
+    {
+      "word": "lulo",
+      "mean_zipf": 1.04,
+      "messages": 6,
+      "occurrences": 8
+    },
+    {
+      "word": "throwout",
+      "mean_zipf": 1.04,
+      "messages": 9,
+      "occurrences": 11
+    },
+    {
+      "word": "frontend/package.json",
+      "mean_zipf": 1.05,
+      "messages": 10,
+      "occurrences": 12
+    },
+    {
+      "word": "languge",
+      "mean_zipf": 1.05,
+      "messages": 24,
+      "occurrences": 24
+    },
+    {
+      "word": "github.com/duke-of-beans/ghm-marketing",
+      "mean_zipf": 1.05,
+      "messages": 19,
+      "occurrences": 19
+    },
+    {
+      "word": "typescript-eslint/no-unused-vars",
+      "mean_zipf": 1.05,
+      "messages": 5,
+      "occurrences": 5
+    },
+    {
+      "word": "eaze",
+      "mean_zipf": 1.05,
+      "messages": 5,
+      "occurrences": 22
+    },
+    {
+      "word": "package.json",
+      "mean_zipf": 1.06,
+      "messages": 221,
+      "occurrences": 330
+    },
+    {
+      "word": "socket.io",
+      "mean_zipf": 1.06,
+      "messages": 35,
+      "occurrences": 56
+    },
+    {
+      "word": "socket.io-client",
+      "mean_zipf": 1.06,
+      "messages": 12,
+      "occurrences": 12
+    },
+    {
+      "word": "server/package.json",
+      "mean_zipf": 1.06,
+      "messages": 6,
+      "occurrences": 6
+    },
+    {
+      "word": "backwords",
+      "mean_zipf": 1.06,
+      "messages": 10,
+      "occurrences": 10
+    },
+    {
+      "word": "bsfc",
+      "mean_zipf": 1.06,
+      "messages": 15,
+      "occurrences": 27
+    },
+    {
+      "word": "thoguht",
+      "mean_zipf": 1.06,
+      "messages": 10,
+      "occurrences": 10
+    },
+    {
+      "word": "logo.png",
+      "mean_zipf": 1.06,
+      "messages": 5,
+      "occurrences": 8
+    },
+    {
+      "word": "everythig",
+      "mean_zipf": 1.06,
+      "messages": 7,
+      "occurrences": 7
+    },
+    {
+      "word": "kakistocracy",
+      "mean_zipf": 1.06,
+      "messages": 13,
+      "occurrences": 15
+    },
+    {
+      "word": "ncia",
+      "mean_zipf": 1.06,
+      "messages": 8,
+      "occurrences": 8
+    },
+    {
+      "word": "refigure",
+      "mean_zipf": 1.07,
+      "messages": 6,
+      "occurrences": 6
+    },
+    {
+      "word": "pptx",
+      "mean_zipf": 1.07,
+      "messages": 10,
+      "occurrences": 13
+    },
+    {
+      "word": "workbox-background-sync",
+      "mean_zipf": 1.07,
+      "messages": 12,
+      "occurrences": 12
+    },
+    {
+      "word": "workbox-google-analytics",
+      "mean_zipf": 1.07,
+      "messages": 12,
+      "occurrences": 12
+    },
+    {
+      "word": "typescript-eslint/parser",
+      "mean_zipf": 1.08,
+      "messages": 5,
+      "occurrences": 8
+    },
+    {
+      "word": "buid",
+      "mean_zipf": 1.08,
+      "messages": 9,
+      "occurrences": 9
+    },
+    {
+      "word": "riht",
+      "mean_zipf": 1.08,
+      "messages": 8,
+      "occurrences": 8
+    }
+  ],
+  "top_50_rarity_spikes": [
+    {
+      "word": "npm",
+      "mean_zipf": 2.41,
+      "occurrences": 8527,
+      "messages": 698
+    },
+    {
+      "word": "const",
+      "mean_zipf": 2.84,
+      "occurrences": 4555,
+      "messages": 598
+    },
+    {
+      "word": "div",
+      "mean_zipf": 3.37,
+      "occurrences": 2630,
+      "messages": 258
+    },
+    {
+      "word": "types/jest",
+      "mean_zipf": 3.05,
+      "occurrences": 2566,
+      "messages": 3
+    },
+    {
+      "word": "async",
+      "mean_zipf": 2.25,
+      "occurrences": 2138,
+      "messages": 522
+    },
+    {
+      "word": "hemp",
+      "mean_zipf": 3.42,
+      "occurrences": 1926,
+      "messages": 511
+    },
+    {
+      "word": "gpt",
+      "mean_zipf": 2.39,
+      "occurrences": 1611,
+      "messages": 779
+    },
+    {
+      "word": "git",
+      "mean_zipf": 3.36,
+      "occurrences": 1481,
+      "messages": 500
+    },
+    {
+      "word": "rem",
+      "mean_zipf": 3.28,
+      "occurrences": 1330,
+      "messages": 46
+    },
+    {
+      "word": "dashboard",
+      "mean_zipf": 3.33,
+      "occurrences": 1295,
+      "messages": 791
+    },
+    {
+      "word": "backend",
+      "mean_zipf": 2.86,
+      "occurrences": 1276,
+      "messages": 605
+    },
+    {
+      "word": "thca",
+      "mean_zipf": 1.33,
+      "occurrences": 1270,
+      "messages": 238
+    },
+    {
+      "word": "typescript",
+      "mean_zipf": 2.59,
+      "occurrences": 1260,
+      "messages": 551
+    },
+    {
+      "word": "char",
+      "mean_zipf": 3.47,
+      "occurrences": 1159,
+      "messages": 430
+    },
+    {
+      "word": "dependencies",
+      "mean_zipf": 3.19,
+      "occurrences": 1046,
+      "messages": 667
+    },
+    {
+      "word": "initialized",
+      "mean_zipf": 2.43,
+      "occurrences": 969,
+      "messages": 297
+    },
+    {
+      "word": "thc",
+      "mean_zipf": 3.31,
+      "occurrences": 956,
+      "messages": 140
+    },
+    {
+      "word": "types/mocha",
+      "mean_zipf": 2.97,
+      "occurrences": 906,
+      "messages": 3
+    },
+    {
+      "word": "frontend",
+      "mean_zipf": 2.48,
+      "occurrences": 865,
+      "messages": 458
+    },
+    {
+      "word": "kanna",
+      "mean_zipf": 2.39,
+      "occurrences": 855,
+      "messages": 254
+    },
+    {
+      "word": "kirsch",
+      "mean_zipf": 2.45,
+      "occurrences": 762,
+      "messages": 297
+    },
+    {
+      "word": "inline",
+      "mean_zipf": 3.18,
+      "occurrences": 746,
+      "messages": 286
+    },
+    {
+      "word": "chats",
+      "mean_zipf": 3.37,
+      "occurrences": 697,
+      "messages": 588
+    },
+    {
+      "word": "node.js",
+      "mean_zipf": 2.39,
+      "occurrences": 683,
+      "messages": 522
+    },
+    {
+      "word": "json",
+      "mean_zipf": 2.75,
+      "occurrences": 672,
+      "messages": 352
+    },
+    {
+      "word": "css",
+      "mean_zipf": 3.42,
+      "occurrences": 671,
+      "messages": 460
+    },
+    {
+      "word": "config",
+      "mean_zipf": 2.93,
+      "occurrences": 664,
+      "messages": 403
+    },
+    {
+      "word": "prompts",
+      "mean_zipf": 3.34,
+      "occurrences": 661,
+      "messages": 456
+    },
+    {
+      "word": "psi",
+      "mean_zipf": 3.45,
+      "occurrences": 638,
+      "messages": 69
+    },
+    {
+      "word": "deprecated",
+      "mean_zipf": 2.67,
+      "occurrences": 609,
+      "messages": 187
+    },
+    {
+      "word": "handoff",
+      "mean_zipf": 2.53,
+      "occurrences": 590,
+      "messages": 404
+    },
+    {
+      "word": "rpm",
+      "mean_zipf": 3.49,
+      "occurrences": 584,
+      "messages": 56
+    },
+    {
+      "word": "orchestration",
+      "mean_zipf": 2.74,
+      "occurrences": 567,
+      "messages": 264
+    },
+    {
+      "word": "cli",
+      "mean_zipf": 2.84,
+      "occurrences": 567,
+      "messages": 236
+    },
+    {
+      "word": "kpis",
+      "mean_zipf": 2.16,
+      "occurrences": 560,
+      "messages": 155
+    },
+    {
+      "word": "websocket",
+      "mean_zipf": 1.64,
+      "occurrences": 557,
+      "messages": 260
+    },
+    {
+      "word": "timestamp",
+      "mean_zipf": 2.62,
+      "occurrences": 553,
+      "messages": 267
+    },
+    {
+      "word": "hte",
+      "mean_zipf": 2.3,
+      "occurrences": 552,
+      "messages": 533
+    },
+    {
+      "word": "http://localhost",
+      "mean_zipf": 2.02,
+      "occurrences": 550,
+      "messages": 387
+    },
+    {
+      "word": "workflow",
+      "mean_zipf": 3.16,
+      "occurrences": 547,
+      "messages": 336
+    },
+    {
+      "word": "sauron",
+      "mean_zipf": 2.86,
+      "occurrences": 542,
+      "messages": 276
+    },
+    {
+      "word": "schema",
+      "mean_zipf": 3.13,
+      "occurrences": 538,
+      "messages": 299
+    },
+    {
+      "word": "volvo",
+      "mean_zipf": 3.48,
+      "occurrences": 534,
+      "messages": 180
+    },
+    {
+      "word": "krown",
+      "mean_zipf": 1.23,
+      "occurrences": 518,
+      "messages": 203
+    },
+    {
+      "word": "mcp",
+      "mean_zipf": 2.58,
+      "occurrences": 518,
+      "messages": 324
+    },
+    {
+      "word": "backlog",
+      "mean_zipf": 3.21,
+      "occurrences": 516,
+      "messages": 408
+    },
+    {
+      "word": "powershell",
+      "mean_zipf": 2.72,
+      "occurrences": 514,
+      "messages": 316
+    },
+    {
+      "word": "babel",
+      "mean_zipf": 2.91,
+      "occurrences": 508,
+      "messages": 74
+    },
+    {
+      "word": "optimized",
+      "mean_zipf": 3.4,
+      "occurrences": 496,
+      "messages": 395
+    },
+    {
+      "word": "cowork",
+      "mean_zipf": 1.11,
+      "occurrences": 492,
+      "messages": 345
+    }
+  ],
+  "em_dash_audit": {
+    "total_em_dashes": 11363,
+    "messages_checked": 42363,
+    "per_1000_messages": 268.23
+  },
+  "contraction_rate_by_register": {
+    "ACADEMIC": {
+      "mean": 0.445,
+      "n": 1361
+    },
+    "ARGUMENTATIVE": {
+      "mean": 1.77,
+      "n": 6
+    },
+    "CASUAL": {
+      "mean": 0.742,
+      "n": 7106
+    },
+    "CREATIVE_DIRECTION": {
+      "mean": 0.419,
+      "n": 657
+    },
+    "FRUSTRATED": {
+      "mean": 0.591,
+      "n": 127
+    },
+    "INVESTIGATE": {
+      "mean": 0.385,
+      "n": 1633
+    },
+    "MECHANICAL": {
+      "mean": 0.439,
+      "n": 1680
+    },
+    "PERSONAL": {
+      "mean": 0.577,
+      "n": 610
+    },
+    "PROFESSIONAL": {
+      "mean": 0.433,
+      "n": 6403
+    },
+    "TECH": {
+      "mean": 0.294,
+      "n": 15480
+    },
+    "UNTAGGED": {
+      "mean": 0.438,
+      "n": 7300
+    }
+  },
+  "profanity_by_register": {
+    "ACADEMIC": {
+      "mean": 0.599,
+      "n": 1361
+    },
+    "ARGUMENTATIVE": {
+      "mean": 0.342,
+      "n": 6
+    },
+    "CASUAL": {
+      "mean": 1.377,
+      "n": 7106
+    },
+    "CREATIVE_DIRECTION": {
+      "mean": 0.238,
+      "n": 657
+    },
+    "FRUSTRATED": {
+      "mean": 36.334,
+      "n": 127
+    },
+    "INVESTIGATE": {
+      "mean": 0.375,
+      "n": 1633
+    },
+    "MECHANICAL": {
+      "mean": 0.518,
+      "n": 1680
+    },
+    "PERSONAL": {
+      "mean": 0.293,
+      "n": 610
+    },
+    "PROFESSIONAL": {
+      "mean": 0.407,
+      "n": 6403
+    },
+    "TECH": {
+      "mean": 0.422,
+      "n": 15480
+    },
+    "UNTAGGED": {
+      "mean": 0.199,
+      "n": 7300
+    }
+  }
+}

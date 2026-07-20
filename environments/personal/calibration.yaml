@@ -1,0 +1,318 @@
+# PERSONAL ENVIRONMENT CALIBRATION
+# Social & Family Voice
+# Version: 1.0.0
+
+---
+
+environment:
+  name: personal
+  description: "Maximum authenticity for social and family communication"
+  audience: "Friends, family, LinkedIn followers, social media"
+  
+voice_parameters:
+  formality: 4  # 1-10 scale (casual but thoughtful)
+  contraction_target: 0.85  # 85% of opportunities (as natural as spoken)
+  dash_tolerance: 3  # maximum per page
+  technical_depth: low  # Accessible to all
+  personality_integration: maximum  # Full authentic personality
+  directness: 8  # Direct but warm
+  
+metrics_targets:
+  contraction_rate:
+    minimum: 0.75
+    target: 0.85
+    maximum: 0.95
+  dash_density:
+    maximum: 3  # per page
+  sentence_length:
+    average: 12-18  # words (shorter, punchier)
+  tone:
+    warmth: high
+    approachability: maximum
+
+---
+
+adjustments:
+  # Relative to core protocols
+  relative_to_core:
+    maximum_authenticity: true
+    full_personality: true
+    conversational_flow: true
+    warm_but_not_saccharine: true
+    
+  tone_shifts:
+    from_career: "Much more casual, less achievement-focused"
+    from_work: "Less strategic, more personal connection"
+    from_dev: "Less technical, more accessible"
+    from_research: "Much less formal, conversational"
+
+---
+
+encouraged_patterns:
+  natural_transitions:
+    - "Here's the thing:"
+    - "What's interesting is"
+    - "I've been thinking about"
+    - "The way I see it:"
+    
+  personal_connection:
+    - "You know what struck me?"
+    - "This reminded me of"
+    - "I keep coming back to"
+    - "The pattern I'm seeing:"
+    
+  authentic_observations:
+    - Direct observations
+    - Personal anecdotes
+    - Specific examples from life
+    - Honest reactions
+    
+  warmth_without_gush:
+    - Genuine expressions
+    - Not over-enthusiastic
+    - Thoughtful but accessible
+    - Real emotion, not manufactured
+
+---
+
+discouraged_patterns:
+  corporate_speak:
+    - Any business buzzwords
+    - Achievement framing
+    - Metric-driven language
+    - Professional jargon
+    
+  academic_tone:
+    - Formal transitions
+    - Passive voice
+    - Hedged statements
+    - Theoretical framing
+    
+  manufactured_emotion:
+    - Excessive exclamation points
+    - Over-the-top enthusiasm
+    - Saccharine sweetness
+    - Forced positivity
+    
+  technical_density:
+    - Complex technical explanations
+    - Industry-specific terminology
+    - Code examples
+    - Academic references
+
+---
+
+forbidden_additions:
+  # PERSONAL-specific forbidden (in addition to core forbidden patterns)
+  phrases:
+    - "I'm so excited to announce"
+    - "Thrilled to share"
+    - "Humbled and honored"
+    - "Grateful for this journey"
+    - "Blessed to have"
+    
+  tone_violations:
+    - Corporate announcements
+    - Sales language
+    - Professional distance
+    - Academic formality
+
+---
+
+required_patterns:
+  authenticity_markers:
+    - High contraction rate (85%+)
+    - Conversational flow
+    - Personal observations
+    - Specific examples (not generic)
+    - Genuine reactions (not performed)
+    
+  accessibility:
+    - No unexplained jargon
+    - Clear to any reader
+    - Personal connection points
+    - Relatable examples
+
+---
+
+voice_markers:
+  # Characteristics that signal authentic PERSONAL voice
+  present:
+    - Maximum contraction rate (85%+)
+    - "I" statements (personal perspective)
+    - Conversational rhythm
+    - Specific personal examples
+    - Warm but not gushy
+    - Natural transitions
+    - Direct observations
+    
+  absent:
+    - Corporate buzzwords
+    - Professional jargon
+    - Achievement metrics
+    - Academic formality
+    - Manufactured enthusiasm
+    - Sales language
+    - Technical complexity
+
+---
+
+use_cases:
+  primary:
+    - LinkedIn posts
+    - Personal emails
+    - Family communications
+    - Social media posts
+    - Personal blog posts
+    
+  secondary:
+    - Wedding vows
+    - Family introductions
+    - Personal stories
+    - Friendship communications
+    
+  not_for:
+    - Job applications (use career)
+    - Business proposals (use work)
+    - Technical docs (use dev)
+    - Academic papers (use research)
+
+---
+
+linkedin_specifics:
+  # LinkedIn is PERSONAL environment (social/professional hybrid)
+  characteristics:
+    - Thoughtful observations
+    - Industry insights (accessible)
+    - Personal anecdotes
+    - Professional but warm
+    
+  avoid_on_linkedin:
+    - Corporate announcements
+    - Job change posts (unless requested)
+    - Promotional language
+    - Manufactured excitement
+    
+  voice_on_linkedin:
+    - "I've been noticing..."
+    - "Here's what's interesting..."
+    - "The pattern emerging..."
+    - Direct observations, personal lens
+
+---
+
+family_communications:
+  # Most intimate end of PERSONAL spectrum
+  characteristics:
+    - Maximum warmth
+    - Inside references OK
+    - Humor natural to relationship
+    - Deep personal connection
+    
+  examples:
+    - Wedding vows
+    - Family introductions
+    - Personal letters
+    - Celebration messages
+
+---
+
+examples_reference:
+  location: "environments/personal/examples/"
+  key_files:
+    - "linkedin_post_company_culture.md"
+    - "linkedin_post_industry_observation.md"
+    - "email_to_friend.md"
+    - "family_introduction.md"
+    - "wedding_vows.md"
+  
+  should_feel_like:
+    - "Talking to a friend"
+    - "Genuine and warm"
+    - "Thoughtful but accessible"
+    - "Personal without oversharing"
+
+---
+
+intensity_calibration:
+  # PERSONAL environment uses full 1-10 scale
+  level_1_to_3:
+    description: "Maximum diplomacy, warm connection"
+    use_for: "Family introductions, sensitive topics"
+    
+  level_4_to_6:
+    description: "Casual peer communication"
+    use_for: "LinkedIn posts, friend emails"
+    
+  level_7_to_9:
+    description: "Direct observations, strong opinions"
+    use_for: "Opinion posts, truth-telling"
+    
+  level_10:
+    description: "Confrontational tension"
+    use_for: "Rare, only when necessary"
+
+---
+
+quality_checks:
+  # PERSONAL-specific validation (in addition to core checks)
+  authenticity_validation:
+    - Contraction rate 80-90%
+    - No corporate buzzwords
+    - No manufactured enthusiasm
+    - Natural conversational flow
+    
+  accessibility:
+    - Readable by anyone
+    - No unexplained jargon
+    - Clear personal connection
+    - Specific not generic examples
+    
+  warmth_authenticity:
+    - Genuine not performed
+    - Warm but not gushy
+    - Personal but not oversharing
+    - Thoughtful but accessible
+
+---
+
+cross_environment_notes:
+  vs_career:
+    difference: "Much more casual, less achievement-focused"
+    similarity: "Both highly authentic, high contraction rates"
+    
+  vs_work:
+    difference: "Personal connection vs business strategy"
+    similarity: "Both maintain personality"
+    
+  vs_dev:
+    difference: "No technical depth, maximum accessibility"
+    similarity: "Both conversational, direct"
+    
+  vs_research:
+    difference: "Completely conversational, no academic elements"
+    similarity: "Both value genuine observations"
+
+---
+
+vfp_measured:
+  register: PERSONAL
+  mean_zipf: 4.4521
+  kite_skew: -1.4458
+  contraction_rate: 0.6461
+  sentence_len_mean: 13.1029
+  is_bimodal: false
+  bimodality_coefficient: 0.4047
+  profanity_rate: 0.3332
+  caps_emphasis_rate: 17.8539
+  source: "voice_profile.json (VFP-04, 2026-07-16)"
+
+---
+
+version_info:
+  version: "1.1.0"
+  created: "2026-01-22"
+  updated: "2026-07-16"
+  environment: "personal"
+  based_on: "core/protocols/MASTER_PROTOCOL.md"
+  adjustments: "Maximum authenticity for social/family contexts + VFP measurements"

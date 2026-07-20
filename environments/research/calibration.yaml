@@ -1,0 +1,294 @@
+# RESEARCH ENVIRONMENT CALIBRATION
+# Academic & Research Voice
+# Version: 1.0.0
+
+---
+
+environment:
+  name: research
+  description: "Academic writing with evidence-based precision"
+  audience: "Researchers, academics, peer reviewers, journal editors"
+  
+voice_parameters:
+  formality: 8  # 1-10 scale (academic standards)
+  contraction_target: 0.50  # 50% of opportunities (lower for academic)
+  dash_tolerance: 3  # maximum per page
+  technical_depth: high
+  personality_integration: low  # Still authentic, but professional distance
+  directness: 7  # Direct but diplomatic
+  
+metrics_targets:
+  contraction_rate:
+    minimum: 0.40
+    target: 0.50
+    maximum: 0.60
+  dash_density:
+    maximum: 3  # per page
+  citation_density:
+    required: true  # Must cite sources
+  evidence_requirement:
+    all_claims: "Must be falsifiable and evidence-based"
+
+---
+
+adjustments:
+  # Relative to core protocols
+  relative_to_core:
+    more_formal: true
+    evidence_based: "All claims require support"
+    multi_theory: "Consider competing frameworks"
+    falsifiable: "State testable predictions"
+    
+  tone_shifts:
+    from_personal: "Much more formal, evidence-based"
+    from_career: "Less achievement-focused, more theoretical"
+    from_dev: "More academic, less conversational"
+    from_work: "Less strategic, more analytical"
+
+---
+
+encouraged_patterns:
+  academic_framing:
+    - "The data suggest..."
+    - "Evidence indicates..."
+    - "Research demonstrates..."
+    - "Analysis reveals..."
+    
+  multi_theory_synthesis:
+    - "Three competing theories..."
+    - "Alternative explanations include..."
+    - "From X perspective... From Y perspective..."
+    - "Synthesizing these frameworks..."
+    
+  falsifiable_predictions:
+    - "If theory X is correct, we should observe..."
+    - "This predicts that..."
+    - "Falsification criteria:"
+    - "Testable implications:"
+    
+  evidence_based:
+    - "Data from [source] show..."
+    - "Empirical validation through..."
+    - "Measured outcomes..."
+    - "Quantified results..."
+
+---
+
+discouraged_patterns:
+  overly_casual:
+    - Excessive contractions (>60%)
+    - Colloquialisms
+    - Slang or jargon
+    - Overly personal anecdotes
+    
+  unsupported_claims:
+    - Assertions without evidence
+    - "Clearly" or "obviously" (provide evidence)
+    - Speculation without qualification
+    - Unfalsifiable statements
+    
+  single_theory:
+    - Only one explanation considered
+    - No alternative frameworks
+    - Confirmation bias evident
+    - Competing theories ignored
+
+---
+
+forbidden_additions:
+  # RESEARCH-specific forbidden (in addition to core forbidden patterns)
+  phrases:
+    - "proves beyond doubt"
+    - "irrefutable evidence"
+    - "definitively shows"
+    - "undeniably demonstrates"
+    
+  unsupported_language:
+    - Absolute claims without evidence
+    - Speculation presented as fact
+    - Single-theory explanations
+    - Unfalsifiable assertions
+
+---
+
+required_patterns:
+  evidence_requirements:
+    - All factual claims cited
+    - Data sources specified
+    - Methods documented
+    - Reproducibility enabled
+    
+  multi_theory_consideration:
+    - Minimum 3 competing theories
+    - Alternative explanations explored
+    - Synthesis attempted
+    - Limitations acknowledged
+    
+  falsifiability:
+    - Testable predictions stated
+    - Falsification criteria clear
+    - Observable implications specified
+    - Experimental design suggested
+    
+  confidence_qualifiers:
+    - ESTABLISHED (high confidence, replicated)
+    - PROVISIONAL (supported but not replicated)
+    - SPECULATIVE (theory-based, needs testing)
+
+---
+
+voice_markers:
+  # Characteristics that signal authentic RESEARCH voice
+  present:
+    - Moderate contraction rate (40-60%)
+    - Evidence citations throughout
+    - Multi-theory consideration
+    - Falsifiable predictions
+    - Confidence qualifiers
+    - Methodological rigor
+    - Some passive voice (acceptable in academic)
+    
+  absent:
+    - Absolute unsupported claims
+    - Single-theory bias
+    - Unfalsifiable statements
+    - Excessive casualness
+    - Personal anecdotes without data
+    - Speculation as fact
+
+---
+
+use_cases:
+  primary:
+    - Academic papers
+    - Research notes
+    - Literature reviews
+    - Grant proposals
+    - Conference papers
+    
+  secondary:
+    - Peer review comments
+    - Academic correspondence
+    - Research proposals
+    - Methodology documentation
+    
+  not_for:
+    - Technical docs (use dev)
+    - Job applications (use career)
+    - Business proposals (use work)
+    - Social media (use personal)
+
+---
+
+structure_requirements:
+  academic_papers:
+    structure: "Abstract → Intro → Methods → Results → Discussion → Conclusion"
+    not: "Bullet point summaries with headers"
+    
+  citations:
+    format: "Author (Year) or (Author, Year)"
+    required: "All factual claims"
+    style: "Consistent throughout"
+    
+  methodology:
+    detail: "Sufficient for reproduction"
+    clarity: "Step-by-step if needed"
+    justification: "Why this approach"
+
+---
+
+examples_reference:
+  location: "environments/research/examples/"
+  key_files:
+    - "paper_introduction_example.md"
+    - "methodology_section_example.md"
+    - "literature_review_example.md"
+  
+  should_feel_like:
+    - "Rigorous but readable"
+    - "Evidence-based throughout"
+    - "Multi-theory consideration"
+    - "Falsifiable predictions"
+
+---
+
+quality_checks:
+  # RESEARCH-specific validation (in addition to core checks)
+  evidence_validation:
+    - All claims cited or qualified
+    - Data sources specified
+    - Methods reproducible
+    - Limitations acknowledged
+    
+  multi_theory_check:
+    - Multiple frameworks considered
+    - Alternative explanations explored
+    - Synthesis attempted
+    - Competing theories acknowledged
+    
+  falsifiability_check:
+    - Predictions testable
+    - Criteria stated
+    - Observable implications clear
+    - Unfalsifiable claims removed
+
+---
+
+cross_environment_notes:
+  vs_dev:
+    difference: "More formal, academic standards"
+    similarity: "Both value precision and evidence"
+    
+  vs_career:
+    difference: "Theoretical vs achievement-focused"
+    similarity: "Both require evidence and specificity"
+    
+  vs_personal:
+    difference: "Much more formal, evidence-based"
+    similarity: "Both maintain some authentic voice"
+    
+  vs_work:
+    difference: "Analytical vs strategic"
+    similarity: "Both professional, evidence-based"
+
+---
+
+integration_with_research_environment:
+  # Links to D:\Research\ environment
+  crash_prevention:
+    - BUILD_STATUS.md updates every 3 tool calls
+    - ASCII-only in system files
+    - 500-line read maximum
+    - 200-line write maximum
+    - Long session protocols active
+    
+  quality_gates:
+    - Locked constants validation
+    - Terminology standards
+    - Protocol version sync
+    - Empirical validation requirements
+
+---
+
+vfp_measured:
+  register: ACADEMIC
+  mean_zipf: 4.3314
+  kite_skew: -1.5371
+  contraction_rate: 0.4384
+  sentence_len_mean: 16.8485
+  is_bimodal: true
+  bimodality_coefficient: 0.7065
+  profanity_rate: 0.6112
+  caps_emphasis_rate: 17.4819
+  source: "voice_profile.json (VFP-04, 2026-07-16)"
+
+---
+
+version_info:
+  version: "1.1.0"
+  created: "2026-01-22"
+  updated: "2026-07-16"
+  environment: "research"
+  based_on: "core/protocols/MASTER_PROTOCOL.md"
+  adjustments: "Academic research context + VFP measurements"
+  integrates_with: "D:/Research/ environment (HIRM, FINE PRINT)"

@@ -1,0 +1,362 @@
+{
+  "total_messages": 42363,
+  "total_words": 4503130,
+  "registers": {
+    "TECH": {
+      "message_count": 12887,
+      "message_pct": 30.42,
+      "word_count": 2334734,
+      "word_pct": 51.85,
+      "mean_message_length": 181.2,
+      "median_message_length": 41,
+      "earliest": "2024-02-29T23:56:36.333535+00:00",
+      "latest": "2026-06-18T00:37:37.117071+00:00"
+    },
+    "UNTAGGED": {
+      "message_count": 12230,
+      "message_pct": 28.87,
+      "word_count": 603880,
+      "word_pct": 13.41,
+      "mean_message_length": 49.4,
+      "median_message_length": 23.0,
+      "earliest": "2024-03-06T16:15:28.722652+00:00",
+      "latest": "2026-06-18T00:20:32.946052+00:00"
+    },
+    "CASUAL": {
+      "message_count": 7106,
+      "message_pct": 16.77,
+      "word_count": 52425,
+      "word_pct": 1.16,
+      "mean_message_length": 7.4,
+      "median_message_length": 4.0,
+      "earliest": "2024-03-01T00:17:24.812614+00:00",
+      "latest": "2026-06-16T20:37:36.151283+00:00"
+    },
+    "PROFESSIONAL": {
+      "message_count": 5254,
+      "message_pct": 12.4,
+      "word_count": 937135,
+      "word_pct": 20.81,
+      "mean_message_length": 178.4,
+      "median_message_length": 29.0,
+      "earliest": "2024-02-28T16:51:48.091591+00:00",
+      "latest": "2026-06-13T22:06:18.298814+00:00"
+    },
+    "MECHANICAL": {
+      "message_count": 1504,
+      "message_pct": 3.55,
+      "word_count": 184023,
+      "word_pct": 4.09,
+      "mean_message_length": 122.4,
+      "median_message_length": 23.0,
+      "earliest": "2024-10-15T19:38:29.335051+00:00",
+      "latest": "2026-06-16T23:39:04.369905+00:00"
+    },
+    "INVESTIGATE": {
+      "message_count": 1287,
+      "message_pct": 3.04,
+      "word_count": 118151,
+      "word_pct": 2.62,
+      "mean_message_length": 91.8,
+      "median_message_length": 21,
+      "earliest": "2024-08-28T22:50:10.657628+00:00",
+      "latest": "2026-06-08T07:02:58.782237+00:00"
+    },
+    "ACADEMIC": {
+      "message_count": 881,
+      "message_pct": 2.08,
+      "word_count": 68175,
+      "word_pct": 1.51,
+      "mean_message_length": 77.4,
+      "median_message_length": 20,
+      "earliest": "2025-05-30T01:20:14.721000+00:00",
+      "latest": "2026-06-13T07:33:29.368911+00:00"
+    },
+    "PERSONAL": {
+      "message_count": 557,
+      "message_pct": 1.31,
+      "word_count": 87927,
+      "word_pct": 1.95,
+      "mean_message_length": 157.9,
+      "median_message_length": 38,
+      "earliest": "2024-08-30T01:05:22.897284+00:00",
+      "latest": "2026-06-05T23:26:47.091249+00:00"
+    },
+    "CREATIVE_DIRECTION": {
+      "message_count": 530,
+      "message_pct": 1.25,
+      "word_count": 97455,
+      "word_pct": 2.16,
+      "mean_message_length": 183.9,
+      "median_message_length": 22.0,
+      "earliest": "2024-06-25T21:55:59.329563+00:00",
+      "latest": "2026-07-09T19:06:59.284511+00:00"
+    },
+    "FRUSTRATED": {
+      "message_count": 127,
+      "message_pct": 0.3,
+      "word_count": 19225,
+      "word_pct": 0.43,
+      "mean_message_length": 151.4,
+      "median_message_length": 38,
+      "earliest": "2025-03-14T06:31:50.317000+00:00",
+      "latest": "2026-06-18T00:17:56.623957+00:00"
+    }
+  },
+  "cross_tabulation": {
+    "TECH": {
+      "ais_master_data": 0,
+      "ais_profile_master": 0,
+      "career_voice": 0,
+      "claude_chat": 10944,
+      "essays": 0,
+      "gpt_chat": 1943,
+      "sms": 0,
+      "throwbak": 0
+    },
+    "UNTAGGED": {
+      "ais_master_data": 0,
+      "ais_profile_master": 0,
+      "career_voice": 0,
+      "claude_chat": 7824,
+      "essays": 0,
+      "gpt_chat": 4406,
+      "sms": 0,
+      "throwbak": 0
+    },
+    "CASUAL": {
+      "ais_master_data": 0,
+      "ais_profile_master": 0,
+      "career_voice": 0,
+      "claude_chat": 3530,
+      "essays": 0,
+      "gpt_chat": 1975,
+      "sms": 1601,
+      "throwbak": 0
+    },
+    "PROFESSIONAL": {
+      "ais_master_data": 15,
+      "ais_profile_master": 39,
+      "career_voice": 4,
+      "claude_chat": 3896,
+      "essays": 0,
+      "gpt_chat": 1279,
+      "sms": 0,
+      "throwbak": 21
+    },
+    "MECHANICAL": {
+      "ais_master_data": 0,
+      "ais_profile_master": 0,
+      "career_voice": 0,
+      "claude_chat": 864,
+      "essays": 0,
+      "gpt_chat": 640,
+      "sms": 0,
+      "throwbak": 0
+    },
+    "INVESTIGATE": {
+      "ais_master_data": 0,
+      "ais_profile_master": 0,
+      "career_voice": 0,
+      "claude_chat": 1176,
+      "essays": 0,
+      "gpt_chat": 111,
+      "sms": 0,
+      "throwbak": 0
+    },
+    "ACADEMIC": {
+      "ais_master_data": 0,
+      "ais_profile_master": 0,
+      "career_voice": 0,
+      "claude_chat": 599,
+      "essays": 0,
+      "gpt_chat": 264,
+      "sms": 0,
+      "throwbak": 18
+    },
+    "PERSONAL": {
+      "ais_master_data": 0,
+      "ais_profile_master": 0,
+      "career_voice": 0,
+      "claude_chat": 352,
+      "essays": 0,
+      "gpt_chat": 52,
+      "sms": 8,
+      "throwbak": 145
+    },
+    "CREATIVE_DIRECTION": {
+      "ais_master_data": 0,
+      "ais_profile_master": 0,
+      "career_voice": 16,
+      "claude_chat": 328,
+      "essays": 6,
+      "gpt_chat": 173,
+      "sms": 0,
+      "throwbak": 7
+    },
+    "FRUSTRATED": {
+      "ais_master_data": 0,
+      "ais_profile_master": 0,
+      "career_voice": 0,
+      "claude_chat": 99,
+      "essays": 0,
+      "gpt_chat": 28,
+      "sms": 0,
+      "throwbak": 0
+    }
+  },
+  "untagged_analysis": {
+    "top_titles": [
+      {
+        "title": "Execute handoff documentation",
+        "count": 126
+      },
+      {
+        "title": "File execution request",
+        "count": 112
+      },
+      {
+        "title": "The Syntheon..?",
+        "count": 98
+      },
+      {
+        "title": "(no title)",
+        "count": 95
+      },
+      {
+        "title": "Building a forum blueprint for Limen",
+        "count": 84
+      },
+      {
+        "title": "Managing runaway nodes and memory resources",
+        "count": 82
+      },
+      {
+        "title": "Research brief kickoff",
+        "count": 79
+      },
+      {
+        "title": "Comparing TEA role candidates for sales positions",
+        "count": 77
+      },
+      {
+        "title": "Building Mission Control dashboard view",
+        "count": 72
+      },
+      {
+        "title": "Repositioning Justin's Role",
+        "count": 72
+      },
+      {
+        "title": "profile with QR codes",
+        "count": 69
+      },
+      {
+        "title": "Monetizing subpremium domains with affiliate content",
+        "count": 63
+      },
+      {
+        "title": "Email template handoff documentation",
+        "count": 63
+      },
+      {
+        "title": "Syntheon Medical Device Innovation",
+        "count": 60
+      },
+      {
+        "title": "Bridge manual instruction design progress",
+        "count": 54
+      },
+      {
+        "title": "Optimizing Claude for creative workflows and companionship",
+        "count": 53
+      },
+      {
+        "title": "Setting up Fiverr seller account for web design and ERP services",
+        "count": 53
+      },
+      {
+        "title": "Cap rotor installation tips",
+        "count": 51
+      },
+      {
+        "title": "Homepage foundation and Japan page design audit",
+        "count": 49
+      },
+      {
+        "title": "Automatic model switching during chat processing",
+        "count": 49
+      }
+    ]
+  },
+  "candidate_new_registers": [
+    {
+      "title": "Execute handoff documentation",
+      "count": 126
+    },
+    {
+      "title": "File execution request",
+      "count": 112
+    },
+    {
+      "title": "The Syntheon..?",
+      "count": 98
+    },
+    {
+      "title": "Building a forum blueprint for Limen",
+      "count": 84
+    },
+    {
+      "title": "Managing runaway nodes and memory resources",
+      "count": 82
+    },
+    {
+      "title": "Research brief kickoff",
+      "count": 79
+    },
+    {
+      "title": "Comparing TEA role candidates for sales positions",
+      "count": 77
+    },
+    {
+      "title": "Building Mission Control dashboard view",
+      "count": 72
+    },
+    {
+      "title": "Repositioning Justin's Role",
+      "count": 72
+    },
+    {
+      "title": "profile with QR codes",
+      "count": 69
+    },
+    {
+      "title": "Monetizing subpremium domains with affiliate content",
+      "count": 63
+    },
+    {
+      "title": "Email template handoff documentation",
+      "count": 63
+    },
+    {
+      "title": "Syntheon Medical Device Innovation",
+      "count": 60
+    },
+    {
+      "title": "Bridge manual instruction design progress",
+      "count": 54
+    },
+    {
+      "title": "Optimizing Claude for creative workflows and companionship",
+      "count": 53
+    },
+    {
+      "title": "Setting up Fiverr seller account for web design and ERP services",
+      "count": 53
+    },
+    {
+      "title": "Cap rotor installation tips",
+      "count": 51
+    }
+  ]
+}

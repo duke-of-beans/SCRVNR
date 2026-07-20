@@ -1,0 +1,190 @@
+# CREATIVE DIRECTION ENVIRONMENT CALIBRATION
+# Design & Creative Leadership Voice
+# Version: 1.0.0
+
+---
+
+environment:
+  name: creative_direction
+  description: "Design direction, brand voice, creative leadership communication"
+  audience: "Designers, creative teams, brand stakeholders"
+  
+voice_parameters:
+  formality: 5  # 1-10 scale (creative but precise)
+  contraction_target: 0.41  # 41% of opportunities
+  dash_tolerance: 3  # maximum per page
+  technical_depth: moderate  # Design-specific precision
+  personality_integration: high  # Creative vision requires personality
+  directness: 8  # Direct creative direction
+
+metrics_targets:
+  contraction_rate:
+    minimum: 0.35
+    target: 0.41
+    maximum: 0.50
+  dash_density:
+    maximum: 3  # per page
+  sentence_length:
+    average: 12-16  # words (shorter, visual-thinking rhythm)
+  hyphen_rate:
+    note: "Highest of all registers (12.6/1k) — compound descriptors"
+
+---
+
+adjustments:
+  relative_to_core:
+    visual_thinking: true
+    brand_precision: "Exact color names, font names, spacing values"
+    design_vocabulary: "Typography, layout, UX terms"
+    less_profanity: "Lowest profanity rate (0.25/1k)"
+    
+  tone_shifts:
+    from_dev: "More visual, less code-focused"
+    from_work: "More aesthetic, less strategic"
+    from_personal: "More precise, less casual"
+    from_research: "More intuitive, less academic"
+
+---
+
+encouraged_patterns:
+  design_specificity:
+    - Exact font names (Fraunces, Inter, etc.)
+    - Color values and palette references
+    - Spacing and layout measurements
+    - Typography terms (descender, parallax, wordmark)
+    
+  creative_direction:
+    - "The feel should be..."
+    - "Visual hierarchy here:"
+    - "The typography needs to..."
+    - "White space is doing..."
+    
+  brand_alignment:
+    - Reference specific brand guidelines
+    - Named design systems
+    - Consistent terminology
+    - Visual language descriptions
+
+---
+
+discouraged_patterns:
+  vague_aesthetics:
+    - "Make it pop" (how?)
+    - "Clean and modern" (specify)
+    - "Professional look" (what elements?)
+    - "Nice design" (which aspects?)
+    
+  non_specific_feedback:
+    - "I don't like it" (what specifically?)
+    - "Something feels off" (identify it)
+    - "Try something different" (direction needed)
+
+---
+
+forbidden_additions:
+  phrases:
+    - "make it pop"
+    - "clean and modern"
+    - "best practices say"
+    - "industry standard"
+    - "cutting edge design"
+
+---
+
+required_patterns:
+  design_communication:
+    - Specific visual elements named
+    - Exact measurements when relevant
+    - Typography choices justified
+    - Color decisions explained
+
+---
+
+voice_markers:
+  present:
+    - Moderate contraction rate (~41%)
+    - Highest hyphen rate (12.6/1k) — compound descriptors
+    - Design-specific vocabulary
+    - Moderate caps emphasis (13.0/1k)
+    - Bimodal sentences — short directives + longer explanations
+    - Lowest profanity of all registers
+    
+  absent:
+    - Vague aesthetic language
+    - Generic design buzzwords
+    - Academic formality
+    - Excessive technical jargon (non-design)
+
+---
+
+use_cases:
+  primary:
+    - Brand guidelines
+    - Design system documentation
+    - Creative briefs
+    - Visual direction feedback
+    - UX copy direction
+    
+  not_for:
+    - Code implementation (use dev)
+    - Academic analysis (use research)
+    - Business strategy (use work)
+
+---
+
+examples_reference:
+  location: "environments/creative_direction/examples/"
+  should_feel_like:
+    - "Art director giving clear feedback"
+    - "Precise visual language"
+    - "Design-literate, not design-jargon"
+    - "Creative vision with specifics"
+
+---
+
+quality_checks:
+  design_accuracy:
+    - Font names correct
+    - Color values valid
+    - Layout descriptions clear
+    - Typography terms used correctly
+    
+  voice_authenticity:
+    - Contraction rate 38-48%
+    - Compound descriptors present
+    - Design vocabulary natural
+    - No vague aesthetic language
+
+---
+
+cross_environment_notes:
+  vs_dev:
+    difference: "Visual systems vs code systems"
+    similarity: "Both precise, specific"
+    
+  vs_personal:
+    difference: "More precise, design-focused"
+    similarity: "Both authentic, personality present"
+
+---
+
+vfp_measured:
+  register: CREATIVE_DIRECTION
+  mean_zipf: 4.4455
+  kite_skew: -1.9763
+  contraction_rate: 0.4122
+  sentence_len_mean: 13.9922
+  is_bimodal: true
+  bimodality_coefficient: 0.6548
+  profanity_rate: 0.2509
+  caps_emphasis_rate: 13.0161
+  source: "voice_profile.json (VFP-04, 2026-07-16)"
+
+---
+
+version_info:
+  version: "1.0.0"
+  created: "2026-07-16"
+  environment: "creative_direction"
+  based_on: "core/protocols/MASTER_PROTOCOL.md"
+  adjustments: "Creative direction context with VFP measurements"

@@ -1,0 +1,52 @@
+{
+  "generated_at": "2026-07-15T00:59:07.362391",
+  "total_messages": 42363,
+  "total_words": 4503130,
+  "corpus_file": "D:\\Projects\\SCRVNR\\research\\voice_fingerprint\\raw_corpus.jsonl",
+  "by_source": {
+    "ais_master_data": {
+      "messages": 15,
+      "words": 42606,
+      "errors": 0
+    },
+    "ais_profile_master": {
+      "messages": 39,
+      "words": 251360,
+      "errors": 0
+    },
+    "career_voice": {
+      "messages": 20,
+      "words": 33226,
+      "errors": 0
+    },
+    "claude_chat": {
+      "messages": 29612,
+      "words": 2092894,
+      "errors": 0
+    },
+    "essays": {
+      "messages": 6,
+      "words": 25117,
+      "errors": 0
+    },
+    "gpt_chat": {
+      "messages": 10871,
+      "words": 1946243,
+      "errors": 0
+    },
+    "sms": {
+      "messages": 1609,
+      "words": 20891,
+      "errors": 0
+    },
+    "throwbak": {
+      "messages": 191,
+      "words": 90793,
+      "errors": 0
+    }
+  },
+  "patched_docx": {
+    "files": 15,
+    "words": 9518
+  }
+}

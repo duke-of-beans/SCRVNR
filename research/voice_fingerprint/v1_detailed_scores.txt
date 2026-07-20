@@ -1,0 +1,18 @@
+ORIGINAL ESSAY SCORES (v1)
+
+Word count: 2307
+
+INVESTIGATE: overall=0.4186 rarity=0.3901 rhythm=0.2807 style=0.5947
+ARGUMENTATIVE: overall=0.4085 rarity=0.5235 rhythm=0.1079 style=0.5558
+CREATIVE_DIRECTION: overall=0.4735 rarity=0.4495 rhythm=0.2790 style=0.7000
+PROFESSIONAL: overall=0.4449 rarity=0.4420 rhythm=0.1936 style=0.7000
+
+Contraction count: 32
+Contraction rate: 1.4%
+Em-dash count: 0
+Sentence count: 235
+Mean sentence length: 9.8
+Min/Max: 1/44
+Std: 7.4
+Short sentences (<=6 words): 95 (40.4%)
+Long sentences (>=25 words): 9 (3.8%)

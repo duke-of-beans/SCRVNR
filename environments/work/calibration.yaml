@@ -1,0 +1,288 @@
+# WORK ENVIRONMENT CALIBRATION
+# Business Communication Voice
+# Version: 1.0.0
+
+---
+
+environment:
+  name: work
+  description: "Professional business communication with personality"
+  audience: "Clients, business partners, investors, board members"
+  
+voice_parameters:
+  formality: 7  # 1-10 scale (professional with character)
+  contraction_target: 0.75  # 75% of opportunities
+  dash_tolerance: 3  # maximum per page
+  technical_depth: moderate  # Business-accessible
+  personality_integration: high  # Strategic with personality
+  directness: 8  # Direct, results-focused
+  
+metrics_targets:
+  contraction_rate:
+    minimum: 0.65
+    target: 0.75
+    maximum: 0.85
+  dash_density:
+    maximum: 3  # per page
+  results_focus:
+    required: true  # Business outcomes emphasized
+  strategic_framing:
+    required: true  # Connect to bigger picture
+
+---
+
+adjustments:
+  # Relative to core protocols
+  relative_to_core:
+    results_focused: true
+    strategic_framing: true
+    business_outcomes: "Emphasized throughout"
+    professional_with_personality: true
+    
+  tone_shifts:
+    from_personal: "More strategic, less casual"
+    from_career: "Business outcomes vs individual achievement"
+    from_dev: "Business language vs technical depth"
+    from_research: "Strategic vs analytical"
+
+---
+
+encouraged_patterns:
+  strategic_framing:
+    - "This positions us to..."
+    - "The opportunity here is..."
+    - "Strategic value:"
+    - "Market implications:"
+    
+  results_language:
+    - "Revenue impact:"
+    - "Cost reduction:"
+    - "Market expansion:"
+    - "Operational efficiency:"
+    
+  business_outcomes:
+    - "Customer acquisition:"
+    - "Retention improvement:"
+    - "Margin enhancement:"
+    - "Competitive advantage:"
+    
+  confident_positioning:
+    - "We've proven..."
+    - "Track record shows..."
+    - "Demonstrated results:"
+    - "Delivered outcomes:"
+
+---
+
+discouraged_patterns:
+  corporate_fluff:
+    - "Synergies", "leverage", "move the needle"
+    - "Circle back", "touch base", "alignment"
+    - "Low hanging fruit", "think outside the box"
+    - "Best practices", "world-class"
+    
+  vague_strategy:
+    - "Optimize operations" (how?)
+    - "Improve performance" (by what metric?)
+    - "Drive growth" (which levers?)
+    - "Enhance value" (quantify it)
+    
+  over_promising:
+    - "Guaranteed results"
+    - "Risk-free approach"
+    - "Can't fail strategy"
+    - "Unlimited potential"
+
+---
+
+forbidden_additions:
+  # WORK-specific forbidden (in addition to core forbidden patterns)
+  phrases:
+    - "paradigm shift"
+    - "game changer"
+    - "disruptive innovation"
+    - "bleeding edge"
+    - "mission critical"
+    - "scalable solution"
+    - "robust framework"
+    - "strategic imperative"
+
+---
+
+required_patterns:
+  business_outcomes:
+    - Connect to revenue/cost/margin
+    - Quantify impact when possible
+    - Strategic rationale clear
+    - Market context provided
+    
+  results_orientation:
+    - Outcomes over activities
+    - Metrics over descriptions
+    - Value creation explicit
+    - ROI considerations
+    
+  strategic_thinking:
+    - Connect to bigger picture
+    - Competitive positioning
+    - Market dynamics
+    - Long-term implications
+
+---
+
+voice_markers:
+  # Characteristics that signal authentic WORK voice
+  present:
+    - High contraction rate (75%)
+    - Results-focused language
+    - Strategic framing
+    - Business outcomes emphasized
+    - Professional with personality
+    - Confident positioning
+    
+  absent:
+    - Corporate buzzwords
+    - Vague strategy statements
+    - Over-promising
+    - Fluff without substance
+    - Passive constructions
+    - Hedging qualifiers
+
+---
+
+use_cases:
+  primary:
+    - Business proposals
+    - Client communications
+    - Investor updates
+    - Board presentations
+    - Strategic plans
+    
+  secondary:
+    - Partnership discussions
+    - Vendor negotiations
+    - Executive briefings
+    - Market analyses
+    
+  not_for:
+    - Job applications (use career)
+    - Technical docs (use dev)
+    - Academic papers (use research)
+    - Social posts (use personal)
+
+---
+
+document_types:
+  proposals:
+    structure: "Problem → Solution → Results → Investment"
+    emphasis: "Value creation, ROI, strategic fit"
+    
+  client_communications:
+    tone: "Professional peer, results-focused"
+    emphasis: "Outcomes, next steps, value delivered"
+    
+  investor_updates:
+    structure: "Progress → Metrics → Strategy → Outlook"
+    emphasis: "Traction, efficiency, market position"
+    
+  board_presentations:
+    tone: "Executive peer, strategic focus"
+    emphasis: "Big picture, decisions needed, trajectory"
+
+---
+
+examples_reference:
+  location: "environments/work/examples/"
+  key_files:
+    - "business_proposal_example.md"
+    - "investor_update_example.md"
+    - "client_communication_example.md"
+    - "board_presentation_example.md"
+  
+  should_feel_like:
+    - "Strategic peer communication"
+    - "Results-focused, not fluff"
+    - "Professional with character"
+    - "Confident, not arrogant"
+
+---
+
+quality_checks:
+  # WORK-specific validation (in addition to core checks)
+  results_validation:
+    - Business outcomes specified
+    - Metrics provided when possible
+    - Strategic rationale clear
+    - Value creation explicit
+    
+  voice_authenticity:
+    - Contraction rate 70-80%
+    - No corporate buzzwords
+    - No vague strategy
+    - Results-focused throughout
+    
+  professional_polish:
+    - Client-ready presentation
+    - Strategic framing present
+    - Confident positioning
+    - Clear next steps
+
+---
+
+cross_environment_notes:
+  vs_personal:
+    difference: "Business strategy vs personal connection"
+    similarity: "Both maintain personality and authenticity"
+    
+  vs_career:
+    difference: "Business outcomes vs individual achievement"
+    similarity: "Both results-focused, high contraction rates"
+    
+  vs_dev:
+    difference: "Business language vs technical depth"
+    similarity: "Both direct and specific"
+    
+  vs_research:
+    difference: "Strategic vs analytical"
+    similarity: "Both evidence-based, outcomes-focused"
+
+---
+
+business_context_specifics:
+  thiccles:
+    focus: "Product positioning, market opportunity, distribution"
+    
+  clutch_plug:
+    status: "Closed Nov 2025 (Farm Bill changes)"
+    historical: "~90% automation, white-label model"
+    
+  apex_north:
+    focus: "Cannabis consulting, AI as force multiplier"
+    
+  estrella_vista:
+    focus: "44-acre development, pre-development phase"
+
+---
+
+vfp_measured:
+  register: PROFESSIONAL
+  mean_zipf: 4.4689
+  kite_skew: -1.615
+  contraction_rate: 0.41
+  sentence_len_mean: 14.9211
+  is_bimodal: true
+  bimodality_coefficient: 0.5765
+  profanity_rate: 0.4141
+  caps_emphasis_rate: 12.4982
+  source: "voice_profile.json (VFP-04, 2026-07-16)"
+
+---
+
+version_info:
+  version: "1.1.0"
+  created: "2026-01-22"
+  updated: "2026-07-16"
+  environment: "work"
+  based_on: "core/protocols/MASTER_PROTOCOL.md"
+  adjustments: "Business communication context + VFP measurements"
+  integrates_with: "D:/Work/ environment (future)"

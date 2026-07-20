@@ -1,0 +1,323 @@
+# CAREER ENVIRONMENT CALIBRATION
+# Professional Application Voice
+# Version: 1.0.0
+
+---
+
+environment:
+  name: career
+  description: "Professional but authentic application materials"
+  audience: "Recruiters, hiring managers, executives"
+  
+voice_parameters:
+  formality: 7  # 1-10 scale (professional but not stiff)
+  contraction_target: 0.75  # 75% of opportunities
+  dash_tolerance: 3  # maximum per page
+  technical_depth: moderate  # Balance technical with accessible
+  personality_integration: high  # Let authentic personality show
+  directness: 9  # Very direct, no fluff
+  
+metrics_targets:
+  contraction_rate:
+    minimum: 0.60
+    target: 0.75
+    maximum: 0.85
+  dash_density:
+    maximum: 3  # per page
+  achievement_density:
+    minimum: 2  # specific achievements per role/section
+  metric_inclusion:
+    required: true  # Must quantify results
+
+---
+
+adjustments:
+  # Relative to core protocols
+  relative_to_core:
+    more_achievement_focused: true
+    more_metric_driven: true
+    more_specific_examples: true
+    less_hedging: "Complete removal of qualifiers"
+    
+  tone_shifts:
+    from_personal: "More professional, achievement-focused"
+    from_dev: "Less technical depth, broader accessibility"
+    from_work: "More individual accomplishment vs business strategy"
+    from_research: "Much more conversational, less academic"
+
+---
+
+encouraged_patterns:
+  achievement_framing:
+    - "Hit [specific metric]"
+    - "Grew [X] to [Y]"
+    - "Reduced [problem] by [amount]"
+    - "Built [thing] that [result]"
+    
+  direct_impact:
+    - "Led [initiative] → [outcome]"
+    - "Owned [responsibility], delivered [result]"
+    - "Ran [operation], achieving [metric]"
+    - "Transformed [before] into [after]"
+    
+  personality_integration:
+    - Brief philosophy statements
+    - "Happy people make more products" (if relevant)
+    - Retention/culture mentions
+    - Working style descriptors
+    
+  expert_peer_positioning:
+    - Assume reader expertise
+    - No teaching or explaining basics
+    - Industry shorthand OK
+    - Direct communication
+
+---
+
+discouraged_patterns:
+  buzzwords:
+    - "spearheaded", "leveraged", "synergies"
+    - "passionate about", "results-driven"
+    - "team player", "detail-oriented"
+    - "self-starter", "go-getter"
+    
+  vague_claims:
+    - "Managed projects" (what projects? what results?)
+    - "Responsible for operations" (what outcomes?)
+    - "Worked with teams" (what did you build?)
+    - "Helped improve" (by how much?)
+    
+  over_qualification:
+    - "I believe", "I think", "In my experience"
+    - "Perhaps", "Maybe", "Possibly"
+    - "Somewhat", "Rather", "Quite"
+    
+  teaching_tone:
+    - "Let me explain my approach"
+    - "As you may know"
+    - "For context"
+    - "In other words"
+
+---
+
+forbidden_additions:
+  # CAREER-specific forbidden (in addition to core forbidden patterns)
+  phrases:
+    - "proven track record"
+    - "dynamic professional"
+    - "think outside the box"
+    - "hit the ground running"
+    - "wear many hats"
+    - "fast-paced environment"
+    - "low hanging fruit"
+    - "move the needle"
+    
+  weak_verbs:
+    replace:
+      achieved: "hit"
+      managed: "ran, owned, handled"
+      coordinated: "ran"
+      oversaw: "ran, owned"
+      facilitated: "ran"
+      utilized: "used"
+      responsible_for: "owned, ran"
+
+---
+
+required_patterns:
+  metrics:
+    - All achievements quantified
+    - Before → After numbers
+    - Growth percentages
+    - Team sizes
+    - Revenue/cost impact
+    - Time frames specified
+    
+  specificity:
+    - Exact technologies/systems
+    - Specific industries/products
+    - Named methodologies
+    - Concrete examples
+    
+  departure_reasons:
+    - Woven into final bullet
+    - Not separate italicized line
+    - Matter-of-fact tone
+    - Brief explanation
+
+---
+
+voice_markers:
+  # Characteristics that signal authentic CAREER voice
+  present:
+    - High contraction rate (75%+)
+    - Metric-driven achievements
+    - Specific examples over general claims
+    - Direct language ("Hit X", "Ran Y")
+    - Personality woven in naturally
+    - Expert-to-expert positioning
+    
+  absent:
+    - Corporate buzzwords
+    - Weak verbs (achieved, managed, coordinated)
+    - Vague responsibilities
+    - Teaching/explaining tone
+    - Hedging qualifiers
+    - Third-person self-references
+
+---
+
+use_cases:
+  primary:
+    - Resumes
+    - Cover letters
+    - LinkedIn about section
+    - Professional bios
+    - Executive summaries
+    
+  secondary:
+    - Networking emails
+    - Recruiter responses
+    - Application questionnaires
+    - Professional introductions
+    
+  not_for:
+    - Technical documentation (use dev)
+    - Academic writing (use research)
+    - Client proposals (use work)
+    - Personal communications (use personal)
+
+---
+
+structure_variants:
+  cover_letters:
+    variant_a_why_what_who:
+      for: "Founder-adjacent, CEO-reporting, <50 employees"
+      structure: "Philosophy → Operational proof → Character"
+      
+    variant_b_technical_proof:
+      for: "Director-level, 70%+ technical JD requirements"
+      structure: "Exact job experience → Secondary proof → Philosophy"
+      
+    variant_c_transparency:
+      for: "Career pivot, non-traditional background"
+      structure: "Address elephant → Why advantage → Proof"
+      
+    variant_d_wild_card:
+      for: "EA/CoS without traditional pedigree"
+      structure: "Acknowledge non-traditional → Reframe as advantage → Proof"
+  
+  resumes:
+    chronological_completeness:
+      minimum: "Roles back to ~2013"
+      required_coverage: "No major unexplained gaps"
+      earlier_experience: "Brief 1-2 line entries"
+
+---
+
+personality_integration_levels:
+  level_4_prominent:
+    for: "EA, CoS, Right-Hand roles"
+    includes:
+      - "Happy people make more products philosophy"
+      - Working style descriptors
+      - Retention explanations
+      - Values statements
+      - "No job too small" mentions
+    placement: "2-3 dedicated sentences in cover letter"
+    
+  level_3_moderate:
+    for: "Director, VP, Head of"
+    includes: "Leadership approach, team philosophy"
+    placement: "Natural weave in cover letter"
+    
+  level_2_light:
+    for: "Manager, Senior IC"
+    approach: "Personality implied through voice"
+    
+  level_1_minimal:
+    for: "Technical, Entry, Coordinator"
+    approach: "Let authentic voice do the work"
+
+---
+
+examples_reference:
+  location: "environments/career/examples/"
+  key_files:
+    - "cover_letter_founder_adjacent.md"
+    - "cover_letter_technical_director.md"
+    - "resume_vp_operations.md"
+    - "linkedin_professional_summary.md"
+  
+  should_feel_like:
+    - "Peer talking to peer"
+    - "Confident without arrogance"
+    - "Metric-driven but not sterile"
+    - "Professional with personality"
+
+---
+
+quality_checks:
+  # CAREER-specific validation (in addition to core checks)
+  achievement_validation:
+    - All metrics verified against locked_metrics.json
+    - No fabricated accomplishments
+    - Dates accurate (cross-reference master files)
+    - Job titles correct
+    
+  voice_authenticity:
+    - Contraction rate 70-80%
+    - No buzzwords present
+    - No weak verbs
+    - Expert audience respected
+    - Personality appropriate to role level
+    
+  factual_accuracy:
+    - All companies named correctly
+    - All technologies spelled correctly
+    - All departures reasons accurate
+    - No unsoftened figures (if non-cannabis target)
+
+---
+
+cross_environment_notes:
+  vs_personal:
+    difference: "More achievement-focused, less casual"
+    similarity: "Both highly authentic, high contraction rates"
+    
+  vs_work:
+    difference: "Individual accomplishment vs business strategy"
+    similarity: "Professional with personality, results-focused"
+    
+  vs_dev:
+    difference: "Broader accessibility, less code-focused"
+    similarity: "Both maintain directness and specificity"
+    
+  vs_research:
+    difference: "Much more conversational, metric-driven"
+    similarity: "Both value precision and evidence"
+
+---
+
+vfp_measured:
+  register: PROFESSIONAL
+  mean_zipf: 4.4689
+  kite_skew: -1.615
+  contraction_rate: 0.41
+  sentence_len_mean: 14.9211
+  is_bimodal: true
+  bimodality_coefficient: 0.5765
+  profanity_rate: 0.4141
+  caps_emphasis_rate: 12.4982
+  source: "voice_profile.json (VFP-04, 2026-07-16)"
+
+---
+
+version_info:
+  version: "1.1.0"
+  created: "2026-01-22"
+  updated: "2026-07-16"
+  environment: "career"
+  based_on: "core/protocols/MASTER_PROTOCOL.md"
+  adjustments: "Professional application context + VFP measurements"
+  integrates_with: "D:/Career/ system (application automation)"

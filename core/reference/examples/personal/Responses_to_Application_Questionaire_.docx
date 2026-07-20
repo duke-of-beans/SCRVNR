@@ -1,0 +1,146 @@
+**Your response to [Executive Operations Partner - A Dialogue
+with Demand.io](https://www.notion.so/25ca14cbed008099bbb8c3c24f202db2?pvs=104)**
+
+**Your name (matching your application)David Kirsch**
+
+**Your email addressdk.dkes@hotmail.com**
+
+**Describe the most exceptional achievement in your professional career
+so far. (max 200 words)Preventing Good Day Farm Louisiana from collapse.
+When transitioning from proven Phase 2 infratsucture to completely new
+Phase 3 infrastructure, where everything was tested independently but
+never in symphony and under load. Our out-of-state C-Suite, who were
+solely focused on exit strategy and driven by stakeholders who are
+innocently ignorant of commercial cultivation operations, just saw
+expensive new assets that would boost the valuation of the company.
+Their directive was to shut down Phase 2 and commit to Phase 3. Terrible
+idea. New equipment installed and verified by people with conflicts of
+interest, then approved by others who don't understand how anything
+works. I spent two months with my cultivation director and other key
+personnel company-wide mapping failure scenarios to present sharp
+analysis to leadership about what happens when these untested systems
+fail under production load and what this means financially, and for our
+limited geographical talent pool. After convincing, they allowed me to
+keep 6 of the 20 Phase 2 rooms operational. Unfortunately, I was right.
+Phase 3 failed. I had calculated a minimum viable production level -
+enough to maintain revenue without layoffs or affecting employees,
+vendors, or retail partners. 6 rooms kept GDF Louisiana alive.**
+
+**If you could instantly solve one problem in your current company,
+ignoring all constraints, what would it be and why? (max 200
+words)There\'s a disconnect between my blueprint-style vision and
+technical execution. I can architect sophisticated operational systems
+like my Consensus AI app, but I\'m consistently building tools that
+build tools because I lack the technical fluency to ensure success in my
+implementations. I\'ve gotten to the finish line with several preceding
+apps, but there\'s an emerging pattern. I can architect Consensus (AI
+orchestration with unlimited memory, etc) to then build the more complex
+Buildr app. Buildr needs to exist because I need a canvas style coding
+conversation app that allows me to build enterprise grade applications.
+This lack of fluency causes inefficiency. I can conceptualize clearly,
+and I can collaborate with AI to build them, but I get slowed down by
+common coding pitalls, error prevention, and debugging that someone with
+more development knowledge would have navigated more smoothly. If this
+inefficiency did not exist, my operational output would be incredible.**
+
+**Describe any counter-intuitive insights or unique strategies you've
+personally developed for prompting LLMs. (max 200 words)I\'ve discovered
+default rules and pre-baked-in process compliance fail consistently when
+I\'m attempting to architect large systems. So, to mitigate this I\'ve
+created my own governance that I instruct the AI to follow instead, and
+then build it within the architecture itself as well. My consensus app
+enforces \'Seven Sacred Laws\': Zero-regret - complete reversibility,
+sacred contract (immutable interfaces), living memory (continuous
+learning), token economy (cost as a core constraint), validation
+requirements (multi-layer input validation), graceful degradation
+(systematic fallback), and tribunal consensus (critical decisions
+require multi-AI agreement). I think the counter-intuitive nature, here,
+is treating these multiple AIs as a tribunal rather than individual
+tools. Consensus orchestrates DeepSeek, GPT, and Claude with weighted
+expertise domains that I continuously update as models evolve. DeepSeek
+and Claude tend to lead on code, Claude for architecture/analysis, GPT
+generally on creative tasks. In addition, I also wrote recipe-like
+development prompts in YAML with constraints, patterns, and forbidden
+elements pre-set. The goal is to eliminate all guessing,
+interpretations, or assumptions - which in itself is also an instructive
+protocol. Building these interruption mechanisms that detect token
+thresholds, repetition patterns in patches/fixes, and quality
+degradation before they become issues - obviously learning from past
+catastrophes. This has effectively transitioned unreliable AI
+collaboration and development into much more predictable, thoughtful
+output.**
+
+**What\'s the most interesting problem you\'re wrestling with in your
+mind lately? Not necessarily work-related. (max 200 words)I often think
+about economic displacement as a result of the velocity AI automation is
+bringing to the world. Recently, I had a kind-of personal revelation
+when I realized I can now effectively do the work of entire hired teams
+through systematic AI collaboration. I\'m running three businesses that
+require minimal oversight specifically because of how I\'ve leveraged
+AI. This would not have been possible for me just 3 years ago. But this
+personal achievement made me confront an uncomfortable question about
+what happens when this scales - when more people understand it like I
+do. History shows that economically successful countries tend to move
+from goods-based to service-based economies, which displaces
+manufacturing workers but created new service jobs over generations. Not
+always in lock-step, but there\'s decades of overlap, nonetheless. The
+issue I see is that AI automation is compressing what was a 50-year
+economic transition into maybe 5-10 years. The typical absorption
+mechanisms - retraining programs, new job categories, social safety
+nets - these can\'t adapt as quickly. I\'m not worried about the
+eventual, inevitable state where AI does everything. I\'m wrestling with
+the transition chaos. What happens during that 15-year period where AI
+can handle 40%, 50%, even 60% of service jobs? Is there a solve for
+that? Then, do we solve it or do enlist the help of AI to figure out the
+problem we and it started. This paradox is interesting to think about.
+Which movie will we end up in? Wall-E? Terminator? The Matrix? It\'s
+interesting to think about.**
+
+**What aspects of our culture resonate most deeply with you and why?
+(max 200 words)Definitely an alignment on workplace theories. Flat
+hierarchy where everyone matters, a type-of employee ownership/reward
+system where company-wide successes are shared company-wide. This
+promotes immense pride and loyalty. I always say, \"You\'re never going
+to innovate for someone you hate\" and \"happy people make better
+products.\" I love radical transparency - I\'ve always believed in that
+and was further inspired when I read Ray Dalio\'s book \"Principles.\"
+This veritas system of working where real value shines and false or
+pseudo value becomes apparent makes me feel supported as opposed to
+threatened. The energy I felt reading through Demand.io\'s mission,
+ethos, values, etc - they made me shiver. It was everything I believe in
+and how I run my businesses and manage my own teams. It\'s rare. But I
+seem to have found like minded people. People who seem to be
+high-output, wide knowledge footprint individuals who are driven to
+identify and fill business gaps without ego. What a dream. Outcomes over
+tasks is ideal. GDF was a corporate bureaucratic nightmare that enforced
+that I manage my teams in a traditional 9-5 sense where arbitrary and
+often ambiguous KPIs and other metrics are applied that have no real
+business impact, but look good to show off to investors for the next
+cap-call. 93 grams per sqft sounds great, and it is - but is it good?
+Will it sell? No. No it won\'t.**
+
+**What's your ideal in-office vs remote work schedule? Are you situated
+for a reasonable daily commute to our Santa Monica location? If not,
+describe your relocation plans, and any timing or logistical
+constraints. (max 200 words)I\'m in Simi Valley and I\'m happy to
+commute through the worst of it - I\'m committed. I\'ve often driven
+1.5+ hours one way. It actually allows me time to buffer between home
+and work. I love driving, so, no issue there. That said, I would prefer
+to not be stuck in traffic in the early morning. If 9 or 10am is
+acceptable to avoid morning traffic, that would be ideal rather than
+coming in earlier. I like to take my son to school in the mornings, so
+that timing would work well. I understand it\'s hybrid, but being the
+CEO\'s right hand, I feel there may be less flexibility in my role
+specifically as I imagine I would need to be pretty close to Michael
+most of the time. I\'m not sure of Michael\'s expectations, and I\'m
+happy to accommodate whatever that looks like. Outside of that, I thrive
+in an outcomes-focused environment where accomplishments matter more
+than hours logged. When Michael needs me in the office or when
+collaboration requires it, I\'m there. When the work can be done
+effectively from home, I\'m productive there too. I can also work from
+Michael\'s residence if that makes collaboration easier. I\'m ultimately
+flexible to whatever the role requires. That all said, I am already
+planning on moving out of my current location eventually - just haven\'t
+aligned anything yet, and I\'m still saving a bit of cash and waiting
+for one of my properties in Louisiana to sell. Once that happens, I have
+zero problem relocating much closer to Santa Monica.**

@@ -1,0 +1,170 @@
+# FRUSTRATED ENVIRONMENT CALIBRATION
+# High-Emotion Venting & Complaint Voice
+# Version: 1.0.0
+
+---
+
+environment:
+  name: frustrated
+  description: "High-emotion communication when things break or frustrate"
+  audience: "Self, close collaborators, support channels"
+  
+voice_parameters:
+  formality: 2  # 1-10 scale (minimal — raw emotion)
+  contraction_target: 0.60  # 60% of opportunities
+  dash_tolerance: 3  # maximum per page
+  technical_depth: variable  # High when debugging, low when venting
+  personality_integration: maximum  # Unfiltered
+  directness: 10  # Maximum directness
+
+metrics_targets:
+  contraction_rate:
+    minimum: 0.50
+    target: 0.60
+    maximum: 0.70
+  dash_density:
+    maximum: 3  # per page
+  caps_emphasis:
+    note: "Highest of all registers (32.3/1k) — emotional emphasis"
+  profanity:
+    note: "Extremely high (37.9/1k) — authentic frustration marker"
+  exclamation_rate:
+    note: "Very high (10.6/1k) — second only to casual"
+
+---
+
+adjustments:
+  relative_to_core:
+    raw_emotion: true
+    unfiltered: "Authenticity over polish"
+    question_heavy: "Highest question density (39.4%)"
+    short_sentences: "Shortest mean sentence length (12.0)"
+    
+  tone_shifts:
+    from_personal: "More intense, less warm"
+    from_work: "Much less diplomatic, raw"
+    from_dev: "More emotional, less structured"
+    from_research: "Completely unfiltered vs measured"
+
+---
+
+encouraged_patterns:
+  authentic_frustration:
+    - Direct naming of what broke
+    - Specific error messages quoted
+    - "WHY does this..." (caps + question)
+    - Short, punchy sentences
+    
+  diagnostic_venting:
+    - "This KEEPS happening"
+    - "I've tried X, Y, Z — nothing works"
+    - Error details with emotional context
+    - File paths and specific failures
+
+---
+
+discouraged_patterns:
+  suppressed_emotion:
+    - Over-polished frustration
+    - Corporate complaint language
+    - Diplomatic hedging when genuinely angry
+    
+  note: "This register captures authentic frustration. Suppressing it defeats the purpose."
+
+---
+
+forbidden_additions:
+  phrases:
+    - "I understand this is frustrating"
+    - "Thank you for your patience"
+    - "We apologize for the inconvenience"
+    - "per our previous conversation"
+
+---
+
+voice_markers:
+  present:
+    - Highest caps emphasis (32.3/1k words)
+    - Highest profanity rate (37.9/1k words)
+    - Highest question density (39.4%)
+    - Highest exclamation rate after casual (10.6/1k)
+    - Short sentences (mean 12.0 words)
+    - High number density (debugging specifics)
+    - NOT bimodal — consistently short and punchy
+    
+  absent:
+    - Diplomatic language
+    - Long-form analysis
+    - Academic framing
+    - Professional polish
+
+---
+
+use_cases:
+  primary:
+    - Debug venting
+    - Bug reports (internal)
+    - Technical complaints
+    - System failure documentation
+    
+  not_for:
+    - Client-facing communication (use work)
+    - Public posts (use personal)
+    - Technical docs (use dev)
+
+---
+
+examples_reference:
+  location: "environments/frustrated/examples/"
+  should_feel_like:
+    - "Genuine frustration, not performed"
+    - "Specific about what broke"
+    - "Short, intense bursts"
+    - "Raw but still communicative"
+
+---
+
+quality_checks:
+  authenticity:
+    - Emotion matches register intensity
+    - Specific failures named
+    - No corporate sanitization
+    
+  clarity:
+    - Despite emotion, problem is identifiable
+    - Technical details accurate
+    - Actionable even when angry
+
+---
+
+cross_environment_notes:
+  vs_dev:
+    difference: "Emotional intensity, less structured"
+    similarity: "Both technical, specific"
+    
+  vs_personal:
+    difference: "More intense, less warm"
+    similarity: "Both unfiltered, authentic"
+
+---
+
+vfp_measured:
+  register: FRUSTRATED
+  mean_zipf: 4.247
+  kite_skew: -1.2249
+  contraction_rate: 0.5989
+  sentence_len_mean: 11.9604
+  is_bimodal: false
+  bimodality_coefficient: 0.45
+  profanity_rate: 37.8655
+  caps_emphasis_rate: 32.3386
+  source: "voice_profile.json (VFP-04, 2026-07-16)"
+
+---
+
+version_info:
+  version: "1.0.0"
+  created: "2026-07-16"
+  environment: "frustrated"
+  based_on: "core/protocols/MASTER_PROTOCOL.md"
+  adjustments: "High-emotion frustration context with VFP measurements"

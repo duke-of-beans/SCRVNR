@@ -1,0 +1,242 @@
+# DEV ENVIRONMENT CALIBRATION
+# Technical Documentation Voice
+# Version: 1.0.0
+
+---
+
+environment:
+  name: dev
+  description: "Technical documentation with conversational authenticity"
+  audience: "Developers, technical peers, engineers"
+  
+voice_parameters:
+  formality: 6  # 1-10 scale (slightly more formal than personal)
+  contraction_target: 0.65  # 65% of opportunities
+  dash_tolerance: 3  # maximum per page
+  technical_depth: high
+  personality_integration: moderate
+  directness: 8  # 1-10 (stay direct)
+  
+metrics_targets:
+  contraction_rate:
+    minimum: 0.60
+    target: 0.65
+    maximum: 0.75
+  dash_density:
+    maximum: 3  # per page
+  sentence_length:
+    average: 15-20  # words
+  paragraph_length:
+    average: 3-5  # sentences
+
+---
+
+adjustments:
+  # Relative to core protocols
+  relative_to_core:
+    more_technical: true
+    more_precise: true
+    code_examples: required_when_relevant
+    less_personal: slight  # Still authentic, just less casual
+    
+  tone_shifts:
+    from_personal: "Slightly more formal, technical precision"
+    from_career: "More code-focused, less polished"
+    from_research: "More conversational, less academic"
+
+---
+
+encouraged_patterns:
+  transitions:
+    - "Here's how it works:"
+    - "The way this works is"
+    - "Under the hood,"
+    - "What's happening here:"
+    
+  technical_framing:
+    - "When you call X, it Y"
+    - "This returns Z"
+    - "The pattern looks like:"
+    - "Example implementation:"
+    
+  specificity:
+    - Use exact function/method names
+    - Include code snippets
+    - Reference specific technologies
+    - Quantify performance metrics
+    
+  conversational_technical:
+    - "You'll want to..."
+    - "This lets you..."
+    - "If you need X, use Y"
+    - "The trick here is..."
+
+---
+
+discouraged_patterns:
+  condescending:
+    - "Simply" or "just" (implies it's easy)
+    - "Obviously" or "clearly" (assumes knowledge)
+    - "As you can see" (patronizing)
+    - "Of course" (dismissive)
+    
+  academic:
+    - Passive voice ("is provided by", "can be achieved")
+    - "One should" instead of "you"
+    - "It is recommended" instead of "use"
+    - "The developer may wish to" instead of "you can"
+    
+  vague:
+    - "Various options" (be specific)
+    - "Multiple ways" (show the ways)
+    - "Several approaches" (name them)
+    - "Many possibilities" (list them)
+
+---
+
+forbidden_additions:
+  # DEV-specific forbidden (in addition to core forbidden patterns)
+  phrases:
+    - "as you can see"
+    - "simply put"
+    - "in other words"
+    - "to put it another way"
+    - "let me explain"
+    - "for those unfamiliar"
+    - "as mentioned earlier"
+    - "it should be noted"
+
+---
+
+required_patterns:
+  when_explaining_technical:
+    - Include code example if relevant
+    - Specify exact commands/functions
+    - Show expected output
+    - Reference specific technologies
+    
+  when_documenting:
+    - Use "you" not "the developer"
+    - Maintain contractions (60-65%)
+    - Stay direct ("Run this" not "This should be run")
+    - Include practical examples
+
+---
+
+voice_markers:
+  # Characteristics that signal authentic DEV voice
+  present:
+    - Contractions: "it's", "you'll", "here's", "that's"
+    - Direct imperatives: "Run X", "Use Y", "Call Z"
+    - Practical framing: "When you need X..."
+    - Code integration: Examples inline with text
+    - Specific references: "Line 42", "Function foo()", "The API"
+    
+  absent:
+    - Academic distance: "one", "the developer"
+    - Passive constructions: "should be", "can be achieved"
+    - Condescending qualifiers: "simply", "just", "obviously"
+    - Vague generalities: "various", "several", "multiple"
+
+---
+
+use_cases:
+  primary:
+    - README.md files
+    - API documentation
+    - Technical architecture docs
+    - Code comments (substantial)
+    - Developer guides
+    - Implementation notes
+    
+  secondary:
+    - Technical blog posts
+    - Pull request descriptions
+    - Issue explanations
+    - Technical proposals
+    
+  not_for:
+    - Academic papers (use research)
+    - Job applications (use career)
+    - Business proposals (use work)
+    - Personal communications (use personal)
+
+---
+
+examples_reference:
+  location: "environments/dev/examples/"
+  key_files:
+    - "README_example.md"
+    - "api_documentation_example.md"
+    - "technical_explanation_example.md"
+  
+  should_feel_like:
+    - "Technical precision with personality"
+    - "Teaching without condescension"
+    - "Code-aware but readable"
+    - "Direct and practical"
+
+---
+
+quality_checks:
+  # DEV-specific validation (in addition to core checks)
+  technical_accuracy:
+    - Code examples syntax-correct
+    - Function names accurate
+    - Commands tested and valid
+    - Output examples realistic
+    
+  voice_authenticity:
+    - Contraction rate 60-65%
+    - "You" not "one" or "the developer"
+    - Direct imperatives present
+    - No condescending qualifiers
+    
+  clarity:
+    - Code examples aid understanding
+    - Technical terms explained when needed
+    - Practical examples included
+    - Clear action items
+
+---
+
+cross_environment_notes:
+  vs_personal:
+    difference: "Less casual, more technical"
+    similarity: "Both highly authentic and direct"
+    
+  vs_career:
+    difference: "More code-focused, less polished"
+    similarity: "Both maintain high contraction rates"
+    
+  vs_research:
+    difference: "More conversational, less formal"
+    similarity: "Both value precision"
+    
+  vs_work:
+    difference: "Technical depth, code examples"
+    similarity: "Professional with personality"
+
+---
+
+vfp_measured:
+  register: TECH
+  mean_zipf: 4.0843
+  kite_skew: -1.1912
+  contraction_rate: 0.29
+  sentence_len_mean: 25.0879
+  is_bimodal: true
+  bimodality_coefficient: 0.6148
+  profanity_rate: 0.4372
+  caps_emphasis_rate: 22.2526
+  source: "voice_profile.json (VFP-04, 2026-07-16)"
+
+---
+
+version_info:
+  version: "1.1.0"
+  created: "2026-01-22"
+  updated: "2026-07-16"
+  environment: "dev"
+  based_on: "core/protocols/MASTER_PROTOCOL.md"
+  adjustments: "Technical documentation context + VFP measurements"

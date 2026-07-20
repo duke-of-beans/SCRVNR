@@ -1,0 +1,2743 @@
+{
+  "generated": "2026-07-16 21:32",
+  "sprint": "VFP-04",
+  "corpus": {
+    "total_messages": 42363,
+    "total_words": 4310515,
+    "registers_profiled": 11,
+    "em_dash_rate_pre_decontamination_per_1k_words": 2.5234,
+    "em_dash_rate_post_decontamination_per_1k_words": 0.4098
+  },
+  "registers": {
+    "TECH": {
+      "register": "TECH",
+      "n_messages": 15480,
+      "n_words": 2326695,
+      "vocabulary": {
+        "mean_zipf": 4.0843,
+        "median_zipf": 4.242,
+        "std_zipf": 0.806,
+        "pct_rare": 7.2208,
+        "pct_very_rare": 2.1362,
+        "rarity_histogram": [
+          313,
+          1033,
+          3948,
+          8014,
+          1040,
+          9
+        ],
+        "kite_skew": -1.1912,
+        "top_20_rare_words": [
+          "cowork",
+          "typeerror",
+          "websocket",
+          "devtools",
+          "localstorage",
+          "npm",
+          "ghm",
+          "handoff",
+          "powershell",
+          "mcp",
+          "gpt",
+          "async",
+          "figma",
+          "cmdlet",
+          "filepath",
+          "recurse",
+          "errno",
+          "jsx",
+          "classname",
+          "lifelog"
+        ]
+      },
+      "rhythm": {
+        "mean_sentence_len": 25.0879,
+        "median_sentence_len": 14.0,
+        "std_sentence_len": 60.27,
+        "bimodality_coefficient": 0.6148,
+        "is_bimodal": true,
+        "sentence_len_histogram": [
+          1809,
+          2964,
+          3459,
+          2381,
+          2025,
+          2836
+        ],
+        "mean_message_len": 150.3,
+        "median_message_len": 34.0
+      },
+      "style": {
+        "contraction_rate": 0.29,
+        "caps_emphasis_rate": 22.2526,
+        "profanity_rate": 0.4372,
+        "question_density": 0.1442,
+        "double_period_rate": 2.6461,
+        "hyphen_rate": 11.3166,
+        "em_dash_rate": 0.3923,
+        "exclamation_rate": 1.44,
+        "ellipsis_rate": 2.1292
+      },
+      "specificity": {
+        "pct_with_file_paths": 16.85,
+        "pct_with_urls": 7.15,
+        "pct_with_dollar_amounts": 2.75,
+        "number_density": 0.0446
+      }
+    },
+    "UNTAGGED": {
+      "register": "UNTAGGED",
+      "n_messages": 7088,
+      "n_words": 326610,
+      "vocabulary": {
+        "mean_zipf": 4.5202,
+        "median_zipf": 4.586,
+        "std_zipf": 0.509,
+        "pct_rare": 5.45,
+        "pct_very_rare": 1.5807,
+        "rarity_histogram": [
+          12,
+          90,
+          817,
+          5178,
+          978,
+          3
+        ],
+        "kite_skew": -1.1541,
+        "top_20_rare_words": [
+          "gpt",
+          "cowork",
+          "kanna",
+          "thca",
+          "handoff",
+          "aligns",
+          "wix",
+          "llm",
+          "quickbooks",
+          "filenames",
+          "powershell",
+          "refinements",
+          "simi",
+          "learnings",
+          "mcp",
+          "beleive",
+          "deliverables",
+          "wordmark",
+          "verbiage",
+          "analyzation"
+        ]
+      },
+      "rhythm": {
+        "mean_sentence_len": 15.6804,
+        "median_sentence_len": 13.0,
+        "std_sentence_len": 21.72,
+        "bimodality_coefficient": 0.6569,
+        "is_bimodal": true,
+        "sentence_len_histogram": [
+          191,
+          1743,
+          2336,
+          1464,
+          943,
+          410
+        ],
+        "mean_message_len": 46.08,
+        "median_message_len": 22.0
+      },
+      "style": {
+        "contraction_rate": 0.434,
+        "caps_emphasis_rate": 10.0162,
+        "profanity_rate": 0.2052,
+        "question_density": 0.166,
+        "double_period_rate": 1.092,
+        "hyphen_rate": 9.4102,
+        "em_dash_rate": 0.2212,
+        "exclamation_rate": 0.9574,
+        "ellipsis_rate": 0.6455
+      },
+      "specificity": {
+        "pct_with_file_paths": 0.0,
+        "pct_with_urls": 0.79,
+        "pct_with_dollar_amounts": 0.0,
+        "number_density": 0.0168
+      }
+    },
+    "CASUAL": {
+      "register": "CASUAL",
+      "n_messages": 7087,
+      "n_words": 49229,
+      "vocabulary": {
+        "mean_zipf": 4.55,
+        "median_zipf": 4.75,
+        "std_zipf": 0.962,
+        "pct_rare": 6.013,
+        "pct_very_rare": 1.8699,
+        "rarity_histogram": [
+          68,
+          216,
+          641,
+          1998,
+          1542,
+          80
+        ],
+        "kite_skew": -1.5249,
+        "top_20_rare_words": [
+          "gpt",
+          "photorealistic",
+          "lfg",
+          "powershell",
+          "handoff",
+          "simi",
+          "comforter",
+          "backend",
+          "ghm",
+          "criticality",
+          "frontend",
+          "deliverables",
+          "toggled",
+          "oyu",
+          "pease",
+          "deadpan",
+          "filepath",
+          "cmd",
+          "forme",
+          "svg"
+        ]
+      },
+      "rhythm": {
+        "mean_sentence_len": 4.5372,
+        "median_sentence_len": 4,
+        "std_sentence_len": 4.13,
+        "bimodality_coefficient": 0.4841,
+        "is_bimodal": false,
+        "sentence_len_histogram": [
+          4198,
+          2385,
+          308,
+          118,
+          57,
+          21
+        ],
+        "mean_message_len": 6.95,
+        "median_message_len": 4
+      },
+      "style": {
+        "contraction_rate": 0.7372,
+        "caps_emphasis_rate": 10.6181,
+        "profanity_rate": 1.3807,
+        "question_density": 0.0863,
+        "double_period_rate": 3.0131,
+        "hyphen_rate": 10.33,
+        "em_dash_rate": 0.0326,
+        "exclamation_rate": 8.3938,
+        "ellipsis_rate": 2.0766
+      },
+      "specificity": {
+        "pct_with_file_paths": 1.67,
+        "pct_with_urls": 1.21,
+        "pct_with_dollar_amounts": 0.13,
+        "number_density": 0.0339
+      }
+    },
+    "PROFESSIONAL": {
+      "register": "PROFESSIONAL",
+      "n_messages": 6007,
+      "n_words": 545995,
+      "vocabulary": {
+        "mean_zipf": 4.4689,
+        "median_zipf": 4.557,
+        "std_zipf": 0.602,
+        "pct_rare": 5.9809,
+        "pct_very_rare": 2.0684,
+        "rarity_histogram": [
+          30,
+          115,
+          742,
+          4030,
+          730,
+          13
+        ],
+        "kite_skew": -1.615,
+        "top_20_rare_words": [
+          "thca",
+          "cowork",
+          "lifelog",
+          "krown",
+          "plug’s",
+          "mcp",
+          "blg",
+          "ghm",
+          "solventless",
+          "onboarding",
+          "cbd’s",
+          "description's",
+          "estrella",
+          "mocktails",
+          "kirsch",
+          "verbiage",
+          "upwork",
+          "kanna",
+          "kpis",
+          "truenorth"
+        ]
+      },
+      "rhythm": {
+        "mean_sentence_len": 14.9211,
+        "median_sentence_len": 12.07,
+        "std_sentence_len": 15.07,
+        "bimodality_coefficient": 0.5765,
+        "is_bimodal": true,
+        "sentence_len_histogram": [
+          688,
+          1419,
+          1632,
+          1065,
+          824,
+          379
+        ],
+        "mean_message_len": 90.89,
+        "median_message_len": 24
+      },
+      "style": {
+        "contraction_rate": 0.41,
+        "caps_emphasis_rate": 12.4982,
+        "profanity_rate": 0.4141,
+        "question_density": 0.1429,
+        "double_period_rate": 1.2847,
+        "hyphen_rate": 8.5989,
+        "em_dash_rate": 0.3616,
+        "exclamation_rate": 0.689,
+        "ellipsis_rate": 0.9411
+      },
+      "specificity": {
+        "pct_with_file_paths": 3.93,
+        "pct_with_urls": 2.45,
+        "pct_with_dollar_amounts": 7.71,
+        "number_density": 0.0283
+      }
+    },
+    "MECHANICAL": {
+      "register": "MECHANICAL",
+      "n_messages": 1680,
+      "n_words": 181012,
+      "vocabulary": {
+        "mean_zipf": 4.406,
+        "median_zipf": 4.498,
+        "std_zipf": 0.663,
+        "pct_rare": 6.0915,
+        "pct_very_rare": 1.5376,
+        "rarity_histogram": [
+          12,
+          36,
+          240,
+          1067,
+          201,
+          4
+        ],
+        "kite_skew": -1.7443,
+        "top_20_rare_words": [
+          "plug’s",
+          "gpt",
+          "devtools",
+          "thca",
+          "walbro",
+          "audiophile",
+          "lfg",
+          "plug's",
+          "fwd",
+          "uncaught",
+          "injector",
+          "subtotals",
+          "babel",
+          "lulo",
+          "async",
+          "refinements",
+          "placeholders",
+          "coilovers",
+          "internals",
+          "fobs"
+        ]
+      },
+      "rhythm": {
+        "mean_sentence_len": 16.1443,
+        "median_sentence_len": 11.0,
+        "std_sentence_len": 28.96,
+        "bimodality_coefficient": 0.6925,
+        "is_bimodal": true,
+        "sentence_len_histogram": [
+          248,
+          448,
+          423,
+          237,
+          172,
+          152
+        ],
+        "mean_message_len": 107.75,
+        "median_message_len": 21.0
+      },
+      "style": {
+        "contraction_rate": 0.4485,
+        "caps_emphasis_rate": 14.7186,
+        "profanity_rate": 0.5246,
+        "question_density": 0.1459,
+        "double_period_rate": 1.5343,
+        "hyphen_rate": 7.5577,
+        "em_dash_rate": 0.7199,
+        "exclamation_rate": 1.102,
+        "ellipsis_rate": 1.3065
+      },
+      "specificity": {
+        "pct_with_file_paths": 4.42,
+        "pct_with_urls": 3.86,
+        "pct_with_dollar_amounts": 4.44,
+        "number_density": 0.0316
+      }
+    },
+    "INVESTIGATE": {
+      "register": "INVESTIGATE",
+      "n_messages": 1633,
+      "n_words": 138162,
+      "vocabulary": {
+        "mean_zipf": 4.3661,
+        "median_zipf": 4.47,
+        "std_zipf": 0.649,
+        "pct_rare": 6.4284,
+        "pct_very_rare": 2.2404,
+        "rarity_histogram": [
+          8,
+          52,
+          240,
+          996,
+          167,
+          1
+        ],
+        "kite_skew": -1.5691,
+        "top_20_rare_words": [
+          "thca",
+          "cowork",
+          "msos",
+          "handoff",
+          "tranche",
+          "fdm",
+          "doj-ogr",
+          "ghm",
+          "preprocessor",
+          "mcp",
+          "onedrive",
+          "concisely",
+          "errno",
+          "relly",
+          "ampersand",
+          "repos",
+          "flawlessly",
+          "misdoings",
+          "llm",
+          "yaml"
+        ]
+      },
+      "rhythm": {
+        "mean_sentence_len": 15.5057,
+        "median_sentence_len": 12,
+        "std_sentence_len": 21.38,
+        "bimodality_coefficient": 0.7356,
+        "is_bimodal": true,
+        "sentence_len_histogram": [
+          277,
+          350,
+          409,
+          275,
+          200,
+          122
+        ],
+        "mean_message_len": 84.61,
+        "median_message_len": 21
+      },
+      "style": {
+        "contraction_rate": 0.3867,
+        "caps_emphasis_rate": 20.279,
+        "profanity_rate": 0.3798,
+        "question_density": 0.155,
+        "double_period_rate": 2.7675,
+        "hyphen_rate": 9.0534,
+        "em_dash_rate": 0.712,
+        "exclamation_rate": 1.1889,
+        "ellipsis_rate": 2.199
+      },
+      "specificity": {
+        "pct_with_file_paths": 10.26,
+        "pct_with_urls": 3.9,
+        "pct_with_dollar_amounts": 1.12,
+        "number_density": 0.0381
+      }
+    },
+    "ACADEMIC": {
+      "register": "ACADEMIC",
+      "n_messages": 1361,
+      "n_words": 87923,
+      "vocabulary": {
+        "mean_zipf": 4.3314,
+        "median_zipf": 4.44,
+        "std_zipf": 0.728,
+        "pct_rare": 6.5784,
+        "pct_very_rare": 1.8174,
+        "rarity_histogram": [
+          19,
+          48,
+          221,
+          808,
+          154,
+          2
+        ],
+        "kite_skew": -1.5371,
+        "top_20_rare_words": [
+          "gpt",
+          "npm",
+          "handoff",
+          "limen",
+          "debug",
+          "async",
+          "llm",
+          "layman",
+          "cowork",
+          "descender",
+          "beleive",
+          "anomalous",
+          "tranche",
+          "env",
+          "uncaught",
+          "concisely",
+          "frontend",
+          "formalization",
+          "laymans",
+          "toggles"
+        ]
+      },
+      "rhythm": {
+        "mean_sentence_len": 16.8485,
+        "median_sentence_len": 12,
+        "std_sentence_len": 26.85,
+        "bimodality_coefficient": 0.7065,
+        "is_bimodal": true,
+        "sentence_len_histogram": [
+          187,
+          317,
+          359,
+          230,
+          151,
+          117
+        ],
+        "mean_message_len": 64.6,
+        "median_message_len": 24
+      },
+      "style": {
+        "contraction_rate": 0.4384,
+        "caps_emphasis_rate": 17.4819,
+        "profanity_rate": 0.6112,
+        "question_density": 0.1845,
+        "double_period_rate": 2.7836,
+        "hyphen_rate": 12.62,
+        "em_dash_rate": 0.3831,
+        "exclamation_rate": 1.2188,
+        "ellipsis_rate": 1.9566
+      },
+      "specificity": {
+        "pct_with_file_paths": 5.44,
+        "pct_with_urls": 3.73,
+        "pct_with_dollar_amounts": 0.19,
+        "number_density": 0.0257
+      }
+    },
+    "ARGUMENTATIVE": {
+      "register": "ARGUMENTATIVE",
+      "n_messages": 658,
+      "n_words": 513326,
+      "vocabulary": {
+        "mean_zipf": 4.5025,
+        "median_zipf": 4.562,
+        "std_zipf": 0.443,
+        "pct_rare": 5.1968,
+        "pct_very_rare": 1.5494,
+        "rarity_histogram": [
+          5,
+          9,
+          30,
+          587,
+          25,
+          0
+        ],
+        "kite_skew": -3.1583,
+        "top_20_rare_words": [
+          "thca",
+          "krown",
+          "estrella",
+          "ghm",
+          "lifelog-ais",
+          "gdf",
+          "carefu",
+          "oaksterdam",
+          "amsterdams",
+          "plug’s",
+          "csat",
+          "kirsch",
+          "cowork",
+          "dovi",
+          "parentheticals",
+          "bottleneck",
+          "shifrin",
+          "skils",
+          "architected",
+          "kakistocracy"
+        ]
+      },
+      "rhythm": {
+        "mean_sentence_len": 19.593,
+        "median_sentence_len": 15.0,
+        "std_sentence_len": 23.84,
+        "bimodality_coefficient": 0.7068,
+        "is_bimodal": true,
+        "sentence_len_histogram": [
+          4,
+          98,
+          226,
+          160,
+          110,
+          60
+        ],
+        "mean_message_len": 780.13,
+        "median_message_len": 203.0
+      },
+      "style": {
+        "contraction_rate": 0.7451,
+        "caps_emphasis_rate": 25.3329,
+        "profanity_rate": 0.3196,
+        "question_density": 0.1787,
+        "double_period_rate": 1.1097,
+        "hyphen_rate": 6.6143,
+        "em_dash_rate": 0.4807,
+        "exclamation_rate": 0.4222,
+        "ellipsis_rate": 5.1911
+      },
+      "specificity": {
+        "pct_with_file_paths": 1.64,
+        "pct_with_urls": 3.66,
+        "pct_with_dollar_amounts": 18.55,
+        "number_density": 0.029
+      }
+    },
+    "CREATIVE_DIRECTION": {
+      "register": "CREATIVE_DIRECTION",
+      "n_messages": 632,
+      "n_words": 50125,
+      "vocabulary": {
+        "mean_zipf": 4.4455,
+        "median_zipf": 4.558,
+        "std_zipf": 0.694,
+        "pct_rare": 6.07,
+        "pct_very_rare": 2.1622,
+        "rarity_histogram": [
+          6,
+          16,
+          79,
+          393,
+          82,
+          2
+        ],
+        "kite_skew": -1.9763,
+        "top_20_rare_words": [
+          "rubric",
+          "aligns",
+          "rbd",
+          "aot",
+          "thalamic",
+          "fraunces",
+          "gpt",
+          "semicolons",
+          "preachy",
+          "somethign",
+          "tsc",
+          "hitzig",
+          "parallax",
+          "unsplash",
+          "forme",
+          "weaved",
+          "laymen",
+          "errno",
+          "lowercase",
+          "wordmark"
+        ]
+      },
+      "rhythm": {
+        "mean_sentence_len": 13.9922,
+        "median_sentence_len": 11.0,
+        "std_sentence_len": 15.61,
+        "bimodality_coefficient": 0.6548,
+        "is_bimodal": true,
+        "sentence_len_histogram": [
+          96,
+          161,
+          165,
+          102,
+          75,
+          33
+        ],
+        "mean_message_len": 79.31,
+        "median_message_len": 19.0
+      },
+      "style": {
+        "contraction_rate": 0.4122,
+        "caps_emphasis_rate": 13.0161,
+        "profanity_rate": 0.2509,
+        "question_density": 0.1208,
+        "double_period_rate": 1.4562,
+        "hyphen_rate": 12.6173,
+        "em_dash_rate": 0.3134,
+        "exclamation_rate": 0.6375,
+        "ellipsis_rate": 0.8166
+      },
+      "specificity": {
+        "pct_with_file_paths": 4.51,
+        "pct_with_urls": 3.35,
+        "pct_with_dollar_amounts": 1.76,
+        "number_density": 0.0242
+      }
+    },
+    "PERSONAL": {
+      "register": "PERSONAL",
+      "n_messages": 610,
+      "n_words": 73312,
+      "vocabulary": {
+        "mean_zipf": 4.4521,
+        "median_zipf": 4.49,
+        "std_zipf": 0.583,
+        "pct_rare": 6.9382,
+        "pct_very_rare": 1.9956,
+        "rarity_histogram": [
+          4,
+          8,
+          89,
+          423,
+          66,
+          0
+        ],
+        "kite_skew": -1.4458,
+        "top_20_rare_words": [
+          "lifelog-sms",
+          "lifelog-synth",
+          "lifelog",
+          "cowork",
+          "lifelog-intake",
+          "cef-skin",
+          "maliciously",
+          "lifelog-ais",
+          "gpt",
+          "lifelog-sms-full",
+          "krown",
+          "mcp",
+          "soulmates",
+          "refere",
+          "sluice",
+          "kirsch",
+          "api's",
+          "autonomic",
+          "lifelog-update",
+          "concisely"
+        ]
+      },
+      "rhythm": {
+        "mean_sentence_len": 13.1029,
+        "median_sentence_len": 12.88,
+        "std_sentence_len": 7.94,
+        "bimodality_coefficient": 0.4047,
+        "is_bimodal": false,
+        "sentence_len_histogram": [
+          44,
+          140,
+          193,
+          119,
+          92,
+          22
+        ],
+        "mean_message_len": 120.18,
+        "median_message_len": 33.0
+      },
+      "style": {
+        "contraction_rate": 0.6461,
+        "caps_emphasis_rate": 17.8539,
+        "profanity_rate": 0.3332,
+        "question_density": 0.1754,
+        "double_period_rate": 3.642,
+        "hyphen_rate": 16.806,
+        "em_dash_rate": 0.9204,
+        "exclamation_rate": 1.3991,
+        "ellipsis_rate": 2.9338
+      },
+      "specificity": {
+        "pct_with_file_paths": 5.95,
+        "pct_with_urls": 4.25,
+        "pct_with_dollar_amounts": 2.32,
+        "number_density": 0.0279
+      }
+    },
+    "FRUSTRATED": {
+      "register": "FRUSTRATED",
+      "n_messages": 127,
+      "n_words": 18126,
+      "vocabulary": {
+        "mean_zipf": 4.247,
+        "median_zipf": 4.464,
+        "std_zipf": 0.844,
+        "pct_rare": 5.6532,
+        "pct_very_rare": 1.9601,
+        "rarity_histogram": [
+          5,
+          9,
+          18,
+          74,
+          17,
+          0
+        ],
+        "kite_skew": -1.2249,
+        "top_20_rare_words": [
+          "ghm",
+          "devtools",
+          "typescript",
+          "haave",
+          "terrifies",
+          "lifelog",
+          "larg",
+          "gpt",
+          "medicalization",
+          "anythig",
+          "corect",
+          "bui;d",
+          "bloatware",
+          "kabbalist",
+          "comparables",
+          "doent",
+          "krown",
+          "llm",
+          "mny",
+          "weve"
+        ]
+      },
+      "rhythm": {
+        "mean_sentence_len": 11.9604,
+        "median_sentence_len": 11,
+        "std_sentence_len": 7.26,
+        "bimodality_coefficient": 0.45,
+        "is_bimodal": false,
+        "sentence_len_histogram": [
+          15,
+          40,
+          39,
+          15,
+          15,
+          3
+        ],
+        "mean_message_len": 142.72,
+        "median_message_len": 38
+      },
+      "style": {
+        "contraction_rate": 0.5989,
+        "caps_emphasis_rate": 32.3386,
+        "profanity_rate": 37.8655,
+        "question_density": 0.3939,
+        "double_period_rate": 3.9475,
+        "hyphen_rate": 12.3154,
+        "em_dash_rate": 0.5664,
+        "exclamation_rate": 10.5636,
+        "ellipsis_rate": 3.4453
+      },
+      "specificity": {
+        "pct_with_file_paths": 12.88,
+        "pct_with_urls": 8.26,
+        "pct_with_dollar_amounts": 4.95,
+        "number_density": 0.7976
+      }
+    }
+  },
+  "global": {
+    "mean_zipf": 4.3277,
+    "rarity_histogram": [
+      482,
+      1632,
+      7065,
+      23568,
+      5002,
+      114
+    ],
+    "kite_skew": -1.4133,
+    "idiosyncratic_words_top50": [
+      {
+        "word": "onedrive",
+        "zipf": 2.42,
+        "occurrences": 4377,
+        "messages": 887
+      },
+      {
+        "word": "gpt",
+        "zipf": 2.39,
+        "occurrences": 1895,
+        "messages": 863
+      },
+      {
+        "word": "eye-of-sauron",
+        "zipf": 2.86,
+        "occurrences": 1759,
+        "messages": 419
+      },
+      {
+        "word": "backend",
+        "zipf": 2.86,
+        "occurrences": 1592,
+        "messages": 646
+      },
+      {
+        "word": "frontend",
+        "zipf": 2.48,
+        "occurrences": 1527,
+        "messages": 579
+      },
+      {
+        "word": "typescript",
+        "zipf": 2.59,
+        "occurrences": 1330,
+        "messages": 539
+      },
+      {
+        "word": "thca",
+        "zipf": 1.33,
+        "occurrences": 1279,
+        "messages": 244
+      },
+      {
+        "word": "shim",
+        "zipf": 2.74,
+        "occurrences": 1148,
+        "messages": 208
+      },
+      {
+        "word": "initialized",
+        "zipf": 2.43,
+        "occurrences": 1018,
+        "messages": 293
+      },
+      {
+        "word": "timestamp",
+        "zipf": 2.62,
+        "occurrences": 955,
+        "messages": 317
+      },
+      {
+        "word": "kanna",
+        "zipf": 2.39,
+        "occurrences": 849,
+        "messages": 256
+      },
+      {
+        "word": "powershell",
+        "zipf": 2.72,
+        "occurrences": 824,
+        "messages": 464
+      },
+      {
+        "word": "kirsch",
+        "zipf": 2.45,
+        "occurrences": 819,
+        "messages": 308
+      },
+      {
+        "word": "websocket",
+        "zipf": 1.64,
+        "occurrences": 786,
+        "messages": 340
+      },
+      {
+        "word": "redis",
+        "zipf": 1.98,
+        "occurrences": 739,
+        "messages": 98
+      },
+      {
+        "word": "cli",
+        "zipf": 2.84,
+        "occurrences": 727,
+        "messages": 265
+      },
+      {
+        "word": "orchestration",
+        "zipf": 2.74,
+        "occurrences": 669,
+        "messages": 283
+      },
+      {
+        "word": "handoff",
+        "zipf": 2.53,
+        "occurrences": 656,
+        "messages": 443
+      },
+      {
+        "word": "mcp",
+        "zipf": 2.58,
+        "occurrences": 651,
+        "messages": 353
+      },
+      {
+        "word": "krown",
+        "zipf": 1.23,
+        "occurrences": 619,
+        "messages": 203
+      },
+      {
+        "word": "deprecated",
+        "zipf": 2.67,
+        "occurrences": 611,
+        "messages": 184
+      },
+      {
+        "word": "fallback",
+        "zipf": 2.66,
+        "occurrences": 574,
+        "messages": 328
+      },
+      {
+        "word": "kpis",
+        "zipf": 2.16,
+        "occurrences": 555,
+        "messages": 150
+      },
+      {
+        "word": "sauron",
+        "zipf": 2.86,
+        "occurrences": 542,
+        "messages": 267
+      },
+      {
+        "word": "openai",
+        "zipf": 1.63,
+        "occurrences": 511,
+        "messages": 207
+      },
+      {
+        "word": "cowork",
+        "zipf": 1.11,
+        "occurrences": 502,
+        "messages": 350
+      },
+      {
+        "word": "estrella",
+        "zipf": 2.5,
+        "occurrences": 441,
+        "messages": 189
+      },
+      {
+        "word": "debug",
+        "zipf": 2.86,
+        "occurrences": 436,
+        "messages": 272
+      },
+      {
+        "word": "uncaught",
+        "zipf": 1.56,
+        "occurrences": 416,
+        "messages": 186
+      },
+      {
+        "word": "anthropic",
+        "zipf": 1.93,
+        "occurrences": 408,
+        "messages": 240
+      },
+      {
+        "word": "subtotal",
+        "zipf": 2.28,
+        "occurrences": 380,
+        "messages": 31
+      },
+      {
+        "word": "forme",
+        "zipf": 2.44,
+        "occurrences": 369,
+        "messages": 166
+      },
+      {
+        "word": "simi",
+        "zipf": 2.8,
+        "occurrences": 350,
+        "messages": 218
+      },
+      {
+        "word": "techs",
+        "zipf": 2.92,
+        "occurrences": 318,
+        "messages": 140
+      },
+      {
+        "word": "debugging",
+        "zipf": 2.89,
+        "occurrences": 312,
+        "messages": 188
+      },
+      {
+        "word": "triangulation-app-dev",
+        "zipf": 2.65,
+        "occurrences": 304,
+        "messages": 80
+      },
+      {
+        "word": "localstorage",
+        "zipf": 1.13,
+        "occurrences": 303,
+        "messages": 175
+      },
+      {
+        "word": "placeholders",
+        "zipf": 2.15,
+        "occurrences": 302,
+        "messages": 225
+      },
+      {
+        "word": "endpoints",
+        "zipf": 2.74,
+        "occurrences": 301,
+        "messages": 188
+      },
+      {
+        "word": "whp",
+        "zipf": 1.95,
+        "occurrences": 300,
+        "messages": 59
+      },
+      {
+        "word": "bootstrap",
+        "zipf": 2.87,
+        "occurrences": 299,
+        "messages": 170
+      },
+      {
+        "word": "sqft",
+        "zipf": 2.4,
+        "occurrences": 295,
+        "messages": 144
+      },
+      {
+        "word": "eslint",
+        "zipf": 1.1,
+        "occurrences": 285,
+        "messages": 82
+      },
+      {
+        "word": "llm",
+        "zipf": 2.29,
+        "occurrences": 283,
+        "messages": 209
+      },
+      {
+        "word": "cyrillic",
+        "zipf": 2.63,
+        "occurrences": 283,
+        "messages": 31
+      },
+      {
+        "word": "ghm",
+        "zipf": 1.2,
+        "occurrences": 283,
+        "messages": 195
+      },
+      {
+        "word": "utf",
+        "zipf": 2.42,
+        "occurrences": 281,
+        "messages": 166
+      },
+      {
+        "word": "endpoint",
+        "zipf": 2.93,
+        "occurrences": 281,
+        "messages": 187
+      },
+      {
+        "word": "onboarding",
+        "zipf": 2.28,
+        "occurrences": 278,
+        "messages": 209
+      },
+      {
+        "word": "todo",
+        "zipf": 2.96,
+        "occurrences": 278,
+        "messages": 89
+      }
+    ],
+    "consistent_typos": [
+      {
+        "word": "hte",
+        "looks_like": "the",
+        "edit_distance": 2,
+        "messages": 532,
+        "occurrences": 551,
+        "zipf": 2.3
+      },
+      {
+        "word": "everyhting",
+        "looks_like": "everything",
+        "edit_distance": 2,
+        "messages": 70,
+        "occurrences": 72,
+        "zipf": 1.2
+      },
+      {
+        "word": "shold",
+        "looks_like": "should",
+        "edit_distance": 1,
+        "messages": 70,
+        "occurrences": 73,
+        "zipf": 1.56
+      },
+      {
+        "word": "thnk",
+        "looks_like": "tank",
+        "edit_distance": 1,
+        "messages": 64,
+        "occurrences": 64,
+        "zipf": 1.71
+      },
+      {
+        "word": "plase",
+        "looks_like": "place",
+        "edit_distance": 1,
+        "messages": 63,
+        "occurrences": 63,
+        "zipf": 1.41
+      },
+      {
+        "word": "wihtout",
+        "looks_like": "without",
+        "edit_distance": 2,
+        "messages": 62,
+        "occurrences": 63,
+        "zipf": 1.09
+      },
+      {
+        "word": "htis",
+        "looks_like": "this",
+        "edit_distance": 2,
+        "messages": 60,
+        "occurrences": 60,
+        "zipf": 1.18
+      },
+      {
+        "word": "anyhting",
+        "looks_like": "anything",
+        "edit_distance": 2,
+        "messages": 44,
+        "occurrences": 44,
+        "zipf": 1.12
+      },
+      {
+        "word": "whatver",
+        "looks_like": "whatever",
+        "edit_distance": 1,
+        "messages": 43,
+        "occurrences": 43,
+        "zipf": 1.12
+      },
+      {
+        "word": "configs",
+        "looks_like": "confirm",
+        "edit_distance": 2,
+        "messages": 42,
+        "occurrences": 61,
+        "zipf": 1.71
+      },
+      {
+        "word": "wcag",
+        "looks_like": "what",
+        "edit_distance": 2,
+        "messages": 42,
+        "occurrences": 46,
+        "zipf": 1.42
+      },
+      {
+        "word": "params",
+        "looks_like": "parade",
+        "edit_distance": 2,
+        "messages": 41,
+        "occurrences": 69,
+        "zipf": 1.8
+      },
+      {
+        "word": "everyting",
+        "looks_like": "everything",
+        "edit_distance": 1,
+        "messages": 40,
+        "occurrences": 42,
+        "zipf": 1.78
+      },
+      {
+        "word": "roas",
+        "looks_like": "road",
+        "edit_distance": 1,
+        "messages": 40,
+        "occurrences": 81,
+        "zipf": 1.48
+      },
+      {
+        "word": "charset",
+        "looks_like": "charles",
+        "edit_distance": 2,
+        "messages": 38,
+        "occurrences": 42,
+        "zipf": 1.5
+      },
+      {
+        "word": "conciousness",
+        "looks_like": "consciousness",
+        "edit_distance": 1,
+        "messages": 38,
+        "occurrences": 38,
+        "zipf": 1.74
+      },
+      {
+        "word": "holdco",
+        "looks_like": "holder",
+        "edit_distance": 2,
+        "messages": 38,
+        "occurrences": 54,
+        "zipf": 1.22
+      },
+      {
+        "word": "deps",
+        "looks_like": "does",
+        "edit_distance": 2,
+        "messages": 37,
+        "occurrences": 100,
+        "zipf": 1.63
+      },
+      {
+        "word": "webp",
+        "looks_like": "were",
+        "edit_distance": 2,
+        "messages": 36,
+        "occurrences": 46,
+        "zipf": 1.37
+      },
+      {
+        "word": "kissa",
+        "looks_like": "kinda",
+        "edit_distance": 2,
+        "messages": 36,
+        "occurrences": 47,
+        "zipf": 1.53
+      },
+      {
+        "word": "plese",
+        "looks_like": "please",
+        "edit_distance": 1,
+        "messages": 35,
+        "occurrences": 35,
+        "zipf": 1.55
+      },
+      {
+        "word": "vxi",
+        "looks_like": "via",
+        "edit_distance": 2,
+        "messages": 35,
+        "occurrences": 39,
+        "zipf": 1.5
+      },
+      {
+        "word": "nsis",
+        "looks_like": "isis",
+        "edit_distance": 1,
+        "messages": 35,
+        "occurrences": 113,
+        "zipf": 1.47
+      },
+      {
+        "word": "pleae",
+        "looks_like": "please",
+        "edit_distance": 1,
+        "messages": 34,
+        "occurrences": 34,
+        "zipf": 1.2
+      },
+      {
+        "word": "uuid",
+        "looks_like": "said",
+        "edit_distance": 2,
+        "messages": 34,
+        "occurrences": 182,
+        "zipf": 1.71
+      },
+      {
+        "word": "motul",
+        "looks_like": "total",
+        "edit_distance": 2,
+        "messages": 34,
+        "occurrences": 93,
+        "zipf": 1.54
+      },
+      {
+        "word": "eix",
+        "looks_like": "six",
+        "edit_distance": 1,
+        "messages": 34,
+        "occurrences": 35,
+        "zipf": 1.17
+      },
+      {
+        "word": "bkr",
+        "looks_like": "bar",
+        "edit_distance": 1,
+        "messages": 34,
+        "occurrences": 35,
+        "zipf": 1.49
+      },
+      {
+        "word": "gzip",
+        "looks_like": "grip",
+        "edit_distance": 1,
+        "messages": 33,
+        "occurrences": 91,
+        "zipf": 1.75
+      },
+      {
+        "word": "dbw",
+        "looks_like": "new",
+        "edit_distance": 2,
+        "messages": 33,
+        "occurrences": 36,
+        "zipf": 1.4
+      },
+      {
+        "word": "thta",
+        "looks_like": "that",
+        "edit_distance": 2,
+        "messages": 32,
+        "occurrences": 32,
+        "zipf": 1.29
+      },
+      {
+        "word": "borla",
+        "looks_like": "world",
+        "edit_distance": 2,
+        "messages": 32,
+        "occurrences": 37,
+        "zipf": 1.5
+      },
+      {
+        "word": "footwell",
+        "looks_like": "football",
+        "edit_distance": 2,
+        "messages": 32,
+        "occurrences": 38,
+        "zipf": 1.73
+      },
+      {
+        "word": "gavins",
+        "looks_like": "having",
+        "edit_distance": 2,
+        "messages": 32,
+        "occurrences": 35,
+        "zipf": 1.55
+      },
+      {
+        "word": "etm",
+        "looks_like": "etc",
+        "edit_distance": 1,
+        "messages": 31,
+        "occurrences": 33,
+        "zipf": 1.72
+      },
+      {
+        "word": "lousiana",
+        "looks_like": "louisiana",
+        "edit_distance": 1,
+        "messages": 30,
+        "occurrences": 30,
+        "zipf": 1.73
+      },
+      {
+        "word": "graphql",
+        "looks_like": "graphic",
+        "edit_distance": 2,
+        "messages": 30,
+        "occurrences": 58,
+        "zipf": 1.66
+      },
+      {
+        "word": "oauth",
+        "looks_like": "south",
+        "edit_distance": 2,
+        "messages": 30,
+        "occurrences": 48,
+        "zipf": 1.88
+      },
+      {
+        "word": "uhnw",
+        "looks_like": "show",
+        "edit_distance": 2,
+        "messages": 30,
+        "occurrences": 66,
+        "zipf": 1.14
+      },
+      {
+        "word": "tial",
+        "looks_like": "till",
+        "edit_distance": 1,
+        "messages": 30,
+        "occurrences": 54,
+        "zipf": 1.54
+      },
+      {
+        "word": "everythign",
+        "looks_like": "everything",
+        "edit_distance": 2,
+        "messages": 27,
+        "occurrences": 27,
+        "zipf": 1.19
+      },
+      {
+        "word": "everyhing",
+        "looks_like": "everything",
+        "edit_distance": 1,
+        "messages": 27,
+        "occurrences": 27,
+        "zipf": 1.48
+      },
+      {
+        "word": "shippo",
+        "looks_like": "shipped",
+        "edit_distance": 2,
+        "messages": 26,
+        "occurrences": 38,
+        "zipf": 1.58
+      },
+      {
+        "word": "kib",
+        "looks_like": "kid",
+        "edit_distance": 1,
+        "messages": 26,
+        "occurrences": 44,
+        "zipf": 1.86
+      },
+      {
+        "word": "somehwere",
+        "looks_like": "somewhere",
+        "edit_distance": 2,
+        "messages": 26,
+        "occurrences": 26,
+        "zipf": 1.19
+      },
+      {
+        "word": "linting",
+        "looks_like": "listing",
+        "edit_distance": 1,
+        "messages": 25,
+        "occurrences": 33,
+        "zipf": 1.23
+      },
+      {
+        "word": "ttv",
+        "looks_like": "the",
+        "edit_distance": 2,
+        "messages": 25,
+        "occurrences": 34,
+        "zipf": 1.94
+      },
+      {
+        "word": "myrto",
+        "looks_like": "mario",
+        "edit_distance": 2,
+        "messages": 25,
+        "occurrences": 29,
+        "zipf": 1.24
+      },
+      {
+        "word": "egt",
+        "looks_like": "eat",
+        "edit_distance": 1,
+        "messages": 25,
+        "occurrences": 78,
+        "zipf": 1.63
+      },
+      {
+        "word": "argv",
+        "looks_like": "area",
+        "edit_distance": 2,
+        "messages": 24,
+        "occurrences": 32,
+        "zipf": 1.56
+      },
+      {
+        "word": "languge",
+        "looks_like": "language",
+        "edit_distance": 1,
+        "messages": 24,
+        "occurrences": 24,
+        "zipf": 1.05
+      },
+      {
+        "word": "agentic",
+        "looks_like": "genetic",
+        "edit_distance": 2,
+        "messages": 24,
+        "occurrences": 27,
+        "zipf": 1.21
+      },
+      {
+        "word": "gregs",
+        "looks_like": "great",
+        "edit_distance": 2,
+        "messages": 24,
+        "occurrences": 26,
+        "zipf": 1.48
+      },
+      {
+        "word": "icij",
+        "looks_like": "acid",
+        "edit_distance": 2,
+        "messages": 24,
+        "occurrences": 62,
+        "zipf": 1.62
+      },
+      {
+        "word": "lagom",
+        "looks_like": "labor",
+        "edit_distance": 2,
+        "messages": 24,
+        "occurrences": 24,
+        "zipf": 1.33
+      },
+      {
+        "word": "oip",
+        "looks_like": "oil",
+        "edit_distance": 1,
+        "messages": 23,
+        "occurrences": 74,
+        "zipf": 1.48
+      },
+      {
+        "word": "abot",
+        "looks_like": "about",
+        "edit_distance": 1,
+        "messages": 23,
+        "occurrences": 23,
+        "zipf": 1.84
+      },
+      {
+        "word": "ffd",
+        "looks_like": "fed",
+        "edit_distance": 1,
+        "messages": 23,
+        "occurrences": 57,
+        "zipf": 1.55
+      },
+      {
+        "word": "differnt",
+        "looks_like": "different",
+        "edit_distance": 1,
+        "messages": 23,
+        "occurrences": 24,
+        "zipf": 1.81
+      },
+      {
+        "word": "packt",
+        "looks_like": "paint",
+        "edit_distance": 2,
+        "messages": 23,
+        "occurrences": 23,
+        "zipf": 1.64
+      },
+      {
+        "word": "tldr",
+        "looks_like": "told",
+        "edit_distance": 2,
+        "messages": 23,
+        "occurrences": 26,
+        "zipf": 1.82
+      },
+      {
+        "word": "iframe",
+        "looks_like": "frames",
+        "edit_distance": 2,
+        "messages": 22,
+        "occurrences": 28,
+        "zipf": 1.95
+      },
+      {
+        "word": "grok",
+        "looks_like": "grow",
+        "edit_distance": 1,
+        "messages": 22,
+        "occurrences": 35,
+        "zipf": 1.88
+      },
+      {
+        "word": "msgs",
+        "looks_like": "miss",
+        "edit_distance": 2,
+        "messages": 22,
+        "occurrences": 27,
+        "zipf": 1.72
+      },
+      {
+        "word": "throug",
+        "looks_like": "through",
+        "edit_distance": 1,
+        "messages": 21,
+        "occurrences": 21,
+        "zipf": 1.91
+      },
+      {
+        "word": "patcher",
+        "looks_like": "watched",
+        "edit_distance": 2,
+        "messages": 21,
+        "occurrences": 98,
+        "zipf": 1.85
+      },
+      {
+        "word": "zoho",
+        "looks_like": "john",
+        "edit_distance": 2,
+        "messages": 21,
+        "occurrences": 28,
+        "zipf": 1.74
+      },
+      {
+        "word": "ideate",
+        "looks_like": "create",
+        "edit_distance": 2,
+        "messages": 20,
+        "occurrences": 20,
+        "zipf": 1.19
+      },
+      {
+        "word": "whle",
+        "looks_like": "while",
+        "edit_distance": 1,
+        "messages": 20,
+        "occurrences": 20,
+        "zipf": 1.2
+      },
+      {
+        "word": "updater",
+        "looks_like": "updated",
+        "edit_distance": 1,
+        "messages": 20,
+        "occurrences": 29,
+        "zipf": 1.98
+      },
+      {
+        "word": "aztek",
+        "looks_like": "after",
+        "edit_distance": 2,
+        "messages": 20,
+        "occurrences": 28,
+        "zipf": 1.52
+      },
+      {
+        "word": "rollup",
+        "looks_like": "rolled",
+        "edit_distance": 2,
+        "messages": 20,
+        "occurrences": 20,
+        "zipf": 1.98
+      },
+      {
+        "word": "rder",
+        "looks_like": "order",
+        "edit_distance": 1,
+        "messages": 20,
+        "occurrences": 39,
+        "zipf": 1.45
+      },
+      {
+        "word": "anyting",
+        "looks_like": "anything",
+        "edit_distance": 1,
+        "messages": 19,
+        "occurrences": 19,
+        "zipf": 1.7
+      },
+      {
+        "word": "diffs",
+        "looks_like": "gifts",
+        "edit_distance": 2,
+        "messages": 19,
+        "occurrences": 23,
+        "zipf": 1.73
+      },
+      {
+        "word": "initializes",
+        "looks_like": "initiatives",
+        "edit_distance": 2,
+        "messages": 19,
+        "occurrences": 20,
+        "zipf": 1.7
+      },
+      {
+        "word": "dirs",
+        "looks_like": "dies",
+        "edit_distance": 1,
+        "messages": 19,
+        "occurrences": 43,
+        "zipf": 1.6
+      },
+      {
+        "word": "ccpa",
+        "looks_like": "copy",
+        "edit_distance": 2,
+        "messages": 19,
+        "occurrences": 20,
+        "zipf": 1.79
+      },
+      {
+        "word": "throgh",
+        "looks_like": "through",
+        "edit_distance": 1,
+        "messages": 19,
+        "occurrences": 19,
+        "zipf": 1.13
+      },
+      {
+        "word": "istock",
+        "looks_like": "stocks",
+        "edit_distance": 2,
+        "messages": 19,
+        "occurrences": 22,
+        "zipf": 1.66
+      },
+      {
+        "word": "cova",
+        "looks_like": "love",
+        "edit_distance": 2,
+        "messages": 19,
+        "occurrences": 31,
+        "zipf": 1.85
+      },
+      {
+        "word": "lkq",
+        "looks_like": "lot",
+        "edit_distance": 2,
+        "messages": 19,
+        "occurrences": 20,
+        "zipf": 1.38
+      },
+      {
+        "word": "ctas",
+        "looks_like": "case",
+        "edit_distance": 2,
+        "messages": 18,
+        "occurrences": 21,
+        "zipf": 1.64
+      },
+      {
+        "word": "gnw",
+        "looks_like": "and",
+        "edit_distance": 2,
+        "messages": 18,
+        "occurrences": 21,
+        "zipf": 1.34
+      },
+      {
+        "word": "whie",
+        "looks_like": "whip",
+        "edit_distance": 1,
+        "messages": 17,
+        "occurrences": 18,
+        "zipf": 1.31
+      },
+      {
+        "word": "clich",
+        "looks_like": "click",
+        "edit_distance": 1,
+        "messages": 17,
+        "occurrences": 22,
+        "zipf": 1.44
+      },
+      {
+        "word": "avaiable",
+        "looks_like": "available",
+        "edit_distance": 1,
+        "messages": 17,
+        "occurrences": 17,
+        "zipf": 1.57
+      },
+      {
+        "word": "sortable",
+        "looks_like": "suitable",
+        "edit_distance": 2,
+        "messages": 17,
+        "occurrences": 19,
+        "zipf": 1.85
+      },
+      {
+        "word": "catted",
+        "looks_like": "called",
+        "edit_distance": 2,
+        "messages": 17,
+        "occurrences": 18,
+        "zipf": 1.09
+      },
+      {
+        "word": "wantto",
+        "looks_like": "wanted",
+        "edit_distance": 2,
+        "messages": 17,
+        "occurrences": 17,
+        "zipf": 1.44
+      },
+      {
+        "word": "jbr",
+        "looks_like": "for",
+        "edit_distance": 2,
+        "messages": 17,
+        "occurrences": 31,
+        "zipf": 1.77
+      },
+      {
+        "word": "mkdir",
+        "looks_like": "media",
+        "edit_distance": 2,
+        "messages": 16,
+        "occurrences": 44,
+        "zipf": 1.33
+      },
+      {
+        "word": "canva",
+        "looks_like": "wanna",
+        "edit_distance": 2,
+        "messages": 16,
+        "occurrences": 26,
+        "zipf": 1.81
+      },
+      {
+        "word": "fep",
+        "looks_like": "few",
+        "edit_distance": 1,
+        "messages": 16,
+        "occurrences": 31,
+        "zipf": 1.88
+      },
+      {
+        "word": "ahrefs",
+        "looks_like": "agrees",
+        "edit_distance": 2,
+        "messages": 16,
+        "occurrences": 16,
+        "zipf": 1.18
+      },
+      {
+        "word": "ngk",
+        "looks_like": "not",
+        "edit_distance": 2,
+        "messages": 16,
+        "occurrences": 16,
+        "zipf": 1.91
+      },
+      {
+        "word": "graet",
+        "looks_like": "grant",
+        "edit_distance": 1,
+        "messages": 15,
+        "occurrences": 15,
+        "zipf": 1.04
+      },
+      {
+        "word": "anythign",
+        "looks_like": "anything",
+        "edit_distance": 2,
+        "messages": 15,
+        "occurrences": 15,
+        "zipf": 1.22
+      },
+      {
+        "word": "retries",
+        "looks_like": "entries",
+        "edit_distance": 2,
+        "messages": 15,
+        "occurrences": 20,
+        "zipf": 1.57
+      },
+      {
+        "word": "becuse",
+        "looks_like": "because",
+        "edit_distance": 1,
+        "messages": 15,
+        "occurrences": 15,
+        "zipf": 1.76
+      },
+      {
+        "word": "modals",
+        "looks_like": "models",
+        "edit_distance": 1,
+        "messages": 15,
+        "occurrences": 21,
+        "zipf": 1.68
+      },
+      {
+        "word": "taks",
+        "looks_like": "take",
+        "edit_distance": 1,
+        "messages": 15,
+        "occurrences": 15,
+        "zipf": 1.6
+      },
+      {
+        "word": "sytem",
+        "looks_like": "system",
+        "edit_distance": 1,
+        "messages": 15,
+        "occurrences": 15,
+        "zipf": 1.81
+      },
+      {
+        "word": "maxes",
+        "looks_like": "makes",
+        "edit_distance": 1,
+        "messages": 15,
+        "occurrences": 15,
+        "zipf": 1.95
+      },
+      {
+        "word": "wuld",
+        "looks_like": "wild",
+        "edit_distance": 1,
+        "messages": 14,
+        "occurrences": 14,
+        "zipf": 1.48
+      },
+      {
+        "word": "yuo",
+        "looks_like": "duo",
+        "edit_distance": 1,
+        "messages": 14,
+        "occurrences": 14,
+        "zipf": 1.87
+      },
+      {
+        "word": "thsi",
+        "looks_like": "thai",
+        "edit_distance": 1,
+        "messages": 14,
+        "occurrences": 14,
+        "zipf": 1.62
+      },
+      {
+        "word": "eof",
+        "looks_like": "for",
+        "edit_distance": 2,
+        "messages": 14,
+        "occurrences": 34,
+        "zipf": 1.96
+      },
+      {
+        "word": "gip",
+        "looks_like": "tip",
+        "edit_distance": 1,
+        "messages": 14,
+        "occurrences": 14,
+        "zipf": 1.97
+      },
+      {
+        "word": "somehing",
+        "looks_like": "something",
+        "edit_distance": 1,
+        "messages": 14,
+        "occurrences": 14,
+        "zipf": 1.29
+      },
+      {
+        "word": "acutally",
+        "looks_like": "actually",
+        "edit_distance": 2,
+        "messages": 14,
+        "occurrences": 14,
+        "zipf": 1.62
+      },
+      {
+        "word": "hirer",
+        "looks_like": "hired",
+        "edit_distance": 1,
+        "messages": 14,
+        "occurrences": 14,
+        "zipf": 1.9
+      },
+      {
+        "word": "prominant",
+        "looks_like": "prominent",
+        "edit_distance": 1,
+        "messages": 14,
+        "occurrences": 15,
+        "zipf": 1.28
+      },
+      {
+        "word": "pbn",
+        "looks_like": "pan",
+        "edit_distance": 1,
+        "messages": 14,
+        "occurrences": 28,
+        "zipf": 1.81
+      },
+      {
+        "word": "sthe",
+        "looks_like": "they",
+        "edit_distance": 2,
+        "messages": 14,
+        "occurrences": 51,
+        "zipf": 1.56
+      },
+      {
+        "word": "bne",
+        "looks_like": "one",
+        "edit_distance": 1,
+        "messages": 14,
+        "occurrences": 16,
+        "zipf": 1.79
+      },
+      {
+        "word": "txl",
+        "looks_like": "til",
+        "edit_distance": 1,
+        "messages": 14,
+        "occurrences": 14,
+        "zipf": 1.31
+      },
+      {
+        "word": "medmen",
+        "looks_like": "median",
+        "edit_distance": 2,
+        "messages": 13,
+        "occurrences": 44,
+        "zipf": 1.22
+      },
+      {
+        "word": "hthe",
+        "looks_like": "have",
+        "edit_distance": 2,
+        "messages": 13,
+        "occurrences": 13,
+        "zipf": 1.4
+      },
+      {
+        "word": "reveiw",
+        "looks_like": "review",
+        "edit_distance": 2,
+        "messages": 13,
+        "occurrences": 13,
+        "zipf": 1.15
+      },
+      {
+        "word": "sensative",
+        "looks_like": "sensitive",
+        "edit_distance": 1,
+        "messages": 13,
+        "occurrences": 13,
+        "zipf": 1.29
+      },
+      {
+        "word": "histroy",
+        "looks_like": "history",
+        "edit_distance": 2,
+        "messages": 13,
+        "occurrences": 13,
+        "zipf": 1.12
+      },
+      {
+        "word": "erps",
+        "looks_like": "eyes",
+        "edit_distance": 2,
+        "messages": 13,
+        "occurrences": 21,
+        "zipf": 1.66
+      },
+      {
+        "word": "svk",
+        "looks_like": "she",
+        "edit_distance": 2,
+        "messages": 13,
+        "occurrences": 32,
+        "zipf": 1.34
+      },
+      {
+        "word": "gmit",
+        "looks_like": "shit",
+        "edit_distance": 2,
+        "messages": 13,
+        "occurrences": 37,
+        "zipf": 1.16
+      },
+      {
+        "word": "xai",
+        "looks_like": "was",
+        "edit_distance": 2,
+        "messages": 13,
+        "occurrences": 24,
+        "zipf": 1.44
+      },
+      {
+        "word": "aliased",
+        "looks_like": "pleased",
+        "edit_distance": 2,
+        "messages": 13,
+        "occurrences": 26,
+        "zipf": 1.73
+      },
+      {
+        "word": "llcs",
+        "looks_like": "less",
+        "edit_distance": 2,
+        "messages": 13,
+        "occurrences": 17,
+        "zipf": 1.98
+      },
+      {
+        "word": "opex",
+        "looks_like": "open",
+        "edit_distance": 1,
+        "messages": 13,
+        "occurrences": 28,
+        "zipf": 1.95
+      },
+      {
+        "word": "stant",
+        "looks_like": "start",
+        "edit_distance": 1,
+        "messages": 13,
+        "occurrences": 14,
+        "zipf": 1.57
+      },
+      {
+        "word": "osram",
+        "looks_like": "islam",
+        "edit_distance": 2,
+        "messages": 13,
+        "occurrences": 13,
+        "zipf": 1.96
+      },
+      {
+        "word": "busness",
+        "looks_like": "business",
+        "edit_distance": 1,
+        "messages": 12,
+        "occurrences": 12,
+        "zipf": 1.17
+      },
+      {
+        "word": "techincal",
+        "looks_like": "technical",
+        "edit_distance": 2,
+        "messages": 12,
+        "occurrences": 12,
+        "zipf": 1.24
+      },
+      {
+        "word": "minify",
+        "looks_like": "mining",
+        "edit_distance": 2,
+        "messages": 12,
+        "occurrences": 13,
+        "zipf": 1.49
+      },
+      {
+        "word": "implementer",
+        "looks_like": "implemented",
+        "edit_distance": 1,
+        "messages": 12,
+        "occurrences": 25,
+        "zipf": 1.7
+      },
+      {
+        "word": "starlink",
+        "looks_like": "starting",
+        "edit_distance": 2,
+        "messages": 12,
+        "occurrences": 18,
+        "zipf": 1.84
+      },
+      {
+        "word": "evr",
+        "looks_like": "ear",
+        "edit_distance": 1,
+        "messages": 12,
+        "occurrences": 17,
+        "zipf": 1.75
+      },
+      {
+        "word": "expecially",
+        "looks_like": "especially",
+        "edit_distance": 1,
+        "messages": 12,
+        "occurrences": 12,
+        "zipf": 1.89
+      },
+      {
+        "word": "immo",
+        "looks_like": "into",
+        "edit_distance": 2,
+        "messages": 12,
+        "occurrences": 12,
+        "zipf": 1.78
+      },
+      {
+        "word": "thse",
+        "looks_like": "thee",
+        "edit_distance": 1,
+        "messages": 12,
+        "occurrences": 12,
+        "zipf": 1.52
+      },
+      {
+        "word": "upf",
+        "looks_like": "ups",
+        "edit_distance": 1,
+        "messages": 12,
+        "occurrences": 17,
+        "zipf": 1.95
+      },
+      {
+        "word": "abab",
+        "looks_like": "arab",
+        "edit_distance": 1,
+        "messages": 12,
+        "occurrences": 12,
+        "zipf": 1.41
+      },
+      {
+        "word": "mdn",
+        "looks_like": "man",
+        "edit_distance": 1,
+        "messages": 12,
+        "occurrences": 12,
+        "zipf": 1.78
+      },
+      {
+        "word": "wahler",
+        "looks_like": "walker",
+        "edit_distance": 2,
+        "messages": 12,
+        "occurrences": 13,
+        "zipf": 1.29
+      },
+      {
+        "word": "segoe",
+        "looks_like": "sense",
+        "edit_distance": 2,
+        "messages": 11,
+        "occurrences": 18,
+        "zipf": 1.15
+      },
+      {
+        "word": "funtion",
+        "looks_like": "function",
+        "edit_distance": 1,
+        "messages": 11,
+        "occurrences": 11,
+        "zipf": 1.11
+      },
+      {
+        "word": "chunked",
+        "looks_like": "changed",
+        "edit_distance": 2,
+        "messages": 11,
+        "occurrences": 15,
+        "zipf": 1.71
+      },
+      {
+        "word": "wnat",
+        "looks_like": "what",
+        "edit_distance": 1,
+        "messages": 11,
+        "occurrences": 11,
+        "zipf": 1.63
+      },
+      {
+        "word": "fcd",
+        "looks_like": "fed",
+        "edit_distance": 1,
+        "messages": 11,
+        "occurrences": 11,
+        "zipf": 1.85
+      },
+      {
+        "word": "mja",
+        "looks_like": "may",
+        "edit_distance": 2,
+        "messages": 11,
+        "occurrences": 17,
+        "zipf": 1.34
+      },
+      {
+        "word": "thisis",
+        "looks_like": "thesis",
+        "edit_distance": 1,
+        "messages": 11,
+        "occurrences": 11,
+        "zipf": 1.83
+      },
+      {
+        "word": "ndas",
+        "looks_like": "days",
+        "edit_distance": 2,
+        "messages": 11,
+        "occurrences": 24,
+        "zipf": 1.84
+      },
+      {
+        "word": "reseach",
+        "looks_like": "research",
+        "edit_distance": 1,
+        "messages": 11,
+        "occurrences": 11,
+        "zipf": 1.59
+      },
+      {
+        "word": "businesss",
+        "looks_like": "businesses",
+        "edit_distance": 1,
+        "messages": 11,
+        "occurrences": 11,
+        "zipf": 1.5
+      },
+      {
+        "word": "spacy",
+        "looks_like": "space",
+        "edit_distance": 1,
+        "messages": 11,
+        "occurrences": 18,
+        "zipf": 1.69
+      },
+      {
+        "word": "feeld",
+        "looks_like": "field",
+        "edit_distance": 1,
+        "messages": 11,
+        "occurrences": 11,
+        "zipf": 1.24
+      },
+      {
+        "word": "herer",
+        "looks_like": "there",
+        "edit_distance": 2,
+        "messages": 11,
+        "occurrences": 15,
+        "zipf": 1.47
+      },
+      {
+        "word": "cbg",
+        "looks_like": "cbs",
+        "edit_distance": 1,
+        "messages": 11,
+        "occurrences": 32,
+        "zipf": 1.88
+      },
+      {
+        "word": "chmod",
+        "looks_like": "child",
+        "edit_distance": 2,
+        "messages": 10,
+        "occurrences": 47,
+        "zipf": 1.65
+      },
+      {
+        "word": "unary",
+        "looks_like": "entry",
+        "edit_distance": 2,
+        "messages": 10,
+        "occurrences": 30,
+        "zipf": 1.93
+      },
+      {
+        "word": "backwords",
+        "looks_like": "backwards",
+        "edit_distance": 1,
+        "messages": 10,
+        "occurrences": 10,
+        "zipf": 1.06
+      },
+      {
+        "word": "zlib",
+        "looks_like": "club",
+        "edit_distance": 2,
+        "messages": 10,
+        "occurrences": 17,
+        "zipf": 1.48
+      },
+      {
+        "word": "undertand",
+        "looks_like": "understand",
+        "edit_distance": 1,
+        "messages": 10,
+        "occurrences": 10,
+        "zipf": 1.48
+      },
+      {
+        "word": "goig",
+        "looks_like": "going",
+        "edit_distance": 1,
+        "messages": 10,
+        "occurrences": 10,
+        "zipf": 1.1
+      },
+      {
+        "word": "sonner",
+        "looks_like": "sooner",
+        "edit_distance": 1,
+        "messages": 10,
+        "occurrences": 24,
+        "zipf": 1.28
+      },
+      {
+        "word": "peices",
+        "looks_like": "prices",
+        "edit_distance": 1,
+        "messages": 10,
+        "occurrences": 10,
+        "zipf": 1.82
+      },
+      {
+        "word": "evap",
+        "looks_like": "even",
+        "edit_distance": 2,
+        "messages": 10,
+        "occurrences": 23,
+        "zipf": 1.71
+      },
+      {
+        "word": "buid",
+        "looks_like": "build",
+        "edit_distance": 1,
+        "messages": 10,
+        "occurrences": 10,
+        "zipf": 1.08
+      },
+      {
+        "word": "concious",
+        "looks_like": "conscious",
+        "edit_distance": 1,
+        "messages": 10,
+        "occurrences": 10,
+        "zipf": 1.93
+      },
+      {
+        "word": "thoguht",
+        "looks_like": "thought",
+        "edit_distance": 2,
+        "messages": 10,
+        "occurrences": 10,
+        "zipf": 1.06
+      },
+      {
+        "word": "logix",
+        "looks_like": "logic",
+        "edit_distance": 1,
+        "messages": 10,
+        "occurrences": 16,
+        "zipf": 1.61
+      },
+      {
+        "word": "greyed",
+        "looks_like": "agreed",
+        "edit_distance": 2,
+        "messages": 10,
+        "occurrences": 10,
+        "zipf": 1.97
+      },
+      {
+        "word": "neeed",
+        "looks_like": "needed",
+        "edit_distance": 1,
+        "messages": 10,
+        "occurrences": 10,
+        "zipf": 1.52
+      },
+      {
+        "word": "svgs",
+        "looks_like": "says",
+        "edit_distance": 2,
+        "messages": 10,
+        "occurrences": 10,
+        "zipf": 1.25
+      },
+      {
+        "word": "dmarc",
+        "looks_like": "march",
+        "edit_distance": 2,
+        "messages": 10,
+        "occurrences": 13,
+        "zipf": 1.35
+      },
+      {
+        "word": "dkim",
+        "looks_like": "skin",
+        "edit_distance": 2,
+        "messages": 10,
+        "occurrences": 11,
+        "zipf": 1.55
+      },
+      {
+        "word": "newco",
+        "looks_like": "newly",
+        "edit_distance": 2,
+        "messages": 10,
+        "occurrences": 77,
+        "zipf": 1.93
+      },
+      {
+        "word": "proration",
+        "looks_like": "promotion",
+        "edit_distance": 2,
+        "messages": 10,
+        "occurrences": 11,
+        "zipf": 1.46
+      },
+      {
+        "word": "nfts",
+        "looks_like": "nuts",
+        "edit_distance": 1,
+        "messages": 10,
+        "occurrences": 12,
+        "zipf": 1.59
+      },
+      {
+        "word": "nje",
+        "looks_like": "the",
+        "edit_distance": 2,
+        "messages": 10,
+        "occurrences": 18,
+        "zipf": 1.37
+      },
+      {
+        "word": "spoked",
+        "looks_like": "spoken",
+        "edit_distance": 1,
+        "messages": 10,
+        "occurrences": 26,
+        "zipf": 1.73
+      }
+    ],
+    "contraction_gradient": [
+      [
+        "ARGUMENTATIVE",
+        0.7451
+      ],
+      [
+        "CASUAL",
+        0.7372
+      ],
+      [
+        "PERSONAL",
+        0.6461
+      ],
+      [
+        "FRUSTRATED",
+        0.5989
+      ],
+      [
+        "MECHANICAL",
+        0.4485
+      ],
+      [
+        "ACADEMIC",
+        0.4384
+      ],
+      [
+        "UNTAGGED",
+        0.434
+      ],
+      [
+        "CREATIVE_DIRECTION",
+        0.4122
+      ],
+      [
+        "PROFESSIONAL",
+        0.41
+      ],
+      [
+        "INVESTIGATE",
+        0.3867
+      ],
+      [
+        "TECH",
+        0.29
+      ]
+    ],
+    "profanity_gradient": [
+      [
+        "FRUSTRATED",
+        37.8655
+      ],
+      [
+        "CASUAL",
+        1.3807
+      ],
+      [
+        "ACADEMIC",
+        0.6112
+      ],
+      [
+        "MECHANICAL",
+        0.5246
+      ],
+      [
+        "TECH",
+        0.4372
+      ],
+      [
+        "PROFESSIONAL",
+        0.4141
+      ],
+      [
+        "INVESTIGATE",
+        0.3798
+      ],
+      [
+        "PERSONAL",
+        0.3332
+      ],
+      [
+        "ARGUMENTATIVE",
+        0.3196
+      ],
+      [
+        "CREATIVE_DIRECTION",
+        0.2509
+      ],
+      [
+        "UNTAGGED",
+        0.2052
+      ]
+    ]
+  },
+  "claude_baseline_comparison": {
+    "NOTE": "ESTIMATE, not a measurement. No clean Claude-only corpus exists; the baseline is derived from the original features of the 1340 HIGH-contamination messages, which mix Claude prose with David's. Treat deltas as directional.",
+    "claude_baseline_estimate": {
+      "mean_zipf": 4.1399,
+      "pct_rare": 7.8054,
+      "contraction_rate": 0.3656,
+      "caps_emphasis_rate": 35.8698,
+      "mean_sentence_len": 22.5219,
+      "question_density": 0.0502,
+      "em_dash_rate": 26.1725,
+      "hyphen_rate": 5.8812
+    },
+    "david_global": {
+      "mean_zipf": 4.3277,
+      "pct_rare": 6.3909,
+      "contraction_rate": 0.4367,
+      "mean_sentence_len": 17.096,
+      "em_dash_rate": 0.4098
+    },
+    "delta_david_minus_claude": {
+      "mean_zipf": 0.1878,
+      "pct_rare": -1.4145,
+      "contraction_rate": 0.0711,
+      "mean_sentence_len": -5.4259,
+      "em_dash_rate": -25.7627
+    }
+  }
+}

@@ -1,0 +1,130 @@
+
+============================================================
+REGISTER: INVESTIGATE
+============================================================
+{
+  "overall_score": 0.4186,
+  "rarity_score": 0.3901,
+  "rhythm_score": 0.2807,
+  "style_score": 0.5947,
+  "flags": [
+    {
+      "type": "low_rarity",
+      "words": [
+        "year",
+        "men",
+        "without",
+        "different",
+        "first"
+      ],
+      "suggestion": "Words too common for David's INVESTIGATE register"
+    }
+  ],
+  "register": "INVESTIGATE",
+  "word_count": 2280,
+  "processing_ms": 21.6
+}
+
+============================================================
+REGISTER: ARGUMENTATIVE
+============================================================
+{
+  "overall_score": 0.4085,
+  "rarity_score": 0.5235,
+  "rhythm_score": 0.1079,
+  "style_score": 0.5558,
+  "flags": [
+    {
+      "type": "low_rarity",
+      "words": [
+        "year",
+        "men",
+        "without",
+        "different",
+        "first"
+      ],
+      "suggestion": "Words too common for David's ARGUMENTATIVE register"
+    }
+  ],
+  "register": "ARGUMENTATIVE",
+  "word_count": 2280,
+  "processing_ms": 12.3
+}
+
+============================================================
+REGISTER: TECH
+============================================================
+{
+  "overall_score": 0.3785,
+  "rarity_score": 0.2911,
+  "rhythm_score": 0.296,
+  "style_score": 0.5774,
+  "flags": [
+    {
+      "type": "low_rarity",
+      "words": [
+        "year",
+        "men",
+        "without",
+        "different",
+        "first"
+      ],
+      "suggestion": "Words too common for David's TECH register"
+    }
+  ],
+  "register": "TECH",
+  "word_count": 2280,
+  "processing_ms": 12.0
+}
+
+============================================================
+REGISTER: CREATIVE_DIRECTION
+============================================================
+{
+  "overall_score": 0.4735,
+  "rarity_score": 0.4495,
+  "rhythm_score": 0.279,
+  "style_score": 0.7,
+  "flags": [
+    {
+      "type": "low_rarity",
+      "words": [
+        "year",
+        "men",
+        "without",
+        "different",
+        "first"
+      ],
+      "suggestion": "Words too common for David's CREATIVE_DIRECTION register"
+    }
+  ],
+  "register": "CREATIVE_DIRECTION",
+  "word_count": 2280,
+  "processing_ms": 12.3
+}
+
+============================================================
+REGISTER: PROFESSIONAL
+============================================================
+{
+  "overall_score": 0.4449,
+  "rarity_score": 0.442,
+  "rhythm_score": 0.1936,
+  "style_score": 0.7,
+  "flags": [
+    {
+      "type": "low_rarity",
+      "words": [
+        "year",
+        "men",
+        "without",
+        "different",
+        "first"
+      ],
+      "suggestion": "Words too common for David's PROFESSIONAL register"
+    }
+  ],
+  "register": "PROFESSIONAL",
+  "word_count": 2280,
+  "processing_ms": 12.3
+}

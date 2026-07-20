@@ -1,0 +1,176 @@
+# MECHANICAL ENVIRONMENT CALIBRATION
+# Hands-on Technical & Equipment Voice
+# Version: 1.0.0
+
+---
+
+environment:
+  name: mechanical
+  description: "Hands-on technical communication about equipment, vehicles, hardware"
+  audience: "Mechanics, technicians, hands-on builders, equipment operators"
+  
+voice_parameters:
+  formality: 5  # 1-10 scale (practical, not formal)
+  contraction_target: 0.45  # 45% of opportunities
+  dash_tolerance: 3  # maximum per page
+  technical_depth: high  # Domain-specific precision
+  personality_integration: moderate
+  directness: 9  # Very direct, action-oriented
+
+metrics_targets:
+  contraction_rate:
+    minimum: 0.35
+    target: 0.45
+    maximum: 0.55
+  dash_density:
+    maximum: 3  # per page
+  specificity:
+    required: true  # Must name exact parts, models, specs
+
+---
+
+adjustments:
+  relative_to_core:
+    more_specific: true
+    part_numbers: "Include when relevant"
+    action_oriented: true
+    less_abstract: "Concrete over theoretical"
+    
+  tone_shifts:
+    from_dev: "Less software, more physical systems"
+    from_work: "Less strategic, more hands-on"
+    from_personal: "More technical precision"
+    from_research: "Much less formal, practical focus"
+
+---
+
+encouraged_patterns:
+  technical_specificity:
+    - Exact part numbers and model names
+    - Torque specs, measurements, tolerances
+    - Step-by-step procedures
+    - Tool requirements listed
+    
+  action_language:
+    - "Pull the injector"
+    - "Swap the coilovers"
+    - "Check the walbro"
+    - "Run diagnostics on"
+
+---
+
+discouraged_patterns:
+  vague_descriptions:
+    - "Fix the issue" (what issue, what fix?)
+    - "Adjust as needed" (to what spec?)
+    - "Various components" (name them)
+    
+  over_formal:
+    - Academic framing of practical tasks
+    - Passive voice for direct actions
+    - Theoretical when practical works
+
+---
+
+forbidden_additions:
+  phrases:
+    - "it should be noted"
+    - "one might consider"
+    - "the technician may wish to"
+    - "as previously discussed"
+
+---
+
+required_patterns:
+  when_describing_procedures:
+    - Exact tools needed
+    - Specific measurements/torque values
+    - Safety precautions where relevant
+    - Expected outcomes
+
+---
+
+voice_markers:
+  present:
+    - Moderate contraction rate (~45%)
+    - Domain-specific vocabulary (coilovers, injectors, fobs)
+    - High caps emphasis for part codes and model numbers
+    - Direct imperatives
+    - Number-dense (specs, measurements)
+    
+  absent:
+    - Academic distance
+    - Software jargon (unless crossover)
+    - Vague generalities
+    - Corporate buzzwords
+
+---
+
+use_cases:
+  primary:
+    - Vehicle maintenance notes
+    - Equipment troubleshooting
+    - Hardware specifications
+    - Repair procedures
+    
+  not_for:
+    - Software documentation (use dev)
+    - Academic papers (use research)
+    - Business proposals (use work)
+
+---
+
+examples_reference:
+  location: "environments/mechanical/examples/"
+  should_feel_like:
+    - "Experienced mechanic explaining to a peer"
+    - "Precise but not academic"
+    - "Action-oriented, spec-driven"
+
+---
+
+quality_checks:
+  technical_accuracy:
+    - Part numbers verified
+    - Specs within real-world ranges
+    - Procedures safe and logical
+    
+  voice_authenticity:
+    - Contraction rate 40-50%
+    - Domain vocabulary present
+    - Direct action language
+    - No corporate or academic tone
+
+---
+
+cross_environment_notes:
+  vs_dev:
+    difference: "Physical systems vs software systems"
+    similarity: "Both value precision and specificity"
+    
+  vs_work:
+    difference: "Hands-on vs strategic"
+    similarity: "Both results-focused"
+
+---
+
+vfp_measured:
+  register: MECHANICAL
+  mean_zipf: 4.406
+  kite_skew: -1.7443
+  contraction_rate: 0.4485
+  sentence_len_mean: 16.1443
+  is_bimodal: true
+  bimodality_coefficient: 0.6925
+  profanity_rate: 0.5246
+  caps_emphasis_rate: 14.7186
+  source: "voice_profile.json (VFP-04, 2026-07-16)"
+
+---
+
+version_info:
+  version: "1.0.0"
+  created: "2026-07-16"
+  environment: "mechanical"
+  based_on: "core/protocols/MASTER_PROTOCOL.md"
+  adjustments: "Hands-on technical context with VFP measurements"

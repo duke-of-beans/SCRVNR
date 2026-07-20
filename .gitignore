@@ -1,0 +1,31 @@
+outputs/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Session artifacts
+PROJECT_DNA.json
+PROJECT_STATE.json
+STATUS.md
+MORNING_BRIEFING.md
+commit-msg.txt
+BACKLOG.md
+BLOCKED.md
+SCRVNR_INSTRUCTIONS.md
+cleanup.bat
+
+# NEVER commit corpus or database files
+# These contain raw chat messages with API keys and personal data
+*.jsonl
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+profile_viz_data.json
+
+# Environment and secrets
+.env
+.env.*
+*.key
+*.pem
