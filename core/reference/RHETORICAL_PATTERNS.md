@@ -460,3 +460,56 @@ These are the moves that, when present, signal "not David":
 - Breaking accumulating sentences into separate periods (kills the rhythm)
 - Using "sent" when "shot" works. Using "I'm" when dropping the subject works. Any form that's more formal than needed.
 - Adding "with you" after "being straight" (tighter without it)
+
+---
+
+## 27. THE CULTURAL STAB
+
+**What it is:** Embedding an exact quote from a public figure mid-sentence as a dependent clause that inverts the original meaning. The reader recognizes the reference and feels the knife, or the sentence reads clean without it.
+
+**Example:** "...even if 'the Dow is over 50,000.'" — Pam Bondi screamed this at an Epstein hearing. In the essay, it means denial at the cliff edge.
+
+**Seven mechanical rules (all must pass):**
+1. Exact words, not paraphrase — the original quote IS the weapon
+2. Three to eight words — compression IS the violence
+3. No attribution — never "as X said"
+4. Meaning inverts in context — phrase meant one thing originally, means opposite in the essay
+5. Placed at apex of logical claim, not after — clause, not comment
+6. Original moment carried public emotion — outrage/disgust/absurdity
+7. Sentence survives without it — if deletion breaks the point, it's a dependency, not a stab
+
+**Callback Diversity Rule:** ONE callback per source/incident. Multiple from the same event creates a false sub-arc. Go wide, not deep. Pop culture, historical, modern — anything in the cultural water.
+
+---
+
+## 28. ABSURDIST REDUCTION
+
+**What it is:** Scaling an argument to its logical minimum or maximum to expose its ridiculousness. Not classical absurdism — engineered reduction.
+
+**Example:** "If the bootstrap narrative were true, a person sleeping under a bridge would just need a better alarm clock."
+
+**Why it works:** A stab borrows emotion from the reader's existing memory. A reduction manufactures it by showing the argument eating itself. The reader watches the logic self-destruct in real time.
+
+---
+
+## 29. WEAPONIZED CONTRAST
+
+**What it is:** Placing two facts next to each other without editorial. The contrast IS the argument. The reader draws the conclusion because you forced the comparison.
+
+**Example:** "Investment at the top: zero measurable growth across fifty years and eighteen countries. Investment at the bottom: multipliers of 2.5x to 4.3x in randomized trials."
+
+**Why it works:** You never said which one was right. You didn't have to. The numbers next to each other said it. The reader's outrage is self-generated, which makes it stickier than outrage you supplied.
+
+---
+
+## 30. WEAPONIZED PROFESSIONAL VOCABULARY (THE SARDONIC RETRACTION)
+
+**What it is:** Taking the target institution's own language and applying it to violence or injustice so the wrongness becomes self-evident. The institution killed him using its own vocabulary.
+
+**Example:** Gary Webb — "Ruled a suicide. Two gunshot wounds. To the head. A very convincing retraction."
+
+**Why it works:** "Retraction" is journalism's word for admitting you were wrong. Applied to a journalist's death, it reframes assassination as editorial process. The reader does the interpretive work. The writer doesn't editorialize — the juxtaposition IS the editorial.
+
+**Rules:** (1) compressed — sarcasm loses edge with more words (2) one word doing double duty beats a paragraph of irony (3) deadpan modifier "very convincing" signals sarcasm without breaking voice (4) no exclamation, no outrage — restraint IS the fury (5) domain-crossing: import vocabulary from one domain into another where it doesn't belong.
+
+THIS IS DAVID'S SIGNATURE MOVE.
