@@ -1,0 +1,20 @@
+=== round10 start ===
+E1: 1 match(es)
+E2: 1 match(es)
+file written.
+
+--- header ---
+# By Any Means
+## On hollow wills and sharp receipts
+
+---
+
+On the night of November 14, 1917, roughly forty guards desce
+
+--- VIII ---
+### VIII.
+
+The New Deal was a system buying survival. Not every system pays.
+
+France set the founding price. A monarchy 
+=== round10 end ===

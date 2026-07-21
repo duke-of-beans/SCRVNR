@@ -16,3 +16,33 @@ $ git status --porcelain
 ?? learning/scripts/find_git_log.txt
 ?? learning/scripts/round9_log.txt
   err=
+$ git add -A
+  rc=0
+  out=
+  err=warning: in the working copy of 'learning/scripts/apply_round9.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'learning/scripts/find_and_commit.py', LF will be replaced by CRLF the next time Git touches it
+$ git status --porcelain
+  rc=0
+  out=M  by-any-means-v5.md
+A  learning/scripts/apply_round9.py
+A  learning/scripts/find_and_commit.py
+AM learning/scripts/find_git_log.txt
+A  learning/scripts/round9_log.txt
+  err=
+$ git commit -m feat(voice): By Any Means v5 final + Voice Doctrine codification - rhythm doctrine, patterns #31-33, guillotine principle, 11 correction pairs
+  rc=0
+  out=[main 4a2622f] feat(voice): By Any Means v5 final + Voice Doctrine codification - rhythm doctrine, patterns #31-33, guillotine principle, 11 correction pairs
+ 5 files changed, 154 insertions(+)
+ create mode 100644 learning/scripts/apply_round9.py
+ create mode 100644 learning/scripts/find_and_commit.py
+ create mode 100644 learning/scripts/find_git_log.txt
+ create mode 100644 learning/scripts/round9_log.txt
+  err=SCRVNR pre-commit: scanning for secrets...
+SCRVNR pre-commit: clean.
+$ git log --oneline -3
+  rc=0
+  out=4a2622f feat(voice): By Any Means v5 final + Voice Doctrine codification - rhythm doctrine, patterns #31-33, guillotine principle, 11 correction pairs
+7c1e63d feat(voice): By Any Means v5 final + Voice Doctrine codification - rhythm doctrine, patterns #31-33, guillotine principle, 11 correction pairs
+3ced765 feat(voice): wire rhetorical arsenal into pipeline - 30 patterns, phased generation workflow, edit deltas, fingerprint phrases
+  err=
+=== end ===
