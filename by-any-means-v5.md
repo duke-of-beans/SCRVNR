@@ -138,6 +138,7 @@ None of this says your ballot is worthless. It says your ballot is priced. And t
 ---
 
 ### VIII.
+#### On hollow wills and sharp receipts
 
 The New Deal was a system buying survival. Not every system pays.
 

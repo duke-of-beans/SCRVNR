@@ -1,0 +1,18 @@
+=== start ===
+No GitHub Desktop dir
+  PATH found: d:\Program Files\Git\cmd\git.exe
+  miss: C:\Program Files\Git\cmd\git.exe
+  miss: C:\Program Files\Git\bin\git.exe
+  miss: C:\Program Files (x86)\Git\cmd\git.exe
+  miss: D:\Programs\Git\cmd\git.exe
+  miss: C:\Users\DKdKe\AppData\Local\Programs\Git\cmd\git.exe
+  miss: C:\Users\DKdKe\scoop\shims\git.exe
+FOUND: d:\Program Files\Git\cmd\git.exe
+$ git status --porcelain
+  rc=0
+  out=M by-any-means-v5.md
+?? learning/scripts/apply_round9.py
+?? learning/scripts/find_and_commit.py
+?? learning/scripts/find_git_log.txt
+?? learning/scripts/round9_log.txt
+  err=
