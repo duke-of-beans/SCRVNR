@@ -1,1 +1,13 @@
 === start ===
+$ git add -A -> rc=0 |  | warning: in the working copy of 'learning/scripts/apply_round10.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'learning/scripts/commit_subtitle.py', LF will be replaced by CRLF the next time Git touches it
+$ git commit -m fix(voice): move subtitle to essay level - On hollow wills and sharp receipts -> rc=0 | [main 30e48ec] fix(voice): move subtitle to essay level - On hollow wills and sharp receipts
+ 6 files changed, 111 insertions(+), 2 deletions(-)
+ create mode 100644 learning/scripts/apply_round10.py
+ create mode 100644 learning/scripts/commit2_log.txt
+ create mode 100644 learning/scripts/commit_subt | SCRVNR pre-commit: scanning for secrets...
+SCRVNR pre-commit: clean.
+$ git log --oneline -3 -> rc=0 | 30e48ec fix(voice): move subtitle to essay level - On hollow wills and sharp receipts
+4a2622f feat(voice): By Any Means v5 final + Voice Doctrine codification - rhythm doctrine, patterns #31-33, guillotine principle, 11 correction pairs
+7c1e63d feat(voice): By Any Means v5 final + Voice Doctrine cod | 
+=== end ===
