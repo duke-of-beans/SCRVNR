@@ -1,0 +1,18 @@
+=== commit start ===
+git: None
+STATUS.md head: # SCRVNR — STATUS.md | Last Updated: 2026-07-20 (auto — feat(voice): wire rhetorical arsenal into pipeline - 30 patt)
+EXCEPTION:
+Traceback (most recent call last):
+  File "D:\Projects\SCRVNR\learning\scripts\do_commit.py", line 33, in <module>
+    run("add", "-A")
+  File "D:\Projects\SCRVNR\learning\scripts\do_commit.py", line 23, in run
+    r = subprocess.run([git, "-C", REPO] + list(args), capture_output=True, text=True, timeout=120)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "subprocess.py", line 548, in run
+  File "subprocess.py", line 1026, in __init__
+  File "subprocess.py", line 1462, in _execute_child
+  File "subprocess.py", line 608, in list2cmdline
+  File "<frozen os>", line 859, in fsdecode
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+=== commit end ===

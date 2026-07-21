@@ -1,0 +1,25 @@
+=== sweep start ===
+E1: 1 match(es)
+E2: 1 match(es)
+E3: 1 match(es)
+file written.
+
+--- new open ---
+roughly forty guards descended on thirty-three women at the Occoquan Workhouse in Virginia.
+
+Lucy Burns was handcuffed to the bars of her cell with her arms above her head and left hanging there until morning. Dora Lewis was thrown headfirst into a dark cell and knocked unconscious against the iron frame of a bed. Alice Cosu watched Lewis crumple, believed she was watching a woman die, and suffered a heart attack. The guards refused her a doctor until dawn. Dorothy Day - who would go on to found the Catholic Worker movement - was slammed twice over the back of an iron bench. [1] The superintendent was never prosecuted.
+
+Their crime was picketing. They had stood at the White House gates holding signs that asked why a president waging a war to make the world safe for democracy would not extend democracy to half his own citizens. For that, they were arrested. For that, they were imprisoned. For that, they were beaten. And when they went on hunger strikes, the state held them down and forced tubes into their throats.
+
+Within three years, the Nineteenth Amendment was ratified.
+
+The right to vote was won by people who could not vote, through methods that were not voting.
+
+This isn't an exceptional case. It's the pattern.
+
+---
+
+### I.
+
+A woman ref
+=== sweep end ===

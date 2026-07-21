@@ -1,0 +1,19 @@
+=== round3 start ===
+E1: 1 match(es)
+E2: 1 match(es)
+E3: 1 match(es)
+E4: 1 match(es)
+E5: 1 match(es)
+file written.
+pair1 (referent precision): 'cp_e82521b56e2f'
+pair2 (opener contrast): 'cp_dea2cb8750f7'
+
+--- section II around confession ---
+ant Isadore Pizitz eventually said the quiet part into a microphone: "It took the spur of the economic boycott to move us in the right direction." [6] No textbook frames that sentence as what it is.
+
+A confession.
+
+The mechanism was never moral suasion. It was cost imposition. The system conceded not because it was persuaded but because the books stopped balancing - and run that ledger anywhere on earth, in any century, and it reads the same. Gandhi's boycott of British cloth cut imports nearly in half in a single year, shuttered seventy-four textile mills in Blackburn, threw 160,000 Lancashire workers into the street, and by the time he toured the dead mills in 1931 the only question constituents were putting to their members of Parliament - preserved in Hansard - was: "When are you going to get our cotton mills to work again?" [7] His campaign didn't appeal to British morality. It broke British payrolls.
+
+The eight-hour workday took 105 years. Haymarket, where four anarchists hanged for a bomb none of them was proven to have thrown. Ludlow, where the National Guard machine-gunned a
+=== round3 end ===

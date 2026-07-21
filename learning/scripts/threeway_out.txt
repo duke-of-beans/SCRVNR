@@ -1,0 +1,31 @@
+TARGETS: zipf=4.503 pct_rare=5.20 sent_mean=19.59 sent_std=23.84 contraction=0.7451 caps_profile=25.33
+
+--- ORIGINAL v3 (matched span) ---
+overall=0.633  rarity=0.776 rhythm=0.170 style=0.906  (band MARGINAL)
+sent: n=137 mean=11.05 std=8.13 p10=4 p90=20 max=46
+contraction_rate=0.727/100w  em=0  caps_rate=5.28
+fixes: [('em_dash', 17), ('contraction_insertion', 3)]
+
+--- V4 (matched span) ---
+overall=0.531  rarity=0.736 rhythm=0.202 style=0.586  (band MARGINAL)
+sent: n=167 mean=11.68 std=10.36 p10=3 p90=24 max=76
+contraction_rate=1.025/100w  em=0  caps_rate=4.61
+fixes: []
+
+--- V5 (matched span) ---
+overall=0.539  rarity=0.767 rhythm=0.192 style=0.582  (band MARGINAL)
+sent: n=173 mean=11.48 std=11.35 p10=3 p90=24 max=76
+contraction_rate=0.906/100w  em=0  caps_rate=4.53
+fixes: []
+
+--- V4 (full) ---
+overall=0.512  rarity=0.691 rhythm=0.228 style=0.558  (band MARGINAL)
+sent: n=209 mean=12.21 std=10.69 p10=3 p90=28 max=76
+contraction_rate=1.019/100w  em=0  caps_rate=3.92
+fixes: []
+
+--- V5 (full) ---
+overall=0.531  rarity=0.748 rhythm=0.218 style=0.555  (band MARGINAL)
+sent: n=216 mean=12.00 std=11.44 p10=3 p90=26 max=76
+contraction_rate=0.926/100w  em=0  caps_rate=3.86
+fixes: []

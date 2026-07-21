@@ -513,3 +513,77 @@ These are the moves that, when present, signal "not David":
 **Rules:** (1) compressed — sarcasm loses edge with more words (2) one word doing double duty beats a paragraph of irony (3) deadpan modifier "very convincing" signals sarcasm without breaking voice (4) no exclamation, no outrage — restraint IS the fury (5) domain-crossing: import vocabulary from one domain into another where it doesn't belong.
 
 THIS IS DAVID'S SIGNATURE MOVE.
+
+- Indicting "we"/the populace for engineered outcomes. The general population is compassionate by nature; callousness is manufactured - taught through tribalism, groupthink, and party machinery. Assign agency to the architects ("they," "the dry end," the named actors), never to the people the machinery operates on. "We were handed the wrong model," not "we had the wrong model." The populace bails; the architects drill.
+
+
+---
+
+## 31. Percussive Linguistics (Sound as Weapon)
+
+**What it is:** Deploying the physical sound of language - plosives, consonance, alliteration, assonance, repetition-as-drum - so the mouth itself does the arguing. The sentence doesn't describe the punch. It is the punch.
+
+**The toolkit:**
+- **Plosive clusters** (b, d, k, p, t) at emotional peaks: "Broke British payrolls." Three plosives, three syllables of impact.
+- **Consonance / alliteration threading a passage:** a b-line or p-line running under a paragraph, load-bearing and invisible. If a reader notices it as ornament, it failed - cut it.
+- **Assonance to slow the line:** long vowels drag; use where dread lives, never where fury lives.
+- **Repetition as percussion:** "decade after decade, statute after statute." A drum, not an echo. The repetition IS the indictment.
+- **Isolation as white-space percussion:** the punchline on its own line. The silence around it is part of the hit.
+
+**Governing rule:** Sound deploys where the CONTENT peaks, per the Rhythm Doctrine (GENERATION_WORKFLOW.md). Never as texture, never evenly distributed, never as formula. A fury sentence earns its plosives. A cold-analysis sentence earns its parallel cadence. A quiet closer earns its space.
+
+**Anti-pattern:** Decorative alliteration in neutral prose. Tongue-twister density. Sound effects in sections whose emotion doesn't call for them. If every paragraph is percussive, none of them are.
+
+**Relationship to rhythm:** This pattern is the sound half of the Rhythm Doctrine. Sentence LENGTH dynamics (rivers, punches, staccato) are the shape half. Both are driven by the same source: what's being said and the emotion saying it. Speech is rhythm, but it is not a song.
+
+
+---
+
+## 32. Information-Order Inversion (The Delayed Who)
+
+**What it is:** Inverting the writer's natural order - WHO → WHAT/HOW → WHY - into the reader's richer order: WHY/scene → WHAT/HOW → WHO last. The reader rides the action without the anchor of identity, supplies their own assumption to fill the gap, and the late reveal either rewards the guess or detonates it.
+
+**Why it works:** the reader's assumption is the mechanism. Withholding the expected anchor converts passive reading into active reading - the reader is building the story with you, which means the reveal is something that happens TO them, not something they're told about.
+
+**Two payoff modes:**
+- **Confirmation:** the reader guessed right and feels the click of recognition. Fine. Cheap.
+- **Detonation (the strong form):** the reader's assumption was installed - by culture, by curriculum, by repetition - and the reveal indicts the installation itself. "A woman refused to give up her seat on a segregated bus in Montgomery, Alabama... Her name was Claudette Colvin. She was fifteen years old." The reader supplied "Rosa Parks" entirely on their own. Nobody lied to them. Their education did. The essay demonstrates its thesis in the reader's own head before stating it.
+
+**The craft asymmetry (the operational rule):** who-first is easier to WRITE; who-last is better to READ. So draft in writer-order when it flows, then invert in the weapons pass - move the name to the end of the unit, strip identifying anchors from the front, verify the remaining description stays strictly honest.
+
+**Rules:**
+1. Never lie. The pre-reveal description must be true in every detail. The reader deceives themselves; the writer merely declines to correct them early.
+2. The reveal is short. Name plus one devastating attribute. "She was fifteen years old."
+3. The reveal gets its own beat - own sentence, often own line. Composes with #31 isolation-as-white-space.
+4. The withheld anchor must snap unambiguous at reveal. Delayed is not the same as murky.
+5. Scales at every level: sentence, paragraph, section, whole essay. The essay-scale version is the central metaphor's object named last - the reader sits in the theater for eight sections before being handed the ticket.
+
+**The general class:** the axis is any interrogative anchor, not only who. Delayed WHAT (mystery structure - the action described before it's named), delayed WHY (the mechanism withheld until the evidence makes it undeniable - cost imposition arriving only after the receipts), delayed WHEN. Delayed Who is the flagship of the inversion family. One pattern among many; the family grows as instances get named.
+
+**Anti-pattern:** withholding for withholding's sake. If no assumption forms in the gap, the delay is just confusion. The inversion only earns its keep when the reader WILL fill the gap - with something the reveal can use.
+
+**Variant — The Settled Decoy (David, 2026-07-20):** Instead of leaving the gap open for the reader to fill, CONFIRM their assumption explicitly first - name the decoy's attributes up front ("Forty-two. A seamstress. The right face for the poster.") so the reader settles into certainty - then pull: "Nine months earlier, another woman..." The self-supplied form (gap left open, reader fills it, reveal convicts THEIR assumption) is the stronger detonation when the false version is culturally installed, because nobody misdirected them - their education did. The Settled Decoy is the right tool when the reader might NOT reliably supply the decoy on their own, or when deepening false comfort before the pull serves the register. Two orderings, same pattern; choose by whether the reader's schooling can be trusted to spring the trap unassisted.
+
+
+---
+
+## 33. The Salt (Absurdist Collision)
+
+**What it is:** A grain of lowbrow pop-culture absurdism embedded in dense, dark, documented material - built by COLLIDING a real dark-elite reference with a current lowbrow object. "Both parties drink from the same BORG jug at Bohemian Grove." The already-surreal elite - robes, owl effigy, Cremation of Care, all documented - rendered as frat boys passing a gallon jug.
+
+**Why it works (David's articulation, 2026-07-20):** "It's like getting a grain of coarse sea salt in a chocolate chip cookie. Those little bits MAKE the cookie and take it to a massively different level. The salt is the personality." The grain does three jobs simultaneously: it degrades the powerful (not mysterious masters - a party), it delights the reader ("what makes it fun"), and it fuels the trek ("keeps them moving through dense material").
+
+**The formula:** [documented dark-surreal elite reference] x [current lowbrow absurdist object]. The collision must PAINT - the reader has to SEE the robed men with the gallon jug. If it doesn't render visually, it's not salt.
+
+**Rules:**
+1. **Punch up only.** The salt degrades the powerful, never the victims. A BORG at Bohemian Grove; never a BORG at Occoquan.
+2. **Grains, not frosting.** One or two per essay. Salt density converts personality into shtick. Same scarcity law as isolation, stabs, and metaphor - impact is a function of rarity.
+3. **Both halves real.** The dark half documented (Bohemian Grove exists, the rituals are photographed). The pop half current and genuinely recognizable (BORG). An invented half is whimsy, not salt.
+4. **Placement:** immediately before or inside the densest material. The grain buys the reader's next mile.
+5. **Personality license is the point.** The salt belongs in PROFESSIONAL writing - "I WOULD use the BORG in professional writing because that's who I am." The venue does not get to delete the person.
+
+**Ladder of force** (from the same correction): "drink from the same well" (dead idiom, too nice) → shared-object upgrade ("a joint with herpes") → insulting analogy ("two parasites leeching off the same host") → full collision ("the same BORG jug at Bohemian Grove"). Default to the top rung when the target is institutional power.
+
+**Relation:** register contrast at maximum amplitude (the absurd register crashing the formal), tangibility weaponized (two images the reader already owns, smashed together), and the form-level enactment of the content: refusing institutional register IS the disobedience.
+
+**#33 addendum — true-fact absurdities (2026-07-20):** Reality's own absurdities are NOT salt and don't count against the grain budget. A president resigning by email from another country, a successor chosen in a Discord poll, a merchant confessing into a microphone - these are data weapons that happen to be absurd. Salt is CONSTRUCTED collision (two references the writer smashes together); true absurd facts are receipts, and receipts are unlimited. When reality outdoes the metaphor, use reality and skip the metaphor - the burning parliament needs no theater imagery.

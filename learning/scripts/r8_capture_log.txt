@@ -1,0 +1,5 @@
+=== start ===
+import ok
+init ok
+capture ok: 'cp_215b8d49e150'
+=== end ===

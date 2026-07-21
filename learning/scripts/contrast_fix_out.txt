@@ -1,0 +1,15 @@
+replace (1 match): This is not an exceptional case. It is the pattern....
+replace (1 match): So take the counterargument at full strength. The question i...
+file patched.
+correction pair logged: cp_de4241b4ec09
+
+--- patched open close ---
+methods that were not voting.
+
+This isn't an exceptional case. It's the pattern.
+
+---
+
+### I.
+
+A woman refused to give up her seat on a segr

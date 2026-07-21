@@ -1,0 +1,43 @@
+================================================================
+TARGETS (ARGUMENTATIVE) from voice.db
+================================================================
+  target.created_at = 2026-07-17 05:20:23
+  target.register = ARGUMENTATIVE
+  target.target_contraction_rate = 0.7451
+  target.target_em_dash_rate = 0.4807
+  target.target_mean_zipf = 4.5025
+  target.target_pct_rare = 5.1968
+  target.target_sentence_len_mean = 19.593
+  target.target_sentence_len_std = 23.84
+  target.tolerance_contraction = 0.15
+  target.tolerance_rare = 2.0
+  target.tolerance_sentence = 11.92
+  target.tolerance_zipf = 0.443
+  profile.caps_emphasis_rate = 25.3329
+  profile.is_bimodal = 1
+
+================================================================
+ORIGINAL v3  (post-fix, scored text)  words=1514
+================================================================
+overall=0.633  rarity=0.776  rhythm=0.170  style=0.906
+[RARITY 0.4] mean_zipf=4.693 vs 4.5025 (tol 0.66) -> 0.713 x0.6
+             pct_rare=4.94% vs 5.1968% (tol 2.0) -> 0.870 x0.4
+[RHYTHM 0.3] sent_mean=11.05 vs 19.593 (tol 11.92) -> 0.283 x0.6
+             sent_std=8.13 vs 23.84 -> 0.000 x0.4   (n=137)
+[STYLE 0.3]  contraction_rate=0.727/100w vs 0.7451 (tol 0.15) -> 0.876 x0.3
+             em_dashes=0 -> 1.0 x0.4
+             caps_rate=5.28/1000w vs profile 25.3329 (sat at 7.599869999999999) -> 0.695 x0.3
+fixes applied: [('em_dash', 17), ('contraction_insertion', 3)]
+
+================================================================
+V4  (post-fix, scored text)  words=1951
+================================================================
+overall=0.531  rarity=0.736  rhythm=0.202  style=0.586
+[RARITY 0.4] mean_zipf=4.744 vs 4.5025 (tol 0.66) -> 0.636 x0.6
+             pct_rare=4.97% vs 5.1968% (tol 2.0) -> 0.886 x0.4
+[RHYTHM 0.3] sent_mean=11.68 vs 19.593 (tol 11.92) -> 0.336 x0.6
+             sent_std=10.36 vs 23.84 -> 0.000 x0.4   (n=167)
+[STYLE 0.3]  contraction_rate=1.025/100w vs 0.7451 (tol 0.15) -> 0.000 x0.3
+             em_dashes=0 -> 1.0 x0.4
+             caps_rate=4.61/1000w vs profile 25.3329 (sat at 7.599869999999999) -> 0.607 x0.3
+fixes applied: []
