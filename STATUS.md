@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-16
-Last Recorded: wo-20261016-53756eab — Walter's creed: kindness bit him, and shaped Curt
+Last Recorded: wo-20261016-e8e4d813 — Amapola: the name, the funeral card, the recipe; two new rules
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-16T23:00:46.571Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-16T23:08:41.269Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -26,7 +26,7 @@ _Generated 2026-10-16T23:00:46.571Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261016-e8e4d813` | scrvnr | dispatched | Amapola: the name, the funeral card, the recipe; two new rules | 2026-10-16 |
+| `wo-20261016-c2cce816` | scrvnr | dispatched | Rosaria 1942-1986, Walter's move, Ray's route, house order | 2026-10-16 |
 | `wo-20261016-fd8a8c84` | scrvnr | drafted | G7 Obsidian: open the GitHub-backed vault, retire the zip copy | 2026-10-16 |
 | `wo-20261016-9362b031` | scrvnr | blocked | Save Rosaria's letter (Supposed to Be Nice Tomorrow) | 2026-10-16 |
 | `wo-20261016-49bf003b` | scrvnr | blocked | Save locked last call + letter timing fix + new prose rules | 2026-10-16 |
@@ -65,6 +65,7 @@ None.
 - 2026-10-16 `wo-20261016-cd4c80bc` **Supposed to Be Nice Tomorrow: scene 5, the seam (first draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#12](https://github.com/duke-of-beans/SCRVNR-private/pull/12) · merged, checks green
 - 2026-10-16 `wo-20261016-d15eca8a` **Alma's strip: the tape stacks' closure, and her tomorrow** (scrvnr) — [duke-of-beans/SCRVNR-private#18](https://github.com/duke-of-beans/SCRVNR-private/pull/18) · merged, checks green
 - 2026-10-16 `wo-20261016-dc38fb7a` **Scene 5 revision from David's notes; new prose rules** (scrvnr) — [duke-of-beans/SCRVNR-private#16](https://github.com/duke-of-beans/SCRVNR-private/pull/16) · merged, checks green
+- 2026-10-16 `wo-20261016-e8e4d813` **Amapola: the name, the funeral card, the recipe; two new rules** (scrvnr) — [duke-of-beans/SCRVNR-private#32](https://github.com/duke-of-beans/SCRVNR-private/pull/32) · merged, checks green
 
-<!-- work-orders:recorded wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-53756eab wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-87ccb72c wo-20261016-a2f1b194 wo-20261016-b5d7ed70 wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-d15eca8a wo-20261016-dc38fb7a -->
+<!-- work-orders:recorded wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-53756eab wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-87ccb72c wo-20261016-a2f1b194 wo-20261016-b5d7ed70 wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 -->
 <!-- work-orders:end -->
