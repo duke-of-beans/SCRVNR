@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-16
-Last Recorded: wo-20261016-e8e4d813 — Amapola: the name, the funeral card, the recipe; two new rules
+Last Recorded: wo-20261016-c2cce816 — Rosaria 1942-1986, Walter's move, Ray's route, house order
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-16T23:08:41.269Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-16T23:21:43.891Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -26,7 +26,10 @@ _Generated 2026-10-16T23:08:41.269Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261016-c2cce816` | scrvnr | dispatched | Rosaria 1942-1986, Walter's move, Ray's route, house order | 2026-10-16 |
+| `wo-20261016-12ca7372` | scrvnr | dispatched | Ending invariant: the last stitch is Carla's | 2026-10-16 |
+| `wo-20261016-0ccdb165` | scrvnr | dispatched | Carla: the hands that skipped her | 2026-10-16 |
+| `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
+| `wo-20261016-abcb8b3c` | scrvnr | dispatched | Health levers; poppies on the Rios/Miller fence; Ray's flag mirror | 2026-10-16 |
 | `wo-20261016-fd8a8c84` | scrvnr | drafted | G7 Obsidian: open the GitHub-backed vault, retire the zip copy | 2026-10-16 |
 | `wo-20261016-9362b031` | scrvnr | blocked | Save Rosaria's letter (Supposed to Be Nice Tomorrow) | 2026-10-16 |
 | `wo-20261016-49bf003b` | scrvnr | blocked | Save locked last call + letter timing fix + new prose rules | 2026-10-16 |
@@ -61,11 +64,12 @@ None.
 - 2026-10-16 `wo-20261016-87ccb72c` **Lock scene 10** (scrvnr) — [duke-of-beans/SCRVNR-private#29](https://github.com/duke-of-beans/SCRVNR-private/pull/29) · merged, checks green
 - 2026-10-16 `wo-20261016-a2f1b194` **Supposed to Be Nice Tomorrow: scene 4, the county desk (first draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#22](https://github.com/duke-of-beans/SCRVNR-private/pull/22) · merged, checks green
 - 2026-10-16 `wo-20261016-b5d7ed70` **Scene 4: the unasked bullhorn question** (scrvnr) — [duke-of-beans/SCRVNR-private#23](https://github.com/duke-of-beans/SCRVNR-private/pull/23) · merged, checks green
+- 2026-10-16 `wo-20261016-c2cce816` **Rosaria 1942-1986, Walter's move, Ray's route, house order** (scrvnr) — [duke-of-beans/SCRVNR-private#33](https://github.com/duke-of-beans/SCRVNR-private/pull/33) · merged, checks green
 - 2026-10-16 `wo-20261016-cc1d8195` **Last call: Spanish on the tub, unread Italian inside it** (scrvnr) — [duke-of-beans/SCRVNR-private#20](https://github.com/duke-of-beans/SCRVNR-private/pull/20) · merged, checks green
 - 2026-10-16 `wo-20261016-cd4c80bc` **Supposed to Be Nice Tomorrow: scene 5, the seam (first draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#12](https://github.com/duke-of-beans/SCRVNR-private/pull/12) · merged, checks green
 - 2026-10-16 `wo-20261016-d15eca8a` **Alma's strip: the tape stacks' closure, and her tomorrow** (scrvnr) — [duke-of-beans/SCRVNR-private#18](https://github.com/duke-of-beans/SCRVNR-private/pull/18) · merged, checks green
 - 2026-10-16 `wo-20261016-dc38fb7a` **Scene 5 revision from David's notes; new prose rules** (scrvnr) — [duke-of-beans/SCRVNR-private#16](https://github.com/duke-of-beans/SCRVNR-private/pull/16) · merged, checks green
 - 2026-10-16 `wo-20261016-e8e4d813` **Amapola: the name, the funeral card, the recipe; two new rules** (scrvnr) — [duke-of-beans/SCRVNR-private#32](https://github.com/duke-of-beans/SCRVNR-private/pull/32) · merged, checks green
 
-<!-- work-orders:recorded wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-53756eab wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-87ccb72c wo-20261016-a2f1b194 wo-20261016-b5d7ed70 wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 -->
+<!-- work-orders:recorded wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-53756eab wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-87ccb72c wo-20261016-a2f1b194 wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 -->
 <!-- work-orders:end -->
