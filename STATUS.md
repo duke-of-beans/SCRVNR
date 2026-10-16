@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-16
-Last Recorded: wo-20261016-51245484 — Lock scenes 3 and 13
+Last Recorded: wo-20261016-68345bb2 — Scene 7, Fuck Luck (first draft)
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-16T23:50:41.003Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-16T23:52:41.648Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,7 +27,6 @@ _Generated 2026-10-16T23:50:41.003Z from the work-order store. Done means verifi
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
 | `wo-20261016-c430223d` | scrvnr | dispatched | Scene 7 revision: Gracie's fire, Curt's Vietnam, FUCK LUCK, Ray takes no side | 2026-10-16 |
-| `wo-20261016-68345bb2` | scrvnr | dispatched | Scene 7, Fuck Luck (first draft) | 2026-10-16 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
 | `wo-20261016-fd8a8c84` | scrvnr | drafted | G7 Obsidian: open the GitHub-backed vault, retire the zip copy | 2026-10-16 |
 | `wo-20261016-9362b031` | scrvnr | blocked | Save Rosaria's letter (Supposed to Be Nice Tomorrow) | 2026-10-16 |
@@ -60,6 +59,7 @@ None.
 - 2026-10-16 `wo-20261016-35a677b5` **Supposed to Be Nice Tomorrow: scene 9, Sunday dinner (first draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#24](https://github.com/duke-of-beans/SCRVNR-private/pull/24) · merged, checks green
 - 2026-10-16 `wo-20261016-51245484` **Lock scenes 3 and 13** (scrvnr) — [duke-of-beans/SCRVNR-private#41](https://github.com/duke-of-beans/SCRVNR-private/pull/41) · merged, checks green
 - 2026-10-16 `wo-20261016-53756eab` **Walter's creed: kindness bit him, and shaped Curt** (scrvnr) — [duke-of-beans/SCRVNR-private#31](https://github.com/duke-of-beans/SCRVNR-private/pull/31) · merged, checks green
+- 2026-10-16 `wo-20261016-68345bb2` **Scene 7, Fuck Luck (first draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#42](https://github.com/duke-of-beans/SCRVNR-private/pull/42) · merged, checks green
 - 2026-10-16 `wo-20261016-72faef94` **Curt's tell: the blower and the poppies, then the rake** (scrvnr) — [duke-of-beans/SCRVNR-private#21](https://github.com/duke-of-beans/SCRVNR-private/pull/21) · merged, checks green
 - 2026-10-16 `wo-20261016-79e9a877` **Scene 10, the filing (first draft); Ray's cup during Carla's month** (scrvnr) — [duke-of-beans/SCRVNR-private#28](https://github.com/duke-of-beans/SCRVNR-private/pull/28) · merged, checks green
 - 2026-10-16 `wo-20261016-82036fad` **Rose finds Ray's hidden notice before the table; door tell** (scrvnr) — [duke-of-beans/SCRVNR-private#27](https://github.com/duke-of-beans/SCRVNR-private/pull/27) · merged, checks green
@@ -77,5 +77,5 @@ None.
 - 2026-10-16 `wo-20261016-dc38fb7a` **Scene 5 revision from David's notes; new prose rules** (scrvnr) — [duke-of-beans/SCRVNR-private#16](https://github.com/duke-of-beans/SCRVNR-private/pull/16) · merged, checks green
 - 2026-10-16 `wo-20261016-e8e4d813` **Amapola: the name, the funeral card, the recipe; two new rules** (scrvnr) — [duke-of-beans/SCRVNR-private#32](https://github.com/duke-of-beans/SCRVNR-private/pull/32) · merged, checks green
 
-<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-51245484 wo-20261016-53756eab wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 -->
+<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-51245484 wo-20261016-53756eab wo-20261016-68345bb2 wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 -->
 <!-- work-orders:end -->
