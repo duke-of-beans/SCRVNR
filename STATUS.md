@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-16
-Last Recorded: wo-20261016-0ccdb165 — Carla: the hands that skipped her
+Last Recorded: wo-20261016-12ca7372 — Ending invariant: the last stitch is Carla's
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-16T23:31:41.812Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-16T23:34:43.301Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -26,9 +26,10 @@ _Generated 2026-10-16T23:31:41.812Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261016-51245484` | scrvnr | dispatched | Lock scenes 3 and 13 | 2026-10-16 |
+| `wo-20261016-97039196` | scrvnr | dispatched | The door: "Mr. H" becomes "sir" | 2026-10-16 |
 | `wo-20261016-cb1dd04a` | scrvnr | dispatched | Scene 13: why Danny goes to Ray, not Curt | 2026-10-16 |
 | `wo-20261016-8643b0c3` | scrvnr | dispatched | Scene 13, Reference (first draft) | 2026-10-16 |
-| `wo-20261016-12ca7372` | scrvnr | dispatched | Ending invariant: the last stitch is Carla's | 2026-10-16 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
 | `wo-20261016-fd8a8c84` | scrvnr | drafted | G7 Obsidian: open the GitHub-backed vault, retire the zip copy | 2026-10-16 |
 | `wo-20261016-9362b031` | scrvnr | blocked | Save Rosaria's letter (Supposed to Be Nice Tomorrow) | 2026-10-16 |
@@ -54,6 +55,7 @@ None.
 ### Recently recorded (last 30 days)
 
 - 2026-10-16 `wo-20261016-0ccdb165` **Carla: the hands that skipped her** (scrvnr) — [duke-of-beans/SCRVNR-private#36](https://github.com/duke-of-beans/SCRVNR-private/pull/36) · merged, checks green
+- 2026-10-16 `wo-20261016-12ca7372` **Ending invariant: the last stitch is Carla's** (scrvnr) — [duke-of-beans/SCRVNR-private#37](https://github.com/duke-of-beans/SCRVNR-private/pull/37) · merged, checks green
 - 2026-10-16 `wo-20261016-192a3076` **Lock scenes 4, 5 and 9** (scrvnr) — [duke-of-beans/SCRVNR-private#26](https://github.com/duke-of-beans/SCRVNR-private/pull/26) · merged, checks green
 - 2026-10-16 `wo-20261016-20fa3787` **Scene 5, second pass of David's notes (blower, tape stack)** (scrvnr) — [duke-of-beans/SCRVNR-private#17](https://github.com/duke-of-beans/SCRVNR-private/pull/17) · merged, checks green
 - 2026-10-16 `wo-20261016-2b90f368` **Scene 3, Two Dots (first draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#30](https://github.com/duke-of-beans/SCRVNR-private/pull/30) · merged, checks green
@@ -73,5 +75,5 @@ None.
 - 2026-10-16 `wo-20261016-dc38fb7a` **Scene 5 revision from David's notes; new prose rules** (scrvnr) — [duke-of-beans/SCRVNR-private#16](https://github.com/duke-of-beans/SCRVNR-private/pull/16) · merged, checks green
 - 2026-10-16 `wo-20261016-e8e4d813` **Amapola: the name, the funeral card, the recipe; two new rules** (scrvnr) — [duke-of-beans/SCRVNR-private#32](https://github.com/duke-of-beans/SCRVNR-private/pull/32) · merged, checks green
 
-<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-53756eab wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-87ccb72c wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 -->
+<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-53756eab wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-87ccb72c wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 -->
 <!-- work-orders:end -->
