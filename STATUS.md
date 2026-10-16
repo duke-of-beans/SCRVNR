@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-16
-Last Recorded: wo-20261016-cc1d8195 — Last call: Spanish on the tub, unread Italian inside it
+Last Recorded: wo-20261016-72faef94 — Curt's tell: the blower and the poppies, then the rake
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-16T21:34:51.534Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-16T21:45:43.178Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,7 +25,7 @@ _Generated 2026-10-16T21:34:51.534Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261016-72faef94` | scrvnr | dispatched | Curt's tell: the blower and the poppies, then the rake | 2026-10-16 |
+| `wo-20261016-a2f1b194` | scrvnr | dispatched | Supposed to Be Nice Tomorrow: scene 4, the county desk (first draft) | 2026-10-16 |
 | `wo-20261016-fd8a8c84` | scrvnr | drafted | G7 Obsidian: open the GitHub-backed vault, retire the zip copy | 2026-10-16 |
 | `wo-20261016-9362b031` | scrvnr | blocked | Save Rosaria's letter (Supposed to Be Nice Tomorrow) | 2026-10-16 |
 | `wo-20261016-49bf003b` | scrvnr | blocked | Save locked last call + letter timing fix + new prose rules | 2026-10-16 |
@@ -50,10 +50,11 @@ None.
 ### Recently recorded (last 30 days)
 
 - 2026-10-16 `wo-20261016-20fa3787` **Scene 5, second pass of David's notes (blower, tape stack)** (scrvnr) — [duke-of-beans/SCRVNR-private#17](https://github.com/duke-of-beans/SCRVNR-private/pull/17) · merged, checks green
+- 2026-10-16 `wo-20261016-72faef94` **Curt's tell: the blower and the poppies, then the rake** (scrvnr) — [duke-of-beans/SCRVNR-private#21](https://github.com/duke-of-beans/SCRVNR-private/pull/21) · merged, checks green
 - 2026-10-16 `wo-20261016-cc1d8195` **Last call: Spanish on the tub, unread Italian inside it** (scrvnr) — [duke-of-beans/SCRVNR-private#20](https://github.com/duke-of-beans/SCRVNR-private/pull/20) · merged, checks green
 - 2026-10-16 `wo-20261016-cd4c80bc` **Supposed to Be Nice Tomorrow: scene 5, the seam (first draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#12](https://github.com/duke-of-beans/SCRVNR-private/pull/12) · merged, checks green
 - 2026-10-16 `wo-20261016-d15eca8a` **Alma's strip: the tape stacks' closure, and her tomorrow** (scrvnr) — [duke-of-beans/SCRVNR-private#18](https://github.com/duke-of-beans/SCRVNR-private/pull/18) · merged, checks green
 - 2026-10-16 `wo-20261016-dc38fb7a` **Scene 5 revision from David's notes; new prose rules** (scrvnr) — [duke-of-beans/SCRVNR-private#16](https://github.com/duke-of-beans/SCRVNR-private/pull/16) · merged, checks green
 
-<!-- work-orders:recorded wo-20261016-20fa3787 wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-d15eca8a wo-20261016-dc38fb7a -->
+<!-- work-orders:recorded wo-20261016-20fa3787 wo-20261016-72faef94 wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-d15eca8a wo-20261016-dc38fb7a -->
 <!-- work-orders:end -->
