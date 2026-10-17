@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-aa2f81b1 — Lock 16a; draft 19a Spell It Right
+Last Recorded: wo-20261017-4a8f8ad2 — Madrina and daughter at once
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T18:31:43.258Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T18:32:56.862Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -30,7 +30,6 @@ _Generated 2026-10-17T18:31:43.258Z from the work-order store. Done means verifi
 | `wo-20261017-58054b9a` | scrvnr | dispatched | Draft 16b The Trains (nonfiction) | 2026-10-17 |
 | `wo-20261017-8b24adeb` | scrvnr | dispatched | Lock 19a; the February drive in 25 | 2026-10-17 |
 | `wo-20261017-9f62c5d3` | scrvnr | dispatched | Move "Your daughter" to the last call | 2026-10-17 |
-| `wo-20261017-4a8f8ad2` | scrvnr | dispatched | Madrina and daughter at once | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
@@ -105,8 +104,8 @@ None.
 - 2026-10-17 `wo-20261017-47597e5e` **Rules: no explainers; Ray is Ray** (scrvnr) — [duke-of-beans/SCRVNR-private#100](https://github.com/duke-of-beans/SCRVNR-private/pull/100) · merged, checks green
 - 2026-10-17 `wo-20261017-48d15b4d` **Walter knew; Carla's buongiorno; scene 24 draft** (scrvnr) — [duke-of-beans/SCRVNR-private#72](https://github.com/duke-of-beans/SCRVNR-private/pull/72) · merged, checks green
 - 2026-10-17 `wo-20261017-48eabdd5` **Miller women and Danny's household** (scrvnr) — [duke-of-beans/SCRVNR-private#106](https://github.com/duke-of-beans/SCRVNR-private/pull/106) · merged, checks green
+- 2026-10-17 `wo-20261017-4a8f8ad2` **Madrina and daughter at once** (scrvnr) — [duke-of-beans/SCRVNR-private#121](https://github.com/duke-of-beans/SCRVNR-private/pull/121) · merged, checks green
 - 2026-10-17 `wo-20261017-4d8cd2c3` **Motif: the eggs** (scrvnr) — [duke-of-beans/SCRVNR-private#117](https://github.com/duke-of-beans/SCRVNR-private/pull/117) · merged, checks green
-- 2026-10-17 `wo-20261017-4d99309c` **Lock 17-18; scene 20, The Gravy Year (draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#61](https://github.com/duke-of-beans/SCRVNR-private/pull/61), [duke-of-beans/SCRVNR-private#62](https://github.com/duke-of-beans/SCRVNR-private/pull/62), [duke-of-beans/SCRVNR-private#63](https://github.com/duke-of-beans/SCRVNR-private/pull/63) · merged, checks green
 
-<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-51245484 wo-20261016-53756eab wo-20261016-68345bb2 wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-c430223d wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-cf87a71a wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 wo-20261017-0114cf09 wo-20261017-07dddbe0 wo-20261017-0841d36c wo-20261017-0c75fe9e wo-20261017-0e4b451c wo-20261017-0f854fa4 wo-20261017-116e3426 wo-20261017-1238f8bc wo-20261017-13ced854 wo-20261017-227cacbc wo-20261017-236aec41 wo-20261017-2509a008 wo-20261017-2577c464 wo-20261017-279df7bf wo-20261017-2a49673a wo-20261017-3541f7fe wo-20261017-3a2f244f wo-20261017-3fffbb0c wo-20261017-47597e5e wo-20261017-48d15b4d wo-20261017-48eabdd5 wo-20261017-4d8cd2c3 wo-20261017-4d99309c -->
+<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-51245484 wo-20261016-53756eab wo-20261016-68345bb2 wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-c430223d wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-cf87a71a wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 wo-20261017-0114cf09 wo-20261017-07dddbe0 wo-20261017-0841d36c wo-20261017-0c75fe9e wo-20261017-0e4b451c wo-20261017-0f854fa4 wo-20261017-116e3426 wo-20261017-1238f8bc wo-20261017-13ced854 wo-20261017-227cacbc wo-20261017-236aec41 wo-20261017-2509a008 wo-20261017-2577c464 wo-20261017-279df7bf wo-20261017-2a49673a wo-20261017-3541f7fe wo-20261017-3a2f244f wo-20261017-3fffbb0c wo-20261017-47597e5e wo-20261017-48d15b4d wo-20261017-48eabdd5 wo-20261017-4a8f8ad2 wo-20261017-4d8cd2c3 -->
 <!-- work-orders:end -->
