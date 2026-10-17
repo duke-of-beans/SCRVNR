@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-59de1943 — Lock 20a; draft 18a The Diner
+Last Recorded: wo-20261017-8f2088e1 — Danny's eggs; Marisol retired
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T17:34:39.499Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T17:35:54.408Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -29,7 +29,6 @@ _Generated 2026-10-17T17:34:39.499Z from the work-order store. Done means verifi
 |---|---|---|---|---|
 | `wo-20261017-cce05a31` | scrvnr | dispatched | Lock 18a; draft 16a Marisol's Room | 2026-10-17 |
 | `wo-20261017-4d8cd2c3` | scrvnr | dispatched | Motif: the eggs | 2026-10-17 |
-| `wo-20261017-8f2088e1` | scrvnr | dispatched | Danny's eggs; Marisol retired | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
