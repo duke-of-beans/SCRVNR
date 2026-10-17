@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-f3519323 — Thursdays scene, birthday clarity, bullhorn, Rose's sewing room
+Last Recorded: wo-20261017-9a0612a4 — 24b notes: Kim, Ana the number, smirk
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T22:33:42.545Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T22:34:57.157Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -30,7 +30,6 @@ _Generated 2026-10-17T22:33:42.545Z from the work-order store. Done means verifi
 | `wo-20261017-ff713c47` | scrvnr | dispatched | Renumber the book 1–44 | 2026-10-17 |
 | `wo-20261017-663cfe51` | scrvnr | dispatched | Lock 24b | 2026-10-17 |
 | `wo-20261017-432383d8` | scrvnr | dispatched | Record the surname-change theme | 2026-10-17 |
-| `wo-20261017-9a0612a4` | scrvnr | dispatched | 24b notes: Kim, Ana the number, smirk | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
