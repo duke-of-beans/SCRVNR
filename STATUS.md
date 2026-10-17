@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-4ff87d95 — Continuity read: verified fixes
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T21:54:38.927Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T21:55:38.769Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
