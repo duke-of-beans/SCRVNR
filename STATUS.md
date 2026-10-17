@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-194d84a4 — Draft 35 Closing the House
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T20:50:40.488Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T20:51:39.111Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-17T20:50:40.488Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-4b9d1dc9` | scrvnr | dispatched | Draft 37 Five Weeks with Alma's breakdown | 2026-10-17 |
 | `wo-20261017-b413fd1b` | scrvnr | dispatched | 35 notes: Danny's hands, Marisol's braid; Alma's breakdown proposal | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
