@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-0f854fa4 — Lock scene 28; scene 29, Aftermath (draf
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T05:31:38.546Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T05:32:39.842Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
