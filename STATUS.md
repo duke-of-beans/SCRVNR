@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-86a36805 — Canon fixes from the structure-map audit
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T23:24:58.212Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T23:25:39.429Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
