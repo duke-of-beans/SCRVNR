@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-68174b90 — SCRVNR novel-pass doctrine
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T23:56:38.015Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T23:57:38.997Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,7 +27,7 @@ _Generated 2026-10-17T23:56:38.015Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261017-dfb1d079` | scrvnr | drafted | Apply novel pass + hand ledger | 2026-10-17 |
+| `wo-20261017-dfb1d079` | scrvnr | dispatched | Apply novel pass + hand ledger | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
