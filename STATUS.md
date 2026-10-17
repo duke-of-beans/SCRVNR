@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-a16c2208 — Scene 27: time stops
+Last Recorded: wo-20261017-f7c84ad9 — Scene 27: Ray behind Alma; cut inferred line
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T04:56:40.505Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T04:57:46.481Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,7 +27,6 @@ _Generated 2026-10-17T04:56:40.505Z from the work-order store. Done means verifi
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
 | `wo-20261017-eccb17a9` | scrvnr | dispatched | Lock scene 27; scene 28, The Vigil (draft) | 2026-10-17 |
-| `wo-20261017-f7c84ad9` | scrvnr | dispatched | Scene 27: Ray behind Alma; cut inferred line | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261017-35d2db65` | scrvnr | dispatched | Scene 6, Click (first draft) | 2026-10-17 |
