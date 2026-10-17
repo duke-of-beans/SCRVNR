@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-c4ba4288 — Spine v2: place the expansion
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T17:00:56.312Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T17:01:39.659Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
