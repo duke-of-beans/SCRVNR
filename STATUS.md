@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-3541f7fe — Expansion approved: design briefs
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T16:11:38.246Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T16:12:40.270Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-17T16:11:38.246Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-a3e130fa` | scrvnr | drafted | Expansion zoom-out: paper and bread | 2026-10-17 |
 | `wo-20261017-48eabdd5` | scrvnr | dispatched | Miller women and Danny's household | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
