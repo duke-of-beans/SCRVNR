@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-7cdeb95b — Place Rose's rung; Rose's throughline; frames not narrator
+Last Recorded: wo-20261017-5a5efbde — Record Rose's arc hinge
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T23:34:39.393Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T23:35:46.852Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -29,7 +29,6 @@ _Generated 2026-10-17T23:34:39.393Z from the work-order store. Done means verifi
 |---|---|---|---|---|
 | `wo-20261017-68174b90` | scrvnr | dispatched | SCRVNR novel-pass doctrine | 2026-10-17 |
 | `wo-20261017-df44b39f` | scrvnr | dispatched | Adopt SCRVNR B in 36, 25, 42; bank correction pairs | 2026-10-17 |
-| `wo-20261017-5a5efbde` | scrvnr | dispatched | Record Rose's arc hinge | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
