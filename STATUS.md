@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-2a49673a — Scene 2, The Desk at Ellis Island (first nonfiction)
+Last Recorded: wo-20261017-1238f8bc — Scene 8, The Specifications (nonfiction); lock scene 2
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T00:47:43.182Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T00:51:42.295Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -26,9 +26,9 @@ _Generated 2026-10-17T00:47:43.182Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-a92dcc14` | scrvnr | dispatched | Lock scene 12 | 2026-10-17 |
 | `wo-20261017-0841d36c` | scrvnr | dispatched | Scene 12, The Price (nonfiction); lock scene 8 | 2026-10-17 |
 | `wo-20261017-3fffbb0c` | scrvnr | dispatched | Scene 8: Freeman's "educated proletariat" after the Vietnam protests | 2026-10-17 |
-| `wo-20261017-1238f8bc` | scrvnr | dispatched | Scene 8, The Specifications (nonfiction); lock scene 2 | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261017-35d2db65` | scrvnr | dispatched | Scene 6, Click (first draft) | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
@@ -82,11 +82,12 @@ None.
 - 2026-10-17 `wo-20261016-d15eca8a` **Alma's strip: the tape stacks' closure, and her tomorrow** (scrvnr) — [duke-of-beans/SCRVNR-private#18](https://github.com/duke-of-beans/SCRVNR-private/pull/18) · merged, checks green
 - 2026-10-17 `wo-20261016-dc38fb7a` **Scene 5 revision from David's notes; new prose rules** (scrvnr) — [duke-of-beans/SCRVNR-private#16](https://github.com/duke-of-beans/SCRVNR-private/pull/16) · merged, checks green
 - 2026-10-17 `wo-20261016-e8e4d813` **Amapola: the name, the funeral card, the recipe; two new rules** (scrvnr) — [duke-of-beans/SCRVNR-private#32](https://github.com/duke-of-beans/SCRVNR-private/pull/32) · merged, checks green
+- 2026-10-17 `wo-20261017-1238f8bc` **Scene 8, The Specifications (nonfiction); lock scene 2** (scrvnr) — [duke-of-beans/SCRVNR-private#51](https://github.com/duke-of-beans/SCRVNR-private/pull/51) · merged, checks green
 - 2026-10-17 `wo-20261017-2a49673a` **Scene 2, The Desk at Ellis Island (first nonfiction)** (scrvnr) — [duke-of-beans/SCRVNR-private#50](https://github.com/duke-of-beans/SCRVNR-private/pull/50) · merged, checks green
 - 2026-10-17 `wo-20261017-9eed189f` **Scene 11: David's notes** (scrvnr) — [duke-of-beans/SCRVNR-private#45](https://github.com/duke-of-beans/SCRVNR-private/pull/45) · merged, checks green
 - 2026-10-17 `wo-20261017-d3d2f194` **Rose's messy car, Danny's clean one; the letter goes to Alma** (scrvnr) — [duke-of-beans/SCRVNR-private#47](https://github.com/duke-of-beans/SCRVNR-private/pull/47) · merged, checks green
 - 2026-10-17 `wo-20261017-de19a25b` **Alma finds the blue folder** (scrvnr) — [duke-of-beans/SCRVNR-private#46](https://github.com/duke-of-beans/SCRVNR-private/pull/46) · merged, checks green
 - 2026-10-17 `wo-20261017-e51ba265` **Lock scenes 7 and 11** (scrvnr) — [duke-of-beans/SCRVNR-private#48](https://github.com/duke-of-beans/SCRVNR-private/pull/48) · merged, checks green
 
-<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-51245484 wo-20261016-53756eab wo-20261016-68345bb2 wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-c430223d wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-cf87a71a wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 wo-20261017-2a49673a wo-20261017-9eed189f wo-20261017-d3d2f194 wo-20261017-de19a25b wo-20261017-e51ba265 -->
+<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-51245484 wo-20261016-53756eab wo-20261016-68345bb2 wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-c430223d wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-cf87a71a wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 wo-20261017-1238f8bc wo-20261017-2a49673a wo-20261017-9eed189f wo-20261017-d3d2f194 wo-20261017-de19a25b wo-20261017-e51ba265 -->
 <!-- work-orders:end -->
