@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-a3e130fa — Expansion zoom-out: paper and bread
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T16:32:38.600Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T16:33:39.147Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-17T16:32:38.600Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-f1fa406d` | scrvnr | dispatched | Teresa's cards | 2026-10-17 |
 | `wo-20261017-0114cf09` | scrvnr | dispatched | Teresa's leaving, Kim, Ana | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
