@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-aa2f81b1 — Lock 16a; draft 19a Spell It Right
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T18:23:38.886Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T18:24:40.104Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-17T18:23:38.886Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-8b24adeb` | scrvnr | dispatched | Lock 19a; the February drive in 25 | 2026-10-17 |
 | `wo-20261017-9f62c5d3` | scrvnr | dispatched | Move "Your daughter" to the last call | 2026-10-17 |
 | `wo-20261017-4a8f8ad2` | scrvnr | dispatched | Madrina and daughter at once | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
