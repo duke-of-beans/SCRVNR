@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-6643d140 — Scene 27: emotional drop and outburst
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T04:25:37.452Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T04:26:38.703Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -26,6 +26,7 @@ _Generated 2026-10-17T04:25:37.452Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-2509a008` | scrvnr | dispatched | Scene 27: natural Lupe call | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261017-35d2db65` | scrvnr | dispatched | Scene 6, Click (first draft) | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
