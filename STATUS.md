@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-4b9d1dc9 — Draft 37 Five Weeks with Alma's breakdow
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T21:23:40.157Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T21:24:43.289Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-17T21:23:40.157Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-87ced1d1` | scrvnr | dispatched | Record the alarm escalation pattern | 2026-10-17 |
 | `wo-20261017-3b755ffd` | scrvnr | dispatched | Lock 34/35/37, fold 6, Synopsis and map current | 2026-10-17 |
 | `wo-20261017-dbb995ae` | scrvnr | dispatched | 37 notes: the weather line; Alma's everything-at-once breakdown | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
