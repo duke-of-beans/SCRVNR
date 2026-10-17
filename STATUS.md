@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-f1fa406d — Teresa's cards
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T16:49:41.334Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T16:50:41.412Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-17T16:49:41.334Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-cacdd959` | scrvnr | dispatched | Draft 20a The Night Before | 2026-10-17 |
 | `wo-20261017-c4ba4288` | scrvnr | dispatched | Spine v2: place the expansion | 2026-10-17 |
 | `wo-20261017-2577c464` | scrvnr | dispatched | Rose's three envelopes | 2026-10-17 |
 | `wo-20261017-236aec41` | scrvnr | dispatched | Teresa's cards: second appearance | 2026-10-17 |
