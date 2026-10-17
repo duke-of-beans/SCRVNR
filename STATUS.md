@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-3a2f244f — 20a: fix the meander
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T17:19:40.669Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T17:20:41.406Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-17T17:19:40.669Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-8f2088e1` | scrvnr | dispatched | Danny's eggs; Marisol retired | 2026-10-17 |
 | `wo-20261017-59de1943` | scrvnr | dispatched | Lock 20a; draft 18a The Diner | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
