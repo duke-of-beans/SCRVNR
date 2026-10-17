@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-4b9d1dc9 — Draft 37 Five Weeks with Alma's breakdow
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T21:07:37.650Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T21:08:38.581Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
