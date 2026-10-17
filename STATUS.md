@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-eccb17a9 — Lock scene 27; scene 28, The Vigil (draft)
+Last Recorded: wo-20261017-13ced854 — Scene 28 revisions: favorites, Ana, Curt
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T05:24:40.494Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T05:25:54.740Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -28,7 +28,6 @@ _Generated 2026-10-17T05:24:40.494Z from the work-order store. Done means verifi
 |---|---|---|---|---|
 | `wo-20261017-0e4b451c` | scrvnr | dispatched | Scene 29: every field new; clerk knows | 2026-10-17 |
 | `wo-20261017-0f854fa4` | scrvnr | dispatched | Lock scene 28; scene 29, Aftermath (draft) | 2026-10-17 |
-| `wo-20261017-13ced854` | scrvnr | dispatched | Scene 28 revisions: favorites, Ana, Curt | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261017-35d2db65` | scrvnr | dispatched | Scene 6, Click (first draft) | 2026-10-17 |
@@ -88,6 +87,7 @@ None.
 - 2026-10-17 `wo-20261017-0c75fe9e` **Lock scene 24; scene 25, Gracie Waits (draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#73](https://github.com/duke-of-beans/SCRVNR-private/pull/73) · merged, checks green
 - 2026-10-17 `wo-20261017-116e3426` **Beto's radio on the kitchen sill (continuity)** (scrvnr) — [duke-of-beans/SCRVNR-private#75](https://github.com/duke-of-beans/SCRVNR-private/pull/75) · merged, checks green
 - 2026-10-17 `wo-20261017-1238f8bc` **Scene 8, The Specifications (nonfiction); lock scene 2** (scrvnr) — [duke-of-beans/SCRVNR-private#51](https://github.com/duke-of-beans/SCRVNR-private/pull/51) · merged, checks green
+- 2026-10-17 `wo-20261017-13ced854` **Scene 28 revisions: favorites, Ana, Curt** (scrvnr) — [duke-of-beans/SCRVNR-private#83](https://github.com/duke-of-beans/SCRVNR-private/pull/83) · merged, checks green
 - 2026-10-17 `wo-20261017-227cacbc` **Scene 17 trip revision; scene 18, The Ballot (draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#60](https://github.com/duke-of-beans/SCRVNR-private/pull/60) · merged, checks green
 - 2026-10-17 `wo-20261017-2509a008` **Scene 27: natural Lupe call** (scrvnr) — [duke-of-beans/SCRVNR-private#79](https://github.com/duke-of-beans/SCRVNR-private/pull/79) · merged, checks green
 - 2026-10-17 `wo-20261017-2a49673a` **Scene 2, The Desk at Ellis Island (first nonfiction)** (scrvnr) — [duke-of-beans/SCRVNR-private#50](https://github.com/duke-of-beans/SCRVNR-private/pull/50) · merged, checks green
@@ -105,7 +105,6 @@ None.
 - 2026-10-17 `wo-20261017-b0911d1a` **Lock scene 21; scene 22, The Act (nonfiction draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#68](https://github.com/duke-of-beans/SCRVNR-private/pull/68) · merged, checks green
 - 2026-10-17 `wo-20261017-d3d2f194` **Rose's messy car, Danny's clean one; the letter goes to Alma** (scrvnr) — [duke-of-beans/SCRVNR-private#47](https://github.com/duke-of-beans/SCRVNR-private/pull/47) · merged, checks green
 - 2026-10-17 `wo-20261017-d6218951` **Lock scene 22; scene 23, The Coat (draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#69](https://github.com/duke-of-beans/SCRVNR-private/pull/69), [duke-of-beans/SCRVNR-private#70](https://github.com/duke-of-beans/SCRVNR-private/pull/70) · merged, checks green
-- 2026-10-17 `wo-20261017-de19a25b` **Alma finds the blue folder** (scrvnr) — [duke-of-beans/SCRVNR-private#46](https://github.com/duke-of-beans/SCRVNR-private/pull/46) · merged, checks green
 
-<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-51245484 wo-20261016-53756eab wo-20261016-68345bb2 wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-c430223d wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-cf87a71a wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 wo-20261017-07dddbe0 wo-20261017-0841d36c wo-20261017-0c75fe9e wo-20261017-116e3426 wo-20261017-1238f8bc wo-20261017-227cacbc wo-20261017-2509a008 wo-20261017-2a49673a wo-20261017-3fffbb0c wo-20261017-48d15b4d wo-20261017-4d99309c wo-20261017-6643d140 wo-20261017-7bd24d1f wo-20261017-867b1b07 wo-20261017-91db4ccb wo-20261017-941e0815 wo-20261017-9eed189f wo-20261017-a16c2208 wo-20261017-a92dcc14 wo-20261017-b0911d1a wo-20261017-d3d2f194 wo-20261017-d6218951 wo-20261017-de19a25b -->
+<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-51245484 wo-20261016-53756eab wo-20261016-68345bb2 wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-c430223d wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-cf87a71a wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 wo-20261017-07dddbe0 wo-20261017-0841d36c wo-20261017-0c75fe9e wo-20261017-116e3426 wo-20261017-1238f8bc wo-20261017-13ced854 wo-20261017-227cacbc wo-20261017-2509a008 wo-20261017-2a49673a wo-20261017-3fffbb0c wo-20261017-48d15b4d wo-20261017-4d99309c wo-20261017-6643d140 wo-20261017-7bd24d1f wo-20261017-867b1b07 wo-20261017-91db4ccb wo-20261017-941e0815 wo-20261017-9eed189f wo-20261017-a16c2208 wo-20261017-a92dcc14 wo-20261017-b0911d1a wo-20261017-d3d2f194 wo-20261017-d6218951 -->
 <!-- work-orders:end -->
