@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-f3519323 — Thursdays scene, birthday clarity, bullh
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T22:17:38.021Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T22:18:38.464Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
