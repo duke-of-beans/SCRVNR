@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-87ced1d1 — Record the alarm escalation pattern
+Last Recorded: wo-20261017-4ff87d95 — Continuity read: verified fixes
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T21:51:39.057Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T21:52:57.640Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -28,7 +28,6 @@ _Generated 2026-10-17T21:51:39.057Z from the work-order store. Done means verifi
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
 | `wo-20261017-c7ad96ed` | scrvnr | dispatched | Sweep 2, repetitions, Mamma, birthday, skip-a-generation | 2026-10-17 |
-| `wo-20261017-4ff87d95` | scrvnr | dispatched | Continuity read: verified fixes | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
