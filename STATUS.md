@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-4a8f8ad2 — Madrina and daughter at once
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T18:34:40.042Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T18:35:40.587Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
