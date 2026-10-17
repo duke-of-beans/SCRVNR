@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-80b7dac0 — Fact-check pass over the verify-before-p
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T23:21:42.167Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T23:22:41.294Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-17T23:21:42.167Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-df44b39f` | scrvnr | dispatched | Adopt SCRVNR B in 36, 25, 42; bank correction pairs | 2026-10-17 |
 | `wo-20261017-5a5efbde` | scrvnr | dispatched | Record Rose's arc hinge | 2026-10-17 |
 | `wo-20261017-7cdeb95b` | scrvnr | dispatched | Place Rose's rung; Rose's throughline; frames not narrator | 2026-10-17 |
 | `wo-20261017-86a36805` | scrvnr | dispatched | Canon fixes from the structure-map audit | 2026-10-17 |
