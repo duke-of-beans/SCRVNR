@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-2509a008 — Scene 27: natural Lupe call
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T04:43:00.067Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T04:43:38.689Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
