@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-6643d140 — Scene 27: emotional drop and outburst
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T04:26:38.703Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T04:27:38.003Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
