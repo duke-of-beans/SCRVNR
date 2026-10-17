@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-59de1943 — Lock 20a; draft 18a The Diner
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T17:27:41.371Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T17:28:41.087Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
