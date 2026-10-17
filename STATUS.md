@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-cacdd959 — Draft 20a The Night Before
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T17:11:39.767Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T17:12:38.451Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
