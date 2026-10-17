@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-eccb17a9 — Lock scene 27; scene 28, The Vigil (draf
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T05:22:38.261Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T05:23:39.495Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -26,6 +26,7 @@ _Generated 2026-10-17T05:22:38.261Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-0e4b451c` | scrvnr | dispatched | Scene 29: every field new; clerk knows | 2026-10-17 |
 | `wo-20261017-0f854fa4` | scrvnr | dispatched | Lock scene 28; scene 29, Aftermath (draft) | 2026-10-17 |
 | `wo-20261017-13ced854` | scrvnr | dispatched | Scene 28 revisions: favorites, Ana, Curt | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
