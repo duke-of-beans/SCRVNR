@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-f3519323 — Thursdays scene, birthday clarity, bullh
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T22:23:39.101Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T22:24:40.376Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-17T22:23:39.101Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-663cfe51` | scrvnr | dispatched | Lock 24b | 2026-10-17 |
 | `wo-20261017-432383d8` | scrvnr | dispatched | Record the surname-change theme | 2026-10-17 |
 | `wo-20261017-9a0612a4` | scrvnr | dispatched | 24b notes: Kim, Ana the number, smirk | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
