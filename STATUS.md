@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-c478f394 — Profiles: Gracie's second life, Rios wor
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T07:36:37.255Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T07:37:38.685Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
