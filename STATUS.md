@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-3541f7fe — Expansion approved: design briefs
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T15:38:37.489Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T15:39:37.768Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
