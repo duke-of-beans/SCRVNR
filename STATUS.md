@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-95095af9 — 16a: fear clarity; rename the girl
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T17:56:56.366Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T17:57:38.080Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
