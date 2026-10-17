@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-9f563e26 — 31 The Door: David's line notes
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T07:52:37.652Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T07:53:38.429Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,7 +27,7 @@ _Generated 2026-10-17T07:52:37.652Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261017-baf74858` | scrvnr | drafted | Draft scene 32 Detention | 2026-10-17 |
+| `wo-20261017-baf74858` | scrvnr | dispatched | Draft scene 32 Detention | 2026-10-17 |
 | `wo-20261017-f4d7da46` | scrvnr | dispatched | 31: Ray pushes Carla out the door | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
