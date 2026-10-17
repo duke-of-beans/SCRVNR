@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-e6c46690 — 32: Carla's choice, unsaid
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T08:34:38.273Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T08:35:38.498Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
