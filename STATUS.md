@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-9db492f1 — Writing hard and the flat hand as recurr
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T19:16:54.059Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T19:17:38.407Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
