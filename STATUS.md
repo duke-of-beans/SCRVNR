@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-2577c464 — Rose's three envelopes
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T16:58:39.544Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T16:59:41.260Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-17T16:58:39.544Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-3a2f244f` | scrvnr | dispatched | 20a: fix the meander | 2026-10-17 |
 | `wo-20261017-cacdd959` | scrvnr | dispatched | Draft 20a The Night Before | 2026-10-17 |
 | `wo-20261017-c4ba4288` | scrvnr | dispatched | Spine v2: place the expansion | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
