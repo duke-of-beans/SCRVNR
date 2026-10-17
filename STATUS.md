@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-fe3466ad — Expansion: shooter, street's men, pets
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T10:00:56.936Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T10:01:37.708Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
