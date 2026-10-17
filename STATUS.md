@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-aa2f81b1 — Lock 16a; draft 19a Spell It Right
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T18:21:39.339Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T18:22:39.006Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
