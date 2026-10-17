@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-baf74858 — Draft scene 32 Detention
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T08:26:40.579Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T08:27:41.323Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-17T08:26:40.579Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-a8bdae45` | scrvnr | drafted | Lock 33; draft 34 Packing | 2026-10-17 |
 | `wo-20261017-f8816b3e` | scrvnr | dispatched | Lock 32; draft 33 Denaturalization | 2026-10-17 |
 | `wo-20261017-e6c46690` | scrvnr | dispatched | 32: Carla's choice, unsaid | 2026-10-17 |
 | `wo-20261017-b4d8a323` | scrvnr | dispatched | 32: Carla's redemption, Ray's spring | 2026-10-17 |
