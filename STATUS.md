@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-13ced854 — Scene 28 revisions: favorites, Ana, Curt
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T05:28:39.314Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T05:29:40.264Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
