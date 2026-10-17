@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-0e4b451c — Scene 29: every field new; clerk knows
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T05:40:38.178Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T05:41:40.337Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -26,7 +26,7 @@ _Generated 2026-10-17T05:40:38.178Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261017-f0a89bdd` | scrvnr | drafted | Lock scene 30; scene 31, The Door (draft) | 2026-10-17 |
+| `wo-20261017-f0a89bdd` | scrvnr | dispatched | Lock scene 30; scene 31, The Door (draft) | 2026-10-17 |
 | `wo-20261017-5342631d` | scrvnr | dispatched | Poppies continuity: flowers cut, plants kept | 2026-10-17 |
 | `wo-20261017-a9e53ebc` | scrvnr | dispatched | Lock scene 29; scene 30, The Table (draft) | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
