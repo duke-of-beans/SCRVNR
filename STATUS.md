@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-df44b39f — Adopt SCRVNR B in 36, 25, 42; bank corre
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T23:39:38.198Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T23:40:39.641Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
