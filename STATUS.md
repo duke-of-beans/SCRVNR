@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-194d84a4 — Draft 35 Closing the House
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T20:32:37.754Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T20:33:38.239Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
