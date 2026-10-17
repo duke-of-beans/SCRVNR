@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-0114cf09 — Teresa's leaving, Kim, Ana
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T16:43:55.670Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T16:44:39.198Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-17T16:43:55.670Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-c4ba4288` | scrvnr | dispatched | Spine v2: place the expansion | 2026-10-17 |
 | `wo-20261017-2577c464` | scrvnr | dispatched | Rose's three envelopes | 2026-10-17 |
 | `wo-20261017-236aec41` | scrvnr | dispatched | Teresa's cards: second appearance | 2026-10-17 |
 | `wo-20261017-f1fa406d` | scrvnr | dispatched | Teresa's cards | 2026-10-17 |
