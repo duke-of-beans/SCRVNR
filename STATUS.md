@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-80b7dac0 — Fact-check pass over the verify-before-p
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T23:14:38.947Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T23:15:39.329Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-17T23:14:38.947Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-7cdeb95b` | scrvnr | dispatched | Place Rose's rung; Rose's throughline; frames not narrator | 2026-10-17 |
 | `wo-20261017-86a36805` | scrvnr | dispatched | Canon fixes from the structure-map audit | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
