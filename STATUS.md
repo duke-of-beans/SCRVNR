@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-cce05a31 — Lock 18a; draft 16a Marisol's Room
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T17:43:40.378Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T17:44:38.121Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
