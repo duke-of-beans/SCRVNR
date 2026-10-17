@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-9f62c5d3 — Move "Your daughter" to the last call
+Last Recorded: wo-20261017-8b24adeb — Lock 19a; the February drive in 25
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T18:38:39.833Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T18:39:57.239Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -29,7 +29,6 @@ _Generated 2026-10-17T18:38:39.833Z from the work-order store. Done means verifi
 |---|---|---|---|---|
 | `wo-20261017-b552c5a6` | scrvnr | dispatched | Thread the expansion into existing scenes | 2026-10-17 |
 | `wo-20261017-58054b9a` | scrvnr | dispatched | Draft 16b The Trains (nonfiction) | 2026-10-17 |
-| `wo-20261017-8b24adeb` | scrvnr | dispatched | Lock 19a; the February drive in 25 | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
