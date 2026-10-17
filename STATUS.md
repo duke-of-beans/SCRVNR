@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-f8816b3e — Lock 32; draft 33 Denaturalization
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T08:37:58.428Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T08:38:37.926Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
