@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-b4d8a323 — 32: Carla's redemption, Ray's spring
+Last Recorded: wo-20261017-e6c46690 — 32: Carla's choice, unsaid
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T08:32:40.643Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T08:33:54.918Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -29,7 +29,6 @@ _Generated 2026-10-17T08:32:40.643Z from the work-order store. Done means verifi
 |---|---|---|---|---|
 | `wo-20261017-a8bdae45` | scrvnr | dispatched | Lock 33; draft 34 Packing | 2026-10-17 |
 | `wo-20261017-f8816b3e` | scrvnr | dispatched | Lock 32; draft 33 Denaturalization | 2026-10-17 |
-| `wo-20261017-e6c46690` | scrvnr | dispatched | 32: Carla's choice, unsaid | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
