@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-d0470a8d — Toro and food; Kim's last try; Teresa's 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T19:10:39.104Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T19:11:39.088Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
