@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-87ced1d1 — Record the alarm escalation pattern
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T21:44:38.398Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T21:45:39.430Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,7 +27,7 @@ _Generated 2026-10-17T21:44:38.398Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261017-c7ad96ed` | scrvnr | drafted | Sweep 2, repetitions, Mamma, birthday, skip-a-generation | 2026-10-17 |
+| `wo-20261017-c7ad96ed` | scrvnr | dispatched | Sweep 2, repetitions, Mamma, birthday, skip-a-generation | 2026-10-17 |
 | `wo-20261017-4ff87d95` | scrvnr | dispatched | Continuity read: verified fixes | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
