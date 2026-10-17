@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-80b7dac0 — Fact-check pass over the verify-before-p
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T23:18:39.204Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T23:19:41.032Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
