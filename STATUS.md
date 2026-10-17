@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-663cfe51 — Lock 24b
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T22:43:42.092Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T22:44:41.555Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
