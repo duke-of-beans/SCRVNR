@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-f0a89bdd — Lock scene 30; scene 31, The Door (draft
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T06:03:37.216Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T06:04:36.947Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
