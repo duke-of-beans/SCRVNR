@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-5a5efbde — Record Rose's arc hinge
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T23:35:46.852Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T23:36:41.250Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
