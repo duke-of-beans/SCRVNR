@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-dbb995ae — 37 notes: the weather line; Alma's every
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T21:32:38.933Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T21:33:39.563Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
