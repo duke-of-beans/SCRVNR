@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-58054b9a — Draft 16b The Trains (nonfiction)
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T18:47:38.662Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T18:48:40.192Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
