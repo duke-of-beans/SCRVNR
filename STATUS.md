@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-0e4b451c — Scene 29: every field new; clerk knows
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T05:38:53.247Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T05:39:38.187Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
