@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-279df7bf — Expansion plan: families across generati
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T09:30:38.792Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T09:31:36.809Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
