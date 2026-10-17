@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-5b7592ba — Explainer sweep across all scenes
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T09:14:37.076Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T09:15:38.342Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
