@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-c7ad96ed — Sweep 2, repetitions, Mamma, birthday, s
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T22:13:39.097Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T22:14:39.083Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
