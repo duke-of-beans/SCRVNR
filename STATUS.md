@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-3b755ffd — Lock 34/35/37, fold 6, Synopsis and map 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T21:36:55.612Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T21:37:39.068Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
