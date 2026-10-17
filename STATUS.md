@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-ff713c47 — Renumber the book 1–44
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T22:51:40.118Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T22:52:38.131Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
