@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-b552c5a6 — Thread the expansion into existing scenes
+Last Recorded: wo-20261017-d0470a8d — Toro and food; Kim's last try; Teresa's card; the cat's rule
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T19:05:39.625Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T19:06:58.547Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,8 +27,8 @@ _Generated 2026-10-17T19:05:39.625Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-194d84a4` | scrvnr | dispatched | Draft 35 Closing the House | 2026-10-17 |
 | `wo-20261017-9db492f1` | scrvnr | dispatched | Writing hard and the flat hand as recurring gestures | 2026-10-17 |
-| `wo-20261017-d0470a8d` | scrvnr | dispatched | Toro and food; Kim's last try; Teresa's card; the cat's rule | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
