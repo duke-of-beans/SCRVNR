@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-a3e130fa — Expansion zoom-out: paper and bread
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T16:33:39.147Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T16:34:39.087Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
