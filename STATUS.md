@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-a8bdae45 — Lock 33; draft 34 Packing
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T08:59:38.660Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T09:00:41.060Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
