@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-0114cf09 — Teresa's leaving, Kim, Ana
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T16:45:40.616Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T16:46:42.392Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
