@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-4b9d1dc9 — Draft 37 Five Weeks with Alma's breakdown
+Last Recorded: wo-20261017-dbb995ae — 37 notes: the weather line; Alma's everything-at-once breakdown
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T21:29:40.950Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T21:31:02.463Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -29,7 +29,6 @@ _Generated 2026-10-17T21:29:40.950Z from the work-order store. Done means verifi
 |---|---|---|---|---|
 | `wo-20261017-87ced1d1` | scrvnr | dispatched | Record the alarm escalation pattern | 2026-10-17 |
 | `wo-20261017-3b755ffd` | scrvnr | dispatched | Lock 34/35/37, fold 6, Synopsis and map current | 2026-10-17 |
-| `wo-20261017-dbb995ae` | scrvnr | dispatched | 37 notes: the weather line; Alma's everything-at-once breakdown | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
