@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-8b24adeb — Lock 19a; the February drive in 25
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T18:39:57.239Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T18:40:38.875Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
