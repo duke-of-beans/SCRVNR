@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-56f421e6 — Expansion: Ray, Alma, diner, pets
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T09:52:38.364Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T09:53:38.470Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
