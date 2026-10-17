@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-baf74858 — Draft scene 32 Detention
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T08:13:36.803Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T08:14:38.352Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
