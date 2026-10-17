@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-5b7592ba — Explainer sweep across all scenes
+Last Recorded: wo-20261017-279df7bf — Expansion plan: families across generations
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T09:24:39.111Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T09:25:54.340Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,7 +27,6 @@ _Generated 2026-10-17T09:24:39.111Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261017-279df7bf` | scrvnr | dispatched | Expansion plan: families across generations | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
@@ -91,6 +90,7 @@ None.
 - 2026-10-17 `wo-20261017-13ced854` **Scene 28 revisions: favorites, Ana, Curt** (scrvnr) — [duke-of-beans/SCRVNR-private#83](https://github.com/duke-of-beans/SCRVNR-private/pull/83) · merged, checks green
 - 2026-10-17 `wo-20261017-227cacbc` **Scene 17 trip revision; scene 18, The Ballot (draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#60](https://github.com/duke-of-beans/SCRVNR-private/pull/60) · merged, checks green
 - 2026-10-17 `wo-20261017-2509a008` **Scene 27: natural Lupe call** (scrvnr) — [duke-of-beans/SCRVNR-private#79](https://github.com/duke-of-beans/SCRVNR-private/pull/79) · merged, checks green
+- 2026-10-17 `wo-20261017-279df7bf` **Expansion plan: families across generations** (scrvnr) — [duke-of-beans/SCRVNR-private#102](https://github.com/duke-of-beans/SCRVNR-private/pull/102) · merged, checks green
 - 2026-10-17 `wo-20261017-2a49673a` **Scene 2, The Desk at Ellis Island (first nonfiction)** (scrvnr) — [duke-of-beans/SCRVNR-private#50](https://github.com/duke-of-beans/SCRVNR-private/pull/50) · merged, checks green
 - 2026-10-17 `wo-20261017-3fffbb0c` **Scene 8: Freeman's "educated proletariat" after the Vietnam protests** (scrvnr) — [duke-of-beans/SCRVNR-private#52](https://github.com/duke-of-beans/SCRVNR-private/pull/52) · merged, checks green
 - 2026-10-17 `wo-20261017-47597e5e` **Rules: no explainers; Ray is Ray** (scrvnr) — [duke-of-beans/SCRVNR-private#100](https://github.com/duke-of-beans/SCRVNR-private/pull/100) · merged, checks green
@@ -103,7 +103,6 @@ None.
 - 2026-10-17 `wo-20261017-867b1b07` **Lock scene 26; scene 27, The Eighth (draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#76](https://github.com/duke-of-beans/SCRVNR-private/pull/76) · merged, checks green
 - 2026-10-17 `wo-20261017-91db4ccb` **Scene 16, The Flag (draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#55](https://github.com/duke-of-beans/SCRVNR-private/pull/55), [duke-of-beans/SCRVNR-private#56](https://github.com/duke-of-beans/SCRVNR-private/pull/56), [duke-of-beans/SCRVNR-private#57](https://github.com/duke-of-beans/SCRVNR-private/pull/57) · merged, checks green
 - 2026-10-17 `wo-20261017-941e0815` **Lock scene 16; scene 17, The Window (draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#58](https://github.com/duke-of-beans/SCRVNR-private/pull/58) · merged, checks green
-- 2026-10-17 `wo-20261017-9eed189f` **Scene 11: David's notes** (scrvnr) — [duke-of-beans/SCRVNR-private#45](https://github.com/duke-of-beans/SCRVNR-private/pull/45) · merged, checks green
 
-<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-51245484 wo-20261016-53756eab wo-20261016-68345bb2 wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-c430223d wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-cf87a71a wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 wo-20261017-07dddbe0 wo-20261017-0841d36c wo-20261017-0c75fe9e wo-20261017-0e4b451c wo-20261017-0f854fa4 wo-20261017-116e3426 wo-20261017-1238f8bc wo-20261017-13ced854 wo-20261017-227cacbc wo-20261017-2509a008 wo-20261017-2a49673a wo-20261017-3fffbb0c wo-20261017-47597e5e wo-20261017-48d15b4d wo-20261017-4d99309c wo-20261017-5342631d wo-20261017-5b7592ba wo-20261017-6643d140 wo-20261017-7bd24d1f wo-20261017-867b1b07 wo-20261017-91db4ccb wo-20261017-941e0815 wo-20261017-9eed189f -->
+<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-51245484 wo-20261016-53756eab wo-20261016-68345bb2 wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-c430223d wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-cf87a71a wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 wo-20261017-07dddbe0 wo-20261017-0841d36c wo-20261017-0c75fe9e wo-20261017-0e4b451c wo-20261017-0f854fa4 wo-20261017-116e3426 wo-20261017-1238f8bc wo-20261017-13ced854 wo-20261017-227cacbc wo-20261017-2509a008 wo-20261017-279df7bf wo-20261017-2a49673a wo-20261017-3fffbb0c wo-20261017-47597e5e wo-20261017-48d15b4d wo-20261017-4d99309c wo-20261017-5342631d wo-20261017-5b7592ba wo-20261017-6643d140 wo-20261017-7bd24d1f wo-20261017-867b1b07 wo-20261017-91db4ccb wo-20261017-941e0815 -->
 <!-- work-orders:end -->
