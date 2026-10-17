@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-f0a89bdd — Lock scene 30; scene 31, The Door (draft
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T06:17:38.848Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T06:18:37.331Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -21,6 +21,7 @@ _Generated 2026-10-17T06:17:38.848Z from the work-order store. Done means verifi
 - `wo-20261016-c667fcaa` **Supposed to Be Nice Tomorrow: land whole book as Obsidian vault (supersedes PRs #1-#8)** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#9 has waited 6 h for a clean-context review that could not run (no reviewer model answered (deepseek/deepseek-v4-flash: Gateway de…"
 - `wo-20261016-e0431e41` **Knowledge: Supposed to Be Nice Tomorrow area file** (scrvnr) — kicked up: "duke-of-beans/ops-context#61 has waited 6 h for a clean-context review that could not run (no reviewer model answered (deepseek/deepseek-v4-flash: Gateway deep…"
 - `wo-20261016-fb611172` **Save Supposed to Be Nice Tomorrow working files** (scrvnr) — kicked up: "still not landed 6h after it shipped: duke-of-beans/SCRVNR-private#1 open, checks none"
+- `wo-20261017-35d2db65` **Scene 6, Click (first draft)** (scrvnr) — kicked up: "still not landed 6h after it shipped: duke-of-beans/SCRVNR-private#49 open, checks green"
 
 ### In flight
 
@@ -28,7 +29,6 @@ _Generated 2026-10-17T06:17:38.848Z from the work-order store. Done means verifi
 |---|---|---|---|---|
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
-| `wo-20261017-35d2db65` | scrvnr | dispatched | Scene 6, Click (first draft) | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
 | `wo-20261016-fd8a8c84` | scrvnr | drafted | G7 Obsidian: open the GitHub-backed vault, retire the zip copy | 2026-10-16 |
 | `wo-20261016-9362b031` | scrvnr | blocked | Save Rosaria's letter (Supposed to Be Nice Tomorrow) | 2026-10-16 |
