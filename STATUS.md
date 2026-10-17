@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-a3e130fa — Expansion zoom-out: paper and bread
+Last Recorded: wo-20261017-0114cf09 — Teresa's leaving, Kim, Ana
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T16:42:41.067Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T16:43:55.670Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -30,7 +30,6 @@ _Generated 2026-10-17T16:42:41.067Z from the work-order store. Done means verifi
 | `wo-20261017-2577c464` | scrvnr | dispatched | Rose's three envelopes | 2026-10-17 |
 | `wo-20261017-236aec41` | scrvnr | dispatched | Teresa's cards: second appearance | 2026-10-17 |
 | `wo-20261017-f1fa406d` | scrvnr | dispatched | Teresa's cards | 2026-10-17 |
-| `wo-20261017-0114cf09` | scrvnr | dispatched | Teresa's leaving, Kim, Ana | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
@@ -84,6 +83,7 @@ None.
 - 2026-10-17 `wo-20261016-d15eca8a` **Alma's strip: the tape stacks' closure, and her tomorrow** (scrvnr) — [duke-of-beans/SCRVNR-private#18](https://github.com/duke-of-beans/SCRVNR-private/pull/18) · merged, checks green
 - 2026-10-17 `wo-20261016-dc38fb7a` **Scene 5 revision from David's notes; new prose rules** (scrvnr) — [duke-of-beans/SCRVNR-private#16](https://github.com/duke-of-beans/SCRVNR-private/pull/16) · merged, checks green
 - 2026-10-17 `wo-20261016-e8e4d813` **Amapola: the name, the funeral card, the recipe; two new rules** (scrvnr) — [duke-of-beans/SCRVNR-private#32](https://github.com/duke-of-beans/SCRVNR-private/pull/32) · merged, checks green
+- 2026-10-17 `wo-20261017-0114cf09` **Teresa's leaving, Kim, Ana** (scrvnr) — [duke-of-beans/SCRVNR-private#108](https://github.com/duke-of-beans/SCRVNR-private/pull/108) · merged, checks green
 - 2026-10-17 `wo-20261017-07dddbe0` **Scene 23 line cut; prose rule on inference** (scrvnr) — [duke-of-beans/SCRVNR-private#71](https://github.com/duke-of-beans/SCRVNR-private/pull/71) · merged, checks green
 - 2026-10-17 `wo-20261017-0841d36c` **Scene 12, The Price (nonfiction); lock scene 8** (scrvnr) — [duke-of-beans/SCRVNR-private#53](https://github.com/duke-of-beans/SCRVNR-private/pull/53) · merged, checks green
 - 2026-10-17 `wo-20261017-0c75fe9e` **Lock scene 24; scene 25, Gracie Waits (draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#73](https://github.com/duke-of-beans/SCRVNR-private/pull/73) · merged, checks green
@@ -106,7 +106,6 @@ None.
 - 2026-10-17 `wo-20261017-56f421e6` **Expansion: Ray, Alma, diner, pets** (scrvnr) — [duke-of-beans/SCRVNR-private#103](https://github.com/duke-of-beans/SCRVNR-private/pull/103) · merged, checks green
 - 2026-10-17 `wo-20261017-5b7592ba` **Explainer sweep across all scenes** (scrvnr) — [duke-of-beans/SCRVNR-private#101](https://github.com/duke-of-beans/SCRVNR-private/pull/101) · merged, checks green
 - 2026-10-17 `wo-20261017-6643d140` **Scene 27: emotional drop and outburst** (scrvnr) — [duke-of-beans/SCRVNR-private#78](https://github.com/duke-of-beans/SCRVNR-private/pull/78) · merged, checks green
-- 2026-10-17 `wo-20261017-7bd24d1f` **Rebuild scene 27 so Gracie's death is a surprise** (scrvnr) — [duke-of-beans/SCRVNR-private#77](https://github.com/duke-of-beans/SCRVNR-private/pull/77) · merged, checks green
 
-<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-51245484 wo-20261016-53756eab wo-20261016-68345bb2 wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-c430223d wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-cf87a71a wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 wo-20261017-07dddbe0 wo-20261017-0841d36c wo-20261017-0c75fe9e wo-20261017-0e4b451c wo-20261017-0f854fa4 wo-20261017-116e3426 wo-20261017-1238f8bc wo-20261017-13ced854 wo-20261017-227cacbc wo-20261017-2509a008 wo-20261017-279df7bf wo-20261017-2a49673a wo-20261017-3541f7fe wo-20261017-3fffbb0c wo-20261017-47597e5e wo-20261017-48d15b4d wo-20261017-48eabdd5 wo-20261017-4d99309c wo-20261017-5342631d wo-20261017-56f421e6 wo-20261017-5b7592ba wo-20261017-6643d140 wo-20261017-7bd24d1f -->
+<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-51245484 wo-20261016-53756eab wo-20261016-68345bb2 wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-c430223d wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-cf87a71a wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 wo-20261017-0114cf09 wo-20261017-07dddbe0 wo-20261017-0841d36c wo-20261017-0c75fe9e wo-20261017-0e4b451c wo-20261017-0f854fa4 wo-20261017-116e3426 wo-20261017-1238f8bc wo-20261017-13ced854 wo-20261017-227cacbc wo-20261017-2509a008 wo-20261017-279df7bf wo-20261017-2a49673a wo-20261017-3541f7fe wo-20261017-3fffbb0c wo-20261017-47597e5e wo-20261017-48d15b4d wo-20261017-48eabdd5 wo-20261017-4d99309c wo-20261017-5342631d wo-20261017-56f421e6 wo-20261017-5b7592ba wo-20261017-6643d140 -->
 <!-- work-orders:end -->
