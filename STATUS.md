@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-eccb17a9 — Lock scene 27; scene 28, The Vigil (draf
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T05:13:38.251Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T05:14:37.828Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
