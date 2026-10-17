@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-6643d140 — Scene 27: emotional drop and outburst
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T04:30:40.998Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T04:31:39.077Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -26,6 +26,7 @@ _Generated 2026-10-17T04:30:40.998Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-a16c2208` | scrvnr | dispatched | Scene 27: time stops | 2026-10-17 |
 | `wo-20261017-2509a008` | scrvnr | dispatched | Scene 27: natural Lupe call | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
