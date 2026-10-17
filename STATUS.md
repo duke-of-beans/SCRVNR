@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-48eabdd5 — Miller women and Danny's household
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T16:16:38.242Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T16:17:38.390Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
