@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-5342631d — Poppies continuity: flowers cut, plants kept
+Last Recorded: wo-20261017-f0a89bdd — Lock scene 30; scene 31, The Door (draft)
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T05:55:37.714Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T05:56:58.433Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -26,7 +26,6 @@ _Generated 2026-10-17T05:55:37.714Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261017-f0a89bdd` | scrvnr | dispatched | Lock scene 30; scene 31, The Door (draft) | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261017-35d2db65` | scrvnr | dispatched | Scene 6, Click (first draft) | 2026-10-17 |
