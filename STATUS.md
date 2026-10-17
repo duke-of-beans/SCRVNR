@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-59de1943 — Lock 20a; draft 18a The Diner
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T17:23:44.299Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T17:24:40.023Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-17T17:23:44.299Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-cce05a31` | scrvnr | dispatched | Lock 18a; draft 16a Marisol's Room | 2026-10-17 |
 | `wo-20261017-4d8cd2c3` | scrvnr | dispatched | Motif: the eggs | 2026-10-17 |
 | `wo-20261017-8f2088e1` | scrvnr | dispatched | Danny's eggs; Marisol retired | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
