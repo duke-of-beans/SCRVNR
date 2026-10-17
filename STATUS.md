@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-17
-Last Recorded: wo-20261017-9eed189f — Scene 11: David's notes
+Last Recorded: wo-20261017-de19a25b — Alma finds the blue folder
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T00:18:50.095Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T00:22:41.489Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -29,7 +29,6 @@ _Generated 2026-10-17T00:18:50.095Z from the work-order store. Done means verifi
 | `wo-20261017-35d2db65` | scrvnr | dispatched | Scene 6, Click (first draft) | 2026-10-17 |
 | `wo-20261017-e51ba265` | scrvnr | dispatched | Lock scenes 7 and 11 | 2026-10-17 |
 | `wo-20261017-d3d2f194` | scrvnr | dispatched | Rose's messy car, Danny's clean one; the letter goes to Alma | 2026-10-17 |
-| `wo-20261017-de19a25b` | scrvnr | dispatched | Alma finds the blue folder | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
 | `wo-20261016-fd8a8c84` | scrvnr | drafted | G7 Obsidian: open the GitHub-backed vault, retire the zip copy | 2026-10-16 |
 | `wo-20261016-9362b031` | scrvnr | blocked | Save Rosaria's letter (Supposed to Be Nice Tomorrow) | 2026-10-16 |
@@ -82,6 +81,7 @@ None.
 - 2026-10-17 `wo-20261016-dc38fb7a` **Scene 5 revision from David's notes; new prose rules** (scrvnr) — [duke-of-beans/SCRVNR-private#16](https://github.com/duke-of-beans/SCRVNR-private/pull/16) · merged, checks green
 - 2026-10-17 `wo-20261016-e8e4d813` **Amapola: the name, the funeral card, the recipe; two new rules** (scrvnr) — [duke-of-beans/SCRVNR-private#32](https://github.com/duke-of-beans/SCRVNR-private/pull/32) · merged, checks green
 - 2026-10-17 `wo-20261017-9eed189f` **Scene 11: David's notes** (scrvnr) — [duke-of-beans/SCRVNR-private#45](https://github.com/duke-of-beans/SCRVNR-private/pull/45) · merged, checks green
+- 2026-10-17 `wo-20261017-de19a25b` **Alma finds the blue folder** (scrvnr) — [duke-of-beans/SCRVNR-private#46](https://github.com/duke-of-beans/SCRVNR-private/pull/46) · merged, checks green
 
-<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-51245484 wo-20261016-53756eab wo-20261016-68345bb2 wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-c430223d wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-cf87a71a wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 wo-20261017-9eed189f -->
+<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-51245484 wo-20261016-53756eab wo-20261016-68345bb2 wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-c430223d wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-cf87a71a wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 wo-20261017-9eed189f wo-20261017-de19a25b -->
 <!-- work-orders:end -->
