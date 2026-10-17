@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-7cdeb95b — Place Rose's rung; Rose's throughline; f
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-17T23:32:40.340Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-17T23:33:40.355Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
