@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-18
-Last Recorded: wo-20261018-8dfab5d1 — Vault, PDF and canon artifact fully current
+Last Recorded: wo-20261018-d7dbe0a3 — Screenplay boards round 2 (01, 25, 28a, 32, 35, 43)
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T22:58:41.619Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T22:59:43.264Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,7 +27,6 @@ _Generated 2026-10-18T22:58:41.619Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261018-d7dbe0a3` | scrvnr | in_progress | Screenplay boards round 2 (01, 25, 28a, 32, 35, 43) | 2026-10-18 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
