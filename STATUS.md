@@ -7,7 +7,7 @@ Last Recorded: wo-20261018-10ac68e7 — Printable booklet edition
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T20:17:42.485Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T20:18:39.818Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
