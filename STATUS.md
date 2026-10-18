@@ -7,7 +7,7 @@ Last Recorded: wo-20261018-db7eac5a — Integrate documents and opening spread i
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T00:38:38.551Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T00:39:38.935Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
