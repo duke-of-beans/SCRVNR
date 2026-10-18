@@ -7,7 +7,7 @@ Last Recorded: wo-20261018-e4dd1c46 — Storyboard: 5a The First Tub
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T04:19:41.132Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T04:20:39.039Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
