@@ -7,7 +7,7 @@ Last Recorded: wo-20261018-0c1345b6 — Cover drafts: the taped sun
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T01:09:39.627Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T01:10:39.720Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-18T01:09:39.627Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261018-6a35d4bd` | scrvnr | dispatched | Covers full-bleed, no band | 2026-10-18 |
 | `wo-20261018-af13b9a2` | scrvnr | dispatched | Covers into the reading-copy PDF | 2026-10-18 |
 | `wo-20261018-786e2ebc` | scrvnr | dispatched | Cover art and back copy | 2026-10-18 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
