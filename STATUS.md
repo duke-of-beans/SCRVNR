@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-68174b90 — SCRVNR novel-pass doctrine
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T00:00:41.324Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T00:01:40.497Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
