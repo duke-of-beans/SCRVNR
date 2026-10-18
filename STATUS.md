@@ -7,7 +7,7 @@ Last Recorded: wo-20261018-97374d8b — Cinematography base and key-scene boards
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T04:51:38.551Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T04:52:38.521Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
