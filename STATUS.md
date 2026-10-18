@@ -7,7 +7,7 @@ Last Recorded: wo-20261018-e7f9adbc — Buongiorno timing; letter original+trans
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T00:52:38.736Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T00:53:41.149Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
