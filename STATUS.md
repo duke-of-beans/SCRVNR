@@ -7,7 +7,7 @@ Last Recorded: wo-20261018-dd2eedb5 — Typeset reading copy of the whole book
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T00:19:43.379Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T00:20:43.247Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-18T00:19:43.379Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261018-db7eac5a` | scrvnr | dispatched | Integrate documents and opening spread in reading copy | 2026-10-18 |
 | `wo-20261018-ca6df38f` | scrvnr | dispatched | Reader-facing chapter titles | 2026-10-18 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
