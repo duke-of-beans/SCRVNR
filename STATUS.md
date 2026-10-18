@@ -7,7 +7,7 @@ Last Recorded: wo-20261018-6a35d4bd — Covers full-bleed, no band
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T01:39:38.880Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T01:40:39.172Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
