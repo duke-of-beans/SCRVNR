@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-18
-Last Recorded: wo-20261018-786e2ebc — Cover art and back copy
+Last Recorded: wo-20261018-af13b9a2 — Covers into the reading-copy PDF
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T01:21:41.021Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T01:22:43.384Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -28,7 +28,6 @@ _Generated 2026-10-18T01:21:41.021Z from the work-order store. Done means verifi
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
 | `wo-20261018-6a35d4bd` | scrvnr | dispatched | Covers full-bleed, no band | 2026-10-18 |
-| `wo-20261018-af13b9a2` | scrvnr | dispatched | Covers into the reading-copy PDF | 2026-10-18 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
