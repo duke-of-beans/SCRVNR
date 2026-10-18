@@ -7,7 +7,7 @@ Last Recorded: wo-20261018-7c838044 — Vault complete; pull to G7 Obsidian
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T16:40:39.861Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T16:41:41.305Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
