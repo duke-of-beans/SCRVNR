@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-68174b90 — SCRVNR novel-pass doctrine
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T00:03:39.018Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T00:04:39.530Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-18T00:03:39.018Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261018-dd2eedb5` | scrvnr | dispatched | Typeset reading copy of the whole book | 2026-10-18 |
 | `wo-20261017-dfb1d079` | scrvnr | dispatched | Apply novel pass + hand ledger | 2026-10-17 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
