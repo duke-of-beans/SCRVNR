@@ -7,7 +7,7 @@ Last Recorded: wo-20261018-dd2eedb5 — Typeset reading copy of the whole book
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T00:21:42.605Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T00:22:40.308Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
