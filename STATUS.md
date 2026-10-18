@@ -7,7 +7,7 @@ Last Recorded: wo-20261018-ca6df38f — Reader-facing chapter titles
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T00:25:42.800Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T00:26:40.047Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
