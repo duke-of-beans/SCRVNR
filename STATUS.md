@@ -7,7 +7,7 @@ Last Recorded: wo-20261018-0c1345b6 — Cover drafts: the taped sun
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T01:04:39.024Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T01:05:41.979Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
