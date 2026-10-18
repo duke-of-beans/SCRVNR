@@ -7,7 +7,7 @@ Last Recorded: wo-20261018-8dfab5d1 — Vault, PDF and canon artifact fully curr
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T22:41:39.944Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T22:42:40.005Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
