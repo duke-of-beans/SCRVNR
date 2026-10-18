@@ -7,7 +7,7 @@ Last Recorded: wo-20261018-6eb9ed22 — Expansion to 70k: eleven new chapters, D
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T21:55:42.579Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T21:56:42.026Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
