@@ -7,7 +7,7 @@ Last Recorded: wo-20261017-dfb1d079 — Apply novel pass + hand ledger
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-18T00:14:39.872Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-18T00:15:39.375Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
