@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-183dceef — Record untitled-canary decisions (2026-1
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T06:27:59.395Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T06:28:40.411Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
