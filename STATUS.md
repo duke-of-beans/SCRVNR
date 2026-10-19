@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-f8bb953d — Record untitled-canary corrections (hara
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T09:32:43.989Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T09:33:41.158Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
