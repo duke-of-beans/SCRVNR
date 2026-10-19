@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-11827f25 — Record untitled-canary: River 2/esoteric
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T13:58:42.379Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T13:59:44.504Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
