@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-2b931be0 — untitled-canary: stated intentions ledge
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T22:56:42.346Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T22:57:42.586Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
