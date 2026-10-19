@@ -7,7 +7,7 @@ Last Recorded: wo-20261018-d7dbe0a3 — Screenplay boards round 2 (01, 25, 28a, 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T00:42:40.483Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T00:43:39.538Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
