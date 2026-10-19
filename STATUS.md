@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-5b068888 â€” Record untitled-canary statements (MoirÃ
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T06:49:42.085Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T06:50:42.434Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
