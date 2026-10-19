@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-5b495463 — Walter courting Rosaria; Hedy as neighbo
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T02:05:40.494Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T02:06:41.231Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-19T02:05:40.494Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261019-c0c44c18` | scrvnr | drafted | KDP wraparound cover, cream | 2026-10-19 |
 | `wo-20261019-ce2a01e7` | scrvnr | in_progress | Cover art locked: marigold construction paper | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
