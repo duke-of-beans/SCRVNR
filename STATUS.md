@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-b5d0258a — Record untitled-canary register leaning 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T08:21:42.221Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T08:22:42.896Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
