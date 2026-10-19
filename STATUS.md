@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-183dceef — Record untitled-canary decisions (2026-1
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T06:38:42.635Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T06:39:41.059Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -28,6 +28,7 @@ _Generated 2026-10-19T06:38:42.635Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261019-bdff6833` | scrvnr | drafted | Record untitled-canary statements (believability, what he likes) | 2026-10-19 |
 | `wo-20261019-5b068888` | scrvnr | dispatched | Record untitled-canary statements (Moiré virus, left turn) | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
