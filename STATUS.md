@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-ca004ab4 — Record untitled-canary motifs and layere
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T20:54:43.306Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T20:55:43.189Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
