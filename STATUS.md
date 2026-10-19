@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-455b4214 — Lulu package to the Lulu guide
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T03:17:44.904Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T03:18:40.420Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
