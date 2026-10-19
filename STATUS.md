@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-19
-Last Recorded: wo-20261019-621e1e27 — Record untitled-canary shape (mixed moirés, overlay)
+Last Recorded: wo-20261019-b5d0258a — Record untitled-canary register leaning and essay-theme idea
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T07:07:42.635Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T07:09:01.761Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -29,7 +29,6 @@ _Generated 2026-10-19T07:07:42.635Z from the work-order store. Done means verifi
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
 | `wo-20261019-6429fd25` | scrvnr | dispatched | Record untitled-canary register pick and tactical Moiré | 2026-10-19 |
-| `wo-20261019-b5d0258a` | scrvnr | dispatched | Record untitled-canary register leaning and essay-theme idea | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
