@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-b5d9ffd0 — Lulu interior: fix font and transparency
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T03:43:41.167Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T03:44:40.811Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
