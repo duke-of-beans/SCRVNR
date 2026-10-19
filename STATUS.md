@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-5724f410 — Document faces set as real objects
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T04:30:58.357Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T04:31:40.399Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
