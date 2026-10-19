@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-ac4e0fdd — Codify book production for Claude and Gr
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T04:49:40.023Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T04:50:40.568Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
