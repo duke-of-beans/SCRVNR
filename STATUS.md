@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-621e1e27 — Record untitled-canary shape (mixed moir
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T07:01:49.509Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T07:02:42.945Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
