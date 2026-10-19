@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-35d7a51e — untitled-canary: fork holder as esoteric
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T23:31:16.965Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T23:32:13.458Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
