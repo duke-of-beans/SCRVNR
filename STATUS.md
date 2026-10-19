@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-19
-Last Recorded: wo-20261019-b5d9ffd0 — Lulu interior: fix font and transparency flags
+Last Recorded: wo-20261019-d774828a — Lulu interior: flatten flagged pages
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T03:44:40.811Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T03:45:57.087Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,7 +27,6 @@ _Generated 2026-10-19T03:44:40.811Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261019-d774828a` | scrvnr | dispatched | Lulu interior: flatten flagged pages | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
