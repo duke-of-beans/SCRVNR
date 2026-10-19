@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-c0c44c18 — KDP wraparound cover, cream
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T02:33:40.673Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T02:34:41.049Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
