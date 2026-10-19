@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-ac4e0fdd — Codify book production for Claude and Gr
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T05:06:41.238Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T05:07:42.139Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -27,6 +27,7 @@ _Generated 2026-10-19T05:06:41.238Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261019-183dceef` | scrvnr | dispatched | Record untitled-canary decisions (2026-10-18 evening) | 2026-10-19 |
 | `wo-20261019-d92a608a` | scrvnr | dispatched | Exploring vault: untitled canary novel | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
