@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-b173f117 — Record untitled-canary character work (i
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T21:47:42.750Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T21:48:42.755Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
