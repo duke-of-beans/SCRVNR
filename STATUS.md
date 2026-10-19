@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-bb80232a — KDP cover type: EB Garamond, layout A
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T02:58:40.254Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T02:59:41.614Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
