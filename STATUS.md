@@ -7,7 +7,7 @@ Last Recorded: wo-20261019-2b931be0 — untitled-canary: stated intentions ledge
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-19T23:08:16.505Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-19T23:09:45.105Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -28,6 +28,7 @@ _Generated 2026-10-19T23:08:16.505Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261019-62093443` | scrvnr | dispatched | untitled-canary: fork holder depth and keys hole | 2026-10-19 |
 | `wo-20261019-35d7a51e` | scrvnr | dispatched | untitled-canary: fork holder as esoteric lens; revelation of the method options | 2026-10-19 |
 | `wo-20261019-0b837113` | scrvnr | dispatched | untitled-canary: keyholder as the esoteric lens (option) + revelation of the method options | 2026-10-19 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
