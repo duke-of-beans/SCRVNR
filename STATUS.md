@@ -7,7 +7,7 @@ Last Recorded: wo-20261020-03597f5d — STBNT reading copy with final covers
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-20T03:08:14.632Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-20T03:09:15.136Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -28,6 +28,7 @@ _Generated 2026-10-20T03:08:14.632Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261020-7cc6665b` | scrvnr | drafted | untitled-canary: build out as an Obsidian vault on G7 | 2026-10-20 |
 | `wo-20261019-62093443` | scrvnr | dispatched | untitled-canary: fork holder depth and keys hole | 2026-10-20 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
