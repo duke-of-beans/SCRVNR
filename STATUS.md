@@ -7,7 +7,7 @@ Last Recorded: wo-20261020-f967cb72 — untitled-canary: re-land content strande
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-20T10:56:26.200Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-20T10:57:30.133Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -24,12 +24,12 @@ _Generated 2026-10-20T10:56:26.200Z from the work-order store. Done means verifi
 - `wo-20261017-35d2db65` **Scene 6, Click (first draft)** (scrvnr) — kicked up: "still not landed 6h after it shipped: duke-of-beans/SCRVNR-private#49 open, checks green"
 - `wo-20261019-62093443` **untitled-canary: fork holder depth and keys hole** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#313 clean-context review asks for changes: The PR modifies books/untitled-canary/Devices and hooks ledger.md, but the work order s…"
 - `wo-20261019-d92a608a` **Exploring vault: untitled canary novel** (scrvnr) — kicked up: "duke-of-beans/ops-context#69 clean-context review asks for changes: The diff only appends stated notes to areas/untitled-canary.md; it does not add the request…"
+- `wo-20261020-7cc6665b` **untitled-canary: build out as an Obsidian vault on G7** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#375 clean-context review asks for changes: Modifies books/untitled-canary/Characters - Edward.md, but note contents other than 00 …"
 
 ### In flight
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261020-7cc6665b` | scrvnr | dispatched | untitled-canary: build out as an Obsidian vault on G7 | 2026-10-20 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
