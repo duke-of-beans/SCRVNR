@@ -7,7 +7,7 @@ Last Recorded: wo-20261020-03597f5d — STBNT reading copy with final covers
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-20T01:49:21.805Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-20T01:50:19.933Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -22,13 +22,13 @@ _Generated 2026-10-20T01:49:21.805Z from the work-order store. Done means verifi
 - `wo-20261016-e0431e41` **Knowledge: Supposed to Be Nice Tomorrow area file** (scrvnr) — kicked up: "duke-of-beans/ops-context#61 has waited 6 h for a clean-context review that could not run (no reviewer model answered (deepseek/deepseek-v4-flash: Gateway deep…"
 - `wo-20261016-fb611172` **Save Supposed to Be Nice Tomorrow working files** (scrvnr) — kicked up: "still not landed 6h after it shipped: duke-of-beans/SCRVNR-private#1 open, checks none"
 - `wo-20261017-35d2db65` **Scene 6, Click (first draft)** (scrvnr) — kicked up: "still not landed 6h after it shipped: duke-of-beans/SCRVNR-private#49 open, checks green"
+- `wo-20261019-62093443` **untitled-canary: fork holder depth and keys hole** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#310 clean-context review asks for changes: Adds a new Research - Greater Israel.md file instead of editing books/untitled-canary/C…"
 - `wo-20261019-d92a608a` **Exploring vault: untitled canary novel** (scrvnr) — kicked up: "duke-of-beans/ops-context#69 clean-context review asks for changes: The diff only appends stated notes to areas/untitled-canary.md; it does not add the request…"
 
 ### In flight
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261019-62093443` | scrvnr | dispatched | untitled-canary: fork holder depth and keys hole | 2026-10-20 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
