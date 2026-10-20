@@ -7,7 +7,7 @@ Last Recorded: wo-20261020-f967cb72 — untitled-canary: re-land content strande
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-20T13:31:16.283Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-20T13:32:16.587Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
