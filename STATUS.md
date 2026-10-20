@@ -7,7 +7,7 @@ Last Recorded: wo-20261020-03597f5d — STBNT reading copy with final covers
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-20T03:01:14.654Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-20T03:02:14.445Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
