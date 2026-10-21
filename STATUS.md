@@ -7,7 +7,7 @@ Last Recorded: wo-20261021-433e3fa8 — STBNT object inventory (proposed)
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-21T08:31:45.218Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-21T08:32:51.537Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -24,12 +24,12 @@ _Generated 2026-10-21T08:31:45.218Z from the work-order store. Done means verifi
 - `wo-20261017-35d2db65` **Scene 6, Click (first draft)** (scrvnr) — kicked up: "still not landed 6h after it shipped: duke-of-beans/SCRVNR-private#49 open, checks green"
 - `wo-20261019-62093443` **untitled-canary: fork holder depth and keys hole** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#313 clean-context review asks for changes: The PR modifies books/untitled-canary/Devices and hooks ledger.md, but the work order s…"
 - `wo-20261019-d92a608a` **Exploring vault: untitled canary novel** (scrvnr) — kicked up: "duke-of-beans/ops-context#69 clean-context review asks for changes: The diff only appends stated notes to areas/untitled-canary.md; it does not add the request…"
-- `wo-20261020-7cc6665b` **untitled-canary: build out as an Obsidian vault on G7** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#463 clean-context review asks for changes: PR adds Scenes/16a Anton, after.md and edits Spine (draft).md, which are note contents …"
 
 ### In flight
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261020-7cc6665b` | scrvnr | dispatched | untitled-canary: build out as an Obsidian vault on G7 | 2026-10-21 |
 | `wo-20261021-733ff26e` | scrvnr | dispatched | STBNT naming pass | 2026-10-21 |
 | `wo-20261021-11b57473` | scrvnr | dispatched | STBNT object canon note | 2026-10-21 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
