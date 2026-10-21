@@ -7,7 +7,7 @@ Last Recorded: wo-20261021-74d9654d — STBNT open items and print rebuild
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-21T20:03:56.550Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-21T20:04:45.913Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
