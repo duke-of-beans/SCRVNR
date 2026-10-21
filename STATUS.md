@@ -7,7 +7,7 @@ Last Recorded: wo-20261021-733ff26e — STBNT naming pass
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-21T17:21:51.943Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-21T17:22:45.360Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
