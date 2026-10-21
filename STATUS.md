@@ -7,7 +7,7 @@ Last Recorded: wo-20261021-433e3fa8 — STBNT object inventory (proposed)
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-21T08:16:43.443Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-21T08:17:43.812Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
