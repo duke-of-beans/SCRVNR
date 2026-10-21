@@ -7,7 +7,7 @@ Last Recorded: wo-20261021-733ff26e — STBNT naming pass
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-21T18:34:46.998Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-21T18:35:46.448Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -24,12 +24,12 @@ _Generated 2026-10-21T18:34:46.998Z from the work-order store. Done means verifi
 - `wo-20261017-35d2db65` **Scene 6, Click (first draft)** (scrvnr) — kicked up: "still not landed 6h after it shipped: duke-of-beans/SCRVNR-private#49 open, checks green"
 - `wo-20261019-62093443` **untitled-canary: fork holder depth and keys hole** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#313 clean-context review asks for changes: The PR modifies books/untitled-canary/Devices and hooks ledger.md, but the work order s…"
 - `wo-20261019-d92a608a` **Exploring vault: untitled canary novel** (scrvnr) — kicked up: "duke-of-beans/ops-context#69 clean-context review asks for changes: The diff only appends stated notes to areas/untitled-canary.md; it does not add the request…"
-- `wo-20261020-7cc6665b` **untitled-canary: build out as an Obsidian vault on G7** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#471 clean-context review asks for changes: No .obsidian config, 00 Home.md, or G7 vault registration is included, which is the ent…"
 
 ### In flight
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261020-7cc6665b` | scrvnr | dispatched | untitled-canary: build out as an Obsidian vault on G7 | 2026-10-21 |
 | `wo-20261021-5ff2c0fe` | scrvnr | dispatched | knowledge: STBNT object canon and decisions | 2026-10-21 |
 | `wo-20261021-74d9654d` | scrvnr | dispatched | STBNT open items and print rebuild | 2026-10-21 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
