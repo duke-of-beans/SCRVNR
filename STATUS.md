@@ -7,7 +7,7 @@ Last Recorded: wo-20261021-ef085302 — STBNT prose diagnostics pass, whole book
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-21T07:46:44.647Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-21T07:47:45.140Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
