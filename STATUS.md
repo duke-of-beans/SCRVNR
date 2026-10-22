@@ -7,7 +7,7 @@ Last Recorded: wo-20261021-74d9654d — STBNT open items and print rebuild
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-22T00:13:44.340Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-22T00:14:44.999Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -29,7 +29,7 @@ _Generated 2026-10-22T00:13:44.340Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261020-7cc6665b` | scrvnr | dispatched | untitled-canary: build out as an Obsidian vault on G7 | 2026-10-21 |
+| `wo-20261020-7cc6665b` | scrvnr | dispatched | untitled-canary: build out as an Obsidian vault on G7 | 2026-10-22 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
