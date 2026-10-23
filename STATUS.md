@@ -7,7 +7,7 @@ Last Recorded: wo-20261023-7189158a — 34 I feel like — save movement 1 (in p
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-23T22:22:32.675Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-23T22:24:01.254Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
