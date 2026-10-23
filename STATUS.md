@@ -7,7 +7,7 @@ Last Recorded: wo-20261023-8f363b9e — Write scene 26 - Everybody counts
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-23T03:25:42.745Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-23T03:26:46.700Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
