@@ -7,7 +7,7 @@ Last Recorded: wo-20261023-60514693 — Remove Jacobin surname from Scene 26 ope
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-23T13:22:43.799Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-23T13:23:42.860Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
