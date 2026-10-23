@@ -7,7 +7,7 @@ Last Recorded: wo-20261023-c7828526 — Bring ALM synopsis/spine/character sheet
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-23T23:43:44.924Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-23T23:44:45.219Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -30,6 +30,7 @@ _Generated 2026-10-23T23:43:44.924Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261023-5e98e7ae` | scrvnr | dispatched | Refresh ALM area file status in ops-context | 2026-10-23 |
 | `wo-20261023-7364d83e` | scrvnr | dispatched | ALM synopsis to beat-by-beat depth; repo cleanup | 2026-10-23 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
