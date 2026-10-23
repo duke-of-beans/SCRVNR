@@ -7,7 +7,7 @@ Last Recorded: wo-20261023-60514693 — Remove Jacobin surname from Scene 26 ope
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-23T17:38:06.660Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-23T17:39:31.866Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,12 +25,12 @@ _Generated 2026-10-23T17:38:06.660Z from the work-order store. Done means verifi
 - `wo-20261019-62093443` **untitled-canary: fork holder depth and keys hole** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#313 clean-context review asks for changes: The PR modifies books/untitled-canary/Devices and hooks ledger.md, but the work order s…"
 - `wo-20261019-d92a608a` **Exploring vault: untitled canary novel** (scrvnr) — kicked up: "duke-of-beans/ops-context#69 clean-context review asks for changes: The diff only appends stated notes to areas/untitled-canary.md; it does not add the request…"
 - `wo-20261020-7cc6665b` **untitled-canary: build out as an Obsidian vault on G7** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#596 clean-context review asks for changes: PR adds books/untitled-canary/GREG_MOIRE_BRIEF.md, which is outside the work order's st…"
+- `wo-20261023-9e7a651f` **A Long Moiré — rebuild "The tapes" as the merged chapter (30 + 32)** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#608 clean-context review asks for changes: The PR includes changes outside the scope of the work order. Character sheets were adde…"
 
 ### In flight
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261023-9e7a651f` | scrvnr | dispatched | A Long Moiré — rebuild "The tapes" as the merged chapter (30 + 32) | 2026-10-23 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
