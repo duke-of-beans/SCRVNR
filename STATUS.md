@@ -7,7 +7,7 @@ Last Recorded: wo-20261023-9e3f76ae — Ship 33 The cascade draft 1 + log decisi
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-23T22:10:25.129Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-23T22:11:25.698Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
