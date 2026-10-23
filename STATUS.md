@@ -7,7 +7,7 @@ Last Recorded: wo-20261023-c7828526 — Bring ALM synopsis/spine/character sheet
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-23T23:46:47.560Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-23T23:47:45.708Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
