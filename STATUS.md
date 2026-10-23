@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-23
-Last Recorded: wo-20261023-f5b57f71 — Ship merged 30 The tapes + ch.18 name fix
+Last Recorded: wo-20261023-9e3f76ae — Ship 33 The cascade draft 1 + log decisions
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-23T21:39:20.186Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-23T21:59:37.932Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
