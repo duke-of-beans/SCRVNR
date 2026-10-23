@@ -7,7 +7,7 @@ Last Recorded: wo-20261023-4995ea13 — A Long Moiré — restore original merge
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-23T20:45:17.479Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-23T20:46:16.043Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -30,6 +30,7 @@ _Generated 2026-10-23T20:45:17.479Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261023-f5b57f71` | scrvnr | drafted | Ship merged 30 The tapes + ch.18 name fix | 2026-10-23 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
