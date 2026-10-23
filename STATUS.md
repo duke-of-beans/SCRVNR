@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-23
-Last Recorded: wo-20261023-60514693 — Remove Jacobin surname from Scene 26 opening
+Last Recorded: wo-20261023-9e7a651f — A Long Moiré — rebuild "The tapes" as the merged chapter (30 + 32)
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-23T17:54:08.990Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-23T18:01:24.253Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -30,7 +30,6 @@ _Generated 2026-10-23T17:54:08.990Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261023-9e7a651f` | scrvnr | dispatched | A Long Moiré — rebuild "The tapes" as the merged chapter (30 + 32) | 2026-10-23 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
