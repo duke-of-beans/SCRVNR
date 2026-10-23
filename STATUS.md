@@ -7,7 +7,7 @@ Last Recorded: wo-20261023-5d835dff — Add FF1 operational passage to scene 26
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-23T03:44:41.574Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-23T03:45:44.201Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
