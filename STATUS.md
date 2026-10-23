@@ -7,7 +7,7 @@ Last Recorded: wo-20261023-f5b57f71 — Ship merged 30 The tapes + ch.18 name fi
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-23T21:32:20.032Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-23T21:39:20.186Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
