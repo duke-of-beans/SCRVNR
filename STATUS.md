@@ -7,7 +7,7 @@ Last Recorded: wo-20261023-4995ea13 — A Long Moiré — restore original merge
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-23T20:43:15.720Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-23T20:44:17.947Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
