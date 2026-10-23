@@ -7,7 +7,7 @@ Last Recorded: wo-20261023-9e7a651f — A Long Moiré — rebuild "The tapes" as
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-23T19:00:16.960Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-23T19:01:16.909Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
