@@ -7,7 +7,7 @@ Last Recorded: wo-20261023-67643c2f — Move STBNT open items into the STBNT bac
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T00:18:45.815Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T00:19:47.289Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
