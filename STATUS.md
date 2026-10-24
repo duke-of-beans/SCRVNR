@@ -7,21 +7,15 @@ Last Recorded: wo-20261024-8179a685 — ALM 34 movement 2 (the worksheet)
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T03:57:56.026Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T04:01:10.298Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
 ### Waiting on David
 
-- `wo-20261016-3789d894` **Spine consistency: act break, door line, envelope** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#10 has waited 6 h for a clean-context review that could not run (no reviewer model answered (deepseek/deepseek-v4-flash: Gateway d…"
 - `wo-20261016-45472099` **Book vault: GitHub canonical, G7 a self-updating mirror** (scrvnr) — kicked up: "duke-of-beans/ops-context#65 clean-context review asks for changes: PR modifies ops-context repo, which is out of scope (work order limits to duke-of-beans/SCR…"
-- `wo-20261016-45bf5c0c` **knowledge: Supposed to Be Nice Tomorrow, 2026-10-16 decisions** (scrvnr) — kicked up: "duke-of-beans/ops-context#63 has waited 6 h for a clean-context review that could not run (no reviewer model answered (deepseek/deepseek-v4-flash: Gateway deep…"
 - `wo-20261016-8b196ff3` **Carla's kitchen Spanish vs. no Italian** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#19 clean-context review asks for changes: The work order specifies 30 years of proximity to the Rios, but the PR says forty-five y…"
 - `wo-20261016-b284f58a` **Live cumulative synopsis (with spoilers)** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#25 clean-context review asks for changes: The structure-map artifact is not updated with a synopsis section as required by the wor…"
-- `wo-20261016-c667fcaa` **Supposed to Be Nice Tomorrow: land whole book as Obsidian vault (supersedes PRs #1-#8)** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#9 has waited 6 h for a clean-context review that could not run (no reviewer model answered (deepseek/deepseek-v4-flash: Gateway de…"
-- `wo-20261016-e0431e41` **Knowledge: Supposed to Be Nice Tomorrow area file** (scrvnr) — kicked up: "duke-of-beans/ops-context#61 has waited 6 h for a clean-context review that could not run (no reviewer model answered (deepseek/deepseek-v4-flash: Gateway deep…"
-- `wo-20261016-fb611172` **Save Supposed to Be Nice Tomorrow working files** (scrvnr) — kicked up: "still not landed 6h after it shipped: duke-of-beans/SCRVNR-private#1 open, checks none"
-- `wo-20261017-35d2db65` **Scene 6, Click (first draft)** (scrvnr) — kicked up: "still not landed 6h after it shipped: duke-of-beans/SCRVNR-private#49 open, checks green"
 - `wo-20261019-62093443` **untitled-canary: fork holder depth and keys hole** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#313 clean-context review asks for changes: The PR modifies books/untitled-canary/Devices and hooks ledger.md, but the work order s…"
 - `wo-20261019-d92a608a` **Exploring vault: untitled canary novel** (scrvnr) — kicked up: "duke-of-beans/ops-context#69 clean-context review asks for changes: The diff only appends stated notes to areas/untitled-canary.md; it does not add the request…"
 - `wo-20261020-7cc6665b` **untitled-canary: build out as an Obsidian vault on G7** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#596 clean-context review asks for changes: PR adds books/untitled-canary/GREG_MOIRE_BRIEF.md, which is outside the work order's st…"
@@ -30,6 +24,12 @@ _Generated 2026-10-24T03:57:56.026Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261017-35d2db65` | scrvnr | in_progress | Scene 6, Click (first draft) | 2026-10-24 |
+| `wo-20261016-fb611172` | scrvnr | in_progress | Save Supposed to Be Nice Tomorrow working files | 2026-10-24 |
+| `wo-20261016-e0431e41` | scrvnr | in_progress | Knowledge: Supposed to Be Nice Tomorrow area file | 2026-10-24 |
+| `wo-20261016-c667fcaa` | scrvnr | in_progress | Supposed to Be Nice Tomorrow: land whole book as Obsidian vault (supersedes PRs #1-#8) | 2026-10-24 |
+| `wo-20261016-45bf5c0c` | scrvnr | in_progress | knowledge: Supposed to Be Nice Tomorrow, 2026-10-16 decisions | 2026-10-24 |
+| `wo-20261016-3789d894` | scrvnr | in_progress | Spine consistency: act break, door line, envelope | 2026-10-24 |
 | `wo-20261024-74f280d4` | scrvnr | dispatched | ALM 34 movement 3 (the folder, and the envelope) | 2026-10-24 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
