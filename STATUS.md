@@ -7,7 +7,7 @@ Last Recorded: wo-20261024-48578519 — ALM 35 The cameras reversed (draft 1) + 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T05:59:12.446Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T06:10:10.153Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -24,6 +24,7 @@ _Generated 2026-10-24T05:59:12.446Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261024-dda6f126` | scrvnr | dispatched | ALM 35 draft 2; remove sugar bowl (STBNT) | 2026-10-24 |
 | `wo-20261017-35d2db65` | scrvnr | blocked | Scene 6, Click (first draft) | 2026-10-24 |
 | `wo-20261016-fb611172` | scrvnr | blocked | Save Supposed to Be Nice Tomorrow working files | 2026-10-24 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
