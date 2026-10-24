@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-24
-Last Recorded: wo-20261024-8179a685 — ALM 34 movement 2 (the worksheet)
+Last Recorded: wo-20261016-e0431e41 — Knowledge: Supposed to Be Nice Tomorrow area file
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T04:01:10.298Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T04:09:53.592Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -24,12 +24,8 @@ _Generated 2026-10-24T04:01:10.298Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261017-35d2db65` | scrvnr | in_progress | Scene 6, Click (first draft) | 2026-10-24 |
-| `wo-20261016-fb611172` | scrvnr | in_progress | Save Supposed to Be Nice Tomorrow working files | 2026-10-24 |
-| `wo-20261016-e0431e41` | scrvnr | in_progress | Knowledge: Supposed to Be Nice Tomorrow area file | 2026-10-24 |
-| `wo-20261016-c667fcaa` | scrvnr | in_progress | Supposed to Be Nice Tomorrow: land whole book as Obsidian vault (supersedes PRs #1-#8) | 2026-10-24 |
-| `wo-20261016-45bf5c0c` | scrvnr | in_progress | knowledge: Supposed to Be Nice Tomorrow, 2026-10-16 decisions | 2026-10-24 |
-| `wo-20261016-3789d894` | scrvnr | in_progress | Spine consistency: act break, door line, envelope | 2026-10-24 |
+| `wo-20261017-35d2db65` | scrvnr | blocked | Scene 6, Click (first draft) | 2026-10-24 |
+| `wo-20261016-fb611172` | scrvnr | blocked | Save Supposed to Be Nice Tomorrow working files | 2026-10-24 |
 | `wo-20261024-74f280d4` | scrvnr | dispatched | ALM 34 movement 3 (the folder, and the envelope) | 2026-10-24 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
@@ -64,6 +60,8 @@ None.
 - 2026-10-24 `wo-20261016-20fa3787` **Scene 5, second pass of David's notes (blower, tape stack)** (scrvnr) — [duke-of-beans/SCRVNR-private#17](https://github.com/duke-of-beans/SCRVNR-private/pull/17) · merged, checks green
 - 2026-10-24 `wo-20261016-2b90f368` **Scene 3, Two Dots (first draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#30](https://github.com/duke-of-beans/SCRVNR-private/pull/30) · merged, checks green
 - 2026-10-24 `wo-20261016-35a677b5` **Supposed to Be Nice Tomorrow: scene 9, Sunday dinner (first draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#24](https://github.com/duke-of-beans/SCRVNR-private/pull/24) · merged, checks green
+- 2026-10-24 `wo-20261016-3789d894` **Spine consistency: act break, door line, envelope** (scrvnr) — [duke-of-beans/SCRVNR-private#10](https://github.com/duke-of-beans/SCRVNR-private/pull/10) · merged, checks green
+- 2026-10-24 `wo-20261016-45bf5c0c` **knowledge: Supposed to Be Nice Tomorrow, 2026-10-16 decisions** (scrvnr) — [duke-of-beans/ops-context#63](https://github.com/duke-of-beans/ops-context/pull/63) · merged, checks green
 - 2026-10-24 `wo-20261016-51245484` **Lock scenes 3 and 13** (scrvnr) — [duke-of-beans/SCRVNR-private#41](https://github.com/duke-of-beans/SCRVNR-private/pull/41) · merged, checks green
 - 2026-10-24 `wo-20261016-53756eab` **Walter's creed: kindness bit him, and shaped Curt** (scrvnr) — [duke-of-beans/SCRVNR-private#31](https://github.com/duke-of-beans/SCRVNR-private/pull/31) · merged, checks green
 - 2026-10-24 `wo-20261016-68345bb2` **Scene 7, Fuck Luck (first draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#42](https://github.com/duke-of-beans/SCRVNR-private/pull/42) · merged, checks green
@@ -78,12 +76,14 @@ None.
 - 2026-10-24 `wo-20261016-b5d7ed70` **Scene 4: the unasked bullhorn question** (scrvnr) — [duke-of-beans/SCRVNR-private#23](https://github.com/duke-of-beans/SCRVNR-private/pull/23) · merged, checks green
 - 2026-10-24 `wo-20261016-c2cce816` **Rosaria 1942-1986, Walter's move, Ray's route, house order** (scrvnr) — [duke-of-beans/SCRVNR-private#33](https://github.com/duke-of-beans/SCRVNR-private/pull/33) · merged, checks green
 - 2026-10-24 `wo-20261016-c430223d` **Scene 7 revision: Gracie's fire, Curt's Vietnam, FUCK LUCK, Ray takes no side** (scrvnr) — [duke-of-beans/SCRVNR-private#43](https://github.com/duke-of-beans/SCRVNR-private/pull/43) · merged, checks green
+- 2026-10-24 `wo-20261016-c667fcaa` **Supposed to Be Nice Tomorrow: land whole book as Obsidian vault (supersedes PRs #1-#8)** (scrvnr) — [duke-of-beans/SCRVNR-private#9](https://github.com/duke-of-beans/SCRVNR-private/pull/9) · merged, checks none (no CI on this repo)
 - 2026-10-24 `wo-20261016-cb1dd04a` **Scene 13: why Danny goes to Ray, not Curt** (scrvnr) — [duke-of-beans/SCRVNR-private#39](https://github.com/duke-of-beans/SCRVNR-private/pull/39) · merged, checks green
 - 2026-10-24 `wo-20261016-cc1d8195` **Last call: Spanish on the tub, unread Italian inside it** (scrvnr) — [duke-of-beans/SCRVNR-private#20](https://github.com/duke-of-beans/SCRVNR-private/pull/20) · merged, checks green
 - 2026-10-24 `wo-20261016-cd4c80bc` **Supposed to Be Nice Tomorrow: scene 5, the seam (first draft)** (scrvnr) — [duke-of-beans/SCRVNR-private#12](https://github.com/duke-of-beans/SCRVNR-private/pull/12) · merged, checks green
 - 2026-10-24 `wo-20261016-cf87a71a` **Scene 11, Printouts (first draft); scene 7 elephant; Ray's closing pattern** (scrvnr) — [duke-of-beans/SCRVNR-private#44](https://github.com/duke-of-beans/SCRVNR-private/pull/44) · merged, checks green
 - 2026-10-24 `wo-20261016-d15eca8a` **Alma's strip: the tape stacks' closure, and her tomorrow** (scrvnr) — [duke-of-beans/SCRVNR-private#18](https://github.com/duke-of-beans/SCRVNR-private/pull/18) · merged, checks green
 - 2026-10-24 `wo-20261016-dc38fb7a` **Scene 5 revision from David's notes; new prose rules** (scrvnr) — [duke-of-beans/SCRVNR-private#16](https://github.com/duke-of-beans/SCRVNR-private/pull/16) · merged, checks green
+- 2026-10-24 `wo-20261016-e0431e41` **Knowledge: Supposed to Be Nice Tomorrow area file** (scrvnr) — [duke-of-beans/ops-context#61](https://github.com/duke-of-beans/ops-context/pull/61) · merged, checks green
 - 2026-10-24 `wo-20261016-e8e4d813` **Amapola: the name, the funeral card, the recipe; two new rules** (scrvnr) — [duke-of-beans/SCRVNR-private#32](https://github.com/duke-of-beans/SCRVNR-private/pull/32) · merged, checks green
 - 2026-10-24 `wo-20261017-0114cf09` **Teresa's leaving, Kim, Ana** (scrvnr) — [duke-of-beans/SCRVNR-private#108](https://github.com/duke-of-beans/SCRVNR-private/pull/108) · merged, checks green
 - 2026-10-24 `wo-20261017-07dddbe0` **Scene 23 line cut; prose rule on inference** (scrvnr) — [duke-of-beans/SCRVNR-private#71](https://github.com/duke-of-beans/SCRVNR-private/pull/71) · merged, checks green
@@ -104,10 +104,6 @@ None.
 - 2026-10-24 `wo-20261017-3541f7fe` **Expansion approved: design briefs** (scrvnr) — [duke-of-beans/SCRVNR-private#105](https://github.com/duke-of-beans/SCRVNR-private/pull/105) · merged, checks green
 - 2026-10-24 `wo-20261017-3a2f244f` **20a: fix the meander** (scrvnr) — [duke-of-beans/SCRVNR-private#114](https://github.com/duke-of-beans/SCRVNR-private/pull/114) · merged, checks green
 - 2026-10-24 `wo-20261017-3b755ffd` **Lock 34/35/37, fold 6, Synopsis and map current** (scrvnr) — [duke-of-beans/SCRVNR-private#132](https://github.com/duke-of-beans/SCRVNR-private/pull/132) · merged, checks green
-- 2026-10-24 `wo-20261017-3fffbb0c` **Scene 8: Freeman's "educated proletariat" after the Vietnam protests** (scrvnr) — [duke-of-beans/SCRVNR-private#52](https://github.com/duke-of-beans/SCRVNR-private/pull/52) · merged, checks green
-- 2026-10-24 `wo-20261017-432383d8` **Record the surname-change theme** (scrvnr) — [duke-of-beans/SCRVNR-private#138](https://github.com/duke-of-beans/SCRVNR-private/pull/138) · merged, checks green
-- 2026-10-24 `wo-20261017-47597e5e` **Rules: no explainers; Ray is Ray** (scrvnr) — [duke-of-beans/SCRVNR-private#100](https://github.com/duke-of-beans/SCRVNR-private/pull/100) · merged, checks green
-- 2026-10-24 `wo-20261017-48d15b4d` **Walter knew; Carla's buongiorno; scene 24 draft** (scrvnr) — [duke-of-beans/SCRVNR-private#72](https://github.com/duke-of-beans/SCRVNR-private/pull/72) · merged, checks green
 
-<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-51245484 wo-20261016-53756eab wo-20261016-68345bb2 wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-c430223d wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-cf87a71a wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e8e4d813 wo-20261017-0114cf09 wo-20261017-07dddbe0 wo-20261017-0841d36c wo-20261017-0c75fe9e wo-20261017-0e4b451c wo-20261017-0f854fa4 wo-20261017-116e3426 wo-20261017-1238f8bc wo-20261017-13ced854 wo-20261017-194d84a4 wo-20261017-227cacbc wo-20261017-236aec41 wo-20261017-2509a008 wo-20261017-2577c464 wo-20261017-279df7bf wo-20261017-2a49673a wo-20261017-3541f7fe wo-20261017-3a2f244f wo-20261017-3b755ffd wo-20261017-3fffbb0c wo-20261017-432383d8 wo-20261017-47597e5e wo-20261017-48d15b4d -->
+<!-- work-orders:recorded wo-20261016-0ccdb165 wo-20261016-12ca7372 wo-20261016-192a3076 wo-20261016-20fa3787 wo-20261016-2b90f368 wo-20261016-35a677b5 wo-20261016-3789d894 wo-20261016-45bf5c0c wo-20261016-51245484 wo-20261016-53756eab wo-20261016-68345bb2 wo-20261016-72faef94 wo-20261016-79e9a877 wo-20261016-82036fad wo-20261016-8643b0c3 wo-20261016-87ccb72c wo-20261016-97039196 wo-20261016-a2f1b194 wo-20261016-abcb8b3c wo-20261016-b5d7ed70 wo-20261016-c2cce816 wo-20261016-c430223d wo-20261016-c667fcaa wo-20261016-cb1dd04a wo-20261016-cc1d8195 wo-20261016-cd4c80bc wo-20261016-cf87a71a wo-20261016-d15eca8a wo-20261016-dc38fb7a wo-20261016-e0431e41 wo-20261016-e8e4d813 wo-20261017-0114cf09 wo-20261017-07dddbe0 wo-20261017-0841d36c wo-20261017-0c75fe9e wo-20261017-0e4b451c wo-20261017-0f854fa4 wo-20261017-116e3426 wo-20261017-1238f8bc wo-20261017-13ced854 wo-20261017-194d84a4 wo-20261017-227cacbc wo-20261017-236aec41 wo-20261017-2509a008 wo-20261017-2577c464 wo-20261017-279df7bf wo-20261017-2a49673a wo-20261017-3541f7fe wo-20261017-3a2f244f wo-20261017-3b755ffd -->
 <!-- work-orders:end -->
