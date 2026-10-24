@@ -7,7 +7,7 @@ Last Recorded: wo-20261024-95ab3c4c — ALM bloat pass: gap inventory
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T06:57:32.137Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T07:08:25.856Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
