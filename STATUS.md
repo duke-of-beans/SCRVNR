@@ -7,7 +7,7 @@ Last Recorded: wo-20261024-72db187d — ALM scene 1 opens on "This only takes a 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T02:27:38.274Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T02:38:11.551Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -30,6 +30,7 @@ _Generated 2026-10-24T02:27:38.274Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261024-6acef3e2` | scrvnr | dispatched | Literary pass: every character's POV through the book; titles | 2026-10-24 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
