@@ -7,7 +7,7 @@ Last Recorded: wo-20261024-72db187d — ALM scene 1 opens on "This only takes a 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T01:26:43.775Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T01:27:43.877Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
