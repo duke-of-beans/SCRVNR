@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-24
-Last Recorded: wo-20261024-051a5177 — ALM three lenses merged into the vault
+Last Recorded: wo-20261024-5ea0dec7 — ALM one plate: all gap reports and lenses overlaid
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T07:39:35.490Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T07:50:27.694Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -24,7 +24,6 @@ _Generated 2026-10-24T07:39:35.490Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261024-5ea0dec7` | scrvnr | dispatched | ALM one plate: all gap reports and lenses overlaid | 2026-10-24 |
 | `wo-20261017-35d2db65` | scrvnr | blocked | Scene 6, Click (first draft) | 2026-10-24 |
 | `wo-20261016-fb611172` | scrvnr | blocked | Save Supposed to Be Nice Tomorrow working files | 2026-10-24 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
