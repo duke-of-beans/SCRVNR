@@ -7,7 +7,7 @@ Last Recorded: wo-20261024-051a5177 — ALM three lenses merged into the vault
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T07:28:30.548Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T07:39:35.490Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
