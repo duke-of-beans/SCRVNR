@@ -7,7 +7,7 @@ Last Recorded: wo-20261024-8179a685 — ALM 34 movement 2 (the worksheet)
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T03:50:14.884Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T03:51:48.485Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
