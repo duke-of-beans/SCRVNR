@@ -7,7 +7,7 @@ Last Recorded: wo-20261024-48578519 — ALM 35 The cameras reversed (draft 1) + 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T05:48:12.758Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T05:59:12.446Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
