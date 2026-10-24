@@ -7,7 +7,7 @@ Last Recorded: wo-20261024-0baeebac — ALM record design round 4 and three cont
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T23:48:32.969Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T23:59:38.740Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
