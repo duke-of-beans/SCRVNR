@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-24
-Last Recorded: wo-20261024-9fe01b02 — ALM scene 1 opens on "Hi. Thanks for doing this."
+Last Recorded: wo-20261024-72db187d — ALM scene 1 opens on "This only takes a moment."
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T01:07:44.493Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T01:08:48.984Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -30,7 +30,6 @@ _Generated 2026-10-24T01:07:44.493Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261024-72db187d` | scrvnr | dispatched | ALM scene 1 opens on "This only takes a moment." | 2026-10-24 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
