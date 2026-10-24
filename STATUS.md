@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-24
-Last Recorded: wo-20261016-e0431e41 — Knowledge: Supposed to Be Nice Tomorrow area file
+Last Recorded: wo-20261024-74f280d4 — ALM 34 movement 3 (the folder, and the envelope)
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T04:09:53.592Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T04:18:45.907Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -26,7 +26,6 @@ _Generated 2026-10-24T04:09:53.592Z from the work-order store. Done means verifi
 |---|---|---|---|---|
 | `wo-20261017-35d2db65` | scrvnr | blocked | Scene 6, Click (first draft) | 2026-10-24 |
 | `wo-20261016-fb611172` | scrvnr | blocked | Save Supposed to Be Nice Tomorrow working files | 2026-10-24 |
-| `wo-20261024-74f280d4` | scrvnr | dispatched | ALM 34 movement 3 (the folder, and the envelope) | 2026-10-24 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
