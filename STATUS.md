@@ -7,7 +7,7 @@ Last Recorded: wo-20261024-dda6f126 — ALM 35 draft 2; remove sugar bowl (STBNT
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T06:21:09.283Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T06:31:13.737Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
