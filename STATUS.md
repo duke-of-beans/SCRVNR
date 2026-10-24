@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-24
-Last Recorded: wo-20261023-045e2f72 — Synopsis continuity list corrected to verified conflicts
+Last Recorded: wo-20261023-e8d1f854 — ALM continuity fixes (16, 16a, 17, 18, 23, 25b, 27)
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T00:13:47.358Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T00:15:03.027Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -31,7 +31,6 @@ _Generated 2026-10-24T00:13:47.358Z from the work-order store. Done means verifi
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
 | `wo-20261023-67643c2f` | scrvnr | dispatched | Move STBNT open items into the STBNT backlog | 2026-10-23 |
-| `wo-20261023-e8d1f854` | scrvnr | dispatched | ALM continuity fixes (16, 16a, 17, 18, 23, 25b, 27) | 2026-10-23 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
