@@ -7,7 +7,7 @@ Last Recorded: wo-20261024-9fe01b02 — ALM scene 1 opens on "Hi. Thanks for doi
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T01:06:46.477Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T01:07:44.493Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
