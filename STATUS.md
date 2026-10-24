@@ -7,7 +7,7 @@ Last Recorded: wo-20261024-1ef72075 — ALM 34 movement 5 (the stairs); chapter 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T05:06:12.503Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T05:17:09.802Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
