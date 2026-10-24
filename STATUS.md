@@ -7,7 +7,7 @@ Last Recorded: wo-20261024-5cb9b593 — ALM Act III renamed "The product" (provi
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-24T01:01:53.746Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-24T01:02:46.194Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
