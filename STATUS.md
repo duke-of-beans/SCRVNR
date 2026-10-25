@@ -7,7 +7,7 @@ Last Recorded: wo-20261025-253392f3 — ALM rule: Edward's grief register
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-25T20:04:19.767Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-25T20:15:16.272Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
