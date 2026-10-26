@@ -7,7 +7,7 @@ Last Recorded: wo-20261026-770c331a — ALM chapter: The vault; Three o'clock dr
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-26T22:40:58.197Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-26T22:51:49.714Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
