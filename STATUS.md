@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-26
-Last Recorded: wo-20261026-86e3f53f — ALM chapter: Still her (the pillar, stage 1)
+Last Recorded: wo-20261026-066ba261 — ALM Still her: mark approved
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-26T20:37:44.629Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-26T20:47:49.988Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -24,8 +24,7 @@ _Generated 2026-10-26T20:37:44.629Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261026-fb962fc9` | scrvnr | drafted | ALM design: the broadcast at her execution | 2026-10-26 |
-| `wo-20261026-066ba261` | scrvnr | dispatched | ALM Still her: mark approved | 2026-10-26 |
+| `wo-20261026-fb962fc9` | scrvnr | dispatched | ALM design: the broadcast at her execution | 2026-10-26 |
 | `wo-20261017-35d2db65` | scrvnr | blocked | Scene 6, Click (first draft) | 2026-10-24 |
 | `wo-20261016-fb611172` | scrvnr | blocked | Save Supposed to Be Nice Tomorrow working files | 2026-10-24 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
