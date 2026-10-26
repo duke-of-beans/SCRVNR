@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-26
-Last Recorded: wo-20261026-1a33f1aa — ALM chapter: The hold (Anton's held file)
+Last Recorded: wo-20261026-7d215a92 — ALM The hold, draft 2
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-26T19:02:04.590Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-26T19:12:54.052Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,7 +25,6 @@ _Generated 2026-10-26T19:02:04.590Z from the work-order store. Done means verifi
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
 | `wo-20261026-eec4d63c` | scrvnr | dispatched | ALM The hold, draft 3 (the raid's real shape) | 2026-10-26 |
-| `wo-20261026-7d215a92` | scrvnr | dispatched | ALM The hold, draft 2 | 2026-10-26 |
 | `wo-20261017-35d2db65` | scrvnr | blocked | Scene 6, Click (first draft) | 2026-10-24 |
 | `wo-20261016-fb611172` | scrvnr | blocked | Save Supposed to Be Nice Tomorrow working files | 2026-10-24 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
