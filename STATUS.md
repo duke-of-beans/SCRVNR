@@ -7,7 +7,7 @@ Last Recorded: wo-20261026-4ce62afb — ALM chapter: Three o'clock (the climax r
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-26T21:40:43.702Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-26T21:50:43.673Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
