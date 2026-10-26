@@ -7,7 +7,7 @@ Last Recorded: wo-20261026-1a33f1aa — ALM chapter: The hold (Anton's held file
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-26T15:41:46.519Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-26T15:52:45.929Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
