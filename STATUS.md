@@ -7,7 +7,7 @@ Last Recorded: wo-20261026-770c331a — ALM chapter: The vault; Three o'clock dr
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-26T23:02:44.866Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-26T23:12:46.067Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -24,6 +24,8 @@ _Generated 2026-10-26T23:02:44.866Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261026-6a52b421` | scrvnr | dispatched | ALM retime the confession to the afternoon | 2026-10-26 |
+| `wo-20261026-0233ae2d` | scrvnr | dispatched | knowledge: untitled-canary area file, status and decisions 2026-10-24..26 | 2026-10-26 |
 | `wo-20261026-a3c53e1c` | scrvnr | dispatched | ALM The vault approved; Olivia's clue; "Nobody stood up" | 2026-10-26 |
 | `wo-20261017-35d2db65` | scrvnr | blocked | Scene 6, Click (first draft) | 2026-10-24 |
 | `wo-20261016-fb611172` | scrvnr | blocked | Save Supposed to Be Nice Tomorrow working files | 2026-10-24 |
