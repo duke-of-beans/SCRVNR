@@ -7,7 +7,7 @@ Last Recorded: wo-20261027-ee7ee738 — 35a Maintenance — the refusals chapter
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-27T09:07:23.312Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-27T09:17:23.854Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -24,11 +24,11 @@ _Generated 2026-10-27T09:07:23.312Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261027-91764255` | scrvnr | in_progress | 35b Where they can see you — Anton's public redemption | 2026-10-27 |
 | `wo-20261027-e96ab29d` | scrvnr | in_progress | 35a Maintenance — revision 1 | 2026-10-27 |
 | `wo-20261027-08842aba` | scrvnr | dispatched | ALM: rules + method from the collapse discussion | 2026-10-27 |
 | `wo-20261027-a8bc920c` | scrvnr | dispatched | ALM: collapse backdrop + pillar-as-token planning page | 2026-10-27 |
 | `wo-20261027-5615c143` | scrvnr | dispatched | 35c Not her — pillar stage 2, first draft | 2026-10-27 |
-| `wo-20261027-91764255` | scrvnr | dispatched | 35b Where they can see you — Anton's public redemption | 2026-10-27 |
 | `wo-20261017-35d2db65` | scrvnr | blocked | Scene 6, Click (first draft) | 2026-10-24 |
 | `wo-20261016-fb611172` | scrvnr | blocked | Save Supposed to Be Nice Tomorrow working files | 2026-10-24 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
