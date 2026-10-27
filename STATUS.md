@@ -7,7 +7,7 @@ Last Recorded: wo-20261027-1c40554b — ALM: reading copy PDF with covers (2026-
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-27T23:18:34.488Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-27T23:29:22.234Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
