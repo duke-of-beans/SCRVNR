@@ -7,7 +7,7 @@ Last Recorded: wo-20261027-ee7ee738 — 35a Maintenance — the refusals chapter
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-27T18:36:31.609Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-27T18:47:22.357Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -24,6 +24,7 @@ _Generated 2026-10-27T18:36:31.609Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261027-cf09f78b` | scrvnr | dispatched | ALM: cardigan pass across the book | 2026-10-27 |
 | `wo-20261027-08842aba` | scrvnr | in_progress | ALM: rules + method from the collapse discussion | 2026-10-27 |
 | `wo-20261027-a8bc920c` | scrvnr | in_progress | ALM: collapse backdrop + pillar-as-token planning page | 2026-10-27 |
 | `wo-20261027-5615c143` | scrvnr | in_progress | 35c Not her — pillar stage 2, first draft | 2026-10-27 |
