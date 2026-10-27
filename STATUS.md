@@ -7,7 +7,7 @@ Last Recorded: wo-20261027-ee7ee738 — 35a Maintenance — the refusals chapter
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-27T08:35:31.905Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-27T08:46:24.960Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
