@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-27
-Last Recorded: wo-20261027-ee7ee738 — 35a Maintenance — the refusals chapter
+Last Recorded: wo-20261027-e96ab29d — 35a Maintenance — revision 1
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-27T21:46:33.995Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-27T21:57:23.094Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -19,21 +19,15 @@ _Generated 2026-10-27T21:46:33.995Z from the work-order store. Done means verifi
 - `wo-20261019-62093443` **untitled-canary: fork holder depth and keys hole** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#313 clean-context review asks for changes: The PR modifies books/untitled-canary/Devices and hooks ledger.md, but the work order s…"
 - `wo-20261019-d92a608a` **Exploring vault: untitled canary novel** (scrvnr) — kicked up: "duke-of-beans/ops-context#69 clean-context review asks for changes: The diff only appends stated notes to areas/untitled-canary.md; it does not add the request…"
 - `wo-20261020-7cc6665b` **untitled-canary: build out as an Obsidian vault on G7** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#596 clean-context review asks for changes: PR adds books/untitled-canary/GREG_MOIRE_BRIEF.md, which is outside the work order's st…"
+- `wo-20261027-5615c143` **35c Not her — pillar stage 2, first draft** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#667 clean-context review asks for changes: The scene does not implement the work order's premise: it keeps Esther's face on the pi…"
 
 ### In flight
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261027-08842aba` | scrvnr | blocked | ALM: rules + method from the collapse discussion | 2026-10-27 |
 | `wo-20261027-9fec96c9` | scrvnr | dispatched | ALM: land the held chapters before the diagnostic pass | 2026-10-27 |
 | `wo-20261027-4e669c70` | scrvnr | dispatched | ALM: Olivia's return design (notes + chapter) | 2026-10-27 |
-| `wo-20261027-649739cf` | scrvnr | dispatched | ALM 35: the sixth night (founders' reckoning) | 2026-10-27 |
-| `wo-20261027-2101e35b` | scrvnr | dispatched | ALM 35d: Brooke's unwritten text (Held the ladder) | 2026-10-27 |
-| `wo-20261027-cf09f78b` | scrvnr | dispatched | ALM: cardigan pass across the book | 2026-10-27 |
-| `wo-20261027-08842aba` | scrvnr | in_progress | ALM: rules + method from the collapse discussion | 2026-10-27 |
-| `wo-20261027-a8bc920c` | scrvnr | in_progress | ALM: collapse backdrop + pillar-as-token planning page | 2026-10-27 |
-| `wo-20261027-5615c143` | scrvnr | in_progress | 35c Not her — pillar stage 2, first draft | 2026-10-27 |
-| `wo-20261027-91764255` | scrvnr | in_progress | 35b Where they can see you — Anton's public redemption | 2026-10-27 |
-| `wo-20261027-e96ab29d` | scrvnr | in_progress | 35a Maintenance — revision 1 | 2026-10-27 |
 | `wo-20261017-35d2db65` | scrvnr | blocked | Scene 6, Click (first draft) | 2026-10-24 |
 | `wo-20261016-fb611172` | scrvnr | blocked | Save Supposed to Be Nice Tomorrow working files | 2026-10-24 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
