@@ -7,7 +7,7 @@ Last Recorded: wo-20261027-ee7ee738 — 35a Maintenance — the refusals chapter
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-27T20:43:23.687Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-27T20:53:23.855Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -24,6 +24,7 @@ _Generated 2026-10-27T20:43:23.687Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261027-4e669c70` | scrvnr | drafted | ALM: Olivia's return design (notes + chapter) | 2026-10-27 |
 | `wo-20261027-649739cf` | scrvnr | dispatched | ALM 35: the sixth night (founders' reckoning) | 2026-10-27 |
 | `wo-20261027-2101e35b` | scrvnr | dispatched | ALM 35d: Brooke's unwritten text (Held the ladder) | 2026-10-27 |
 | `wo-20261027-cf09f78b` | scrvnr | dispatched | ALM: cardigan pass across the book | 2026-10-27 |
