@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-27
-Last Recorded: wo-20261027-fafccd0e — G7 vault: unstick the reconciler (Obsidian line endings)
+Last Recorded: wo-20261027-f57197c8 — ALM: synopsis current through 35d
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-27T22:17:32.033Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-27T22:28:22.185Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,7 +25,6 @@ _Generated 2026-10-27T22:17:32.033Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261027-f57197c8` | scrvnr | dispatched | ALM: synopsis current through 35d | 2026-10-27 |
 | `wo-20261027-08842aba` | scrvnr | blocked | ALM: rules + method from the collapse discussion | 2026-10-27 |
 | `wo-20261027-4e669c70` | scrvnr | dispatched | ALM: Olivia's return design (notes + chapter) | 2026-10-27 |
 | `wo-20261017-35d2db65` | scrvnr | blocked | Scene 6, Click (first draft) | 2026-10-24 |
