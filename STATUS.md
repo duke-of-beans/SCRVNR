@@ -7,7 +7,7 @@ Last Recorded: wo-20261027-f57197c8 — ALM: synopsis current through 35d
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-27T22:48:24.839Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-27T22:58:25.023Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
