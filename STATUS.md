@@ -7,7 +7,7 @@ Last Recorded: wo-20261026-bbd1c242 — Plant how executions work in earlier sce
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-27T00:16:46.238Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-27T00:26:49.060Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
