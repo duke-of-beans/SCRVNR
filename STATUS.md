@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-28
-Last Recorded: wo-20261028-9cc1b027 — ALM: land the plain fixes (69 of 70)
+Last Recorded: wo-20261028-acb82d6a — ALM rewrite pass: Act I
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T08:35:45.068Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T08:46:25.999Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,10 +25,8 @@ _Generated 2026-10-28T08:35:45.068Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261028-08dbb50f` | scrvnr | dispatched | ALM rewrite pass: the middle | 2026-10-28 |
 | `wo-20261028-a8b0995a` | scrvnr | dispatched | ALM rewrite pass: Olivia, the raid, Anton | 2026-10-28 |
-| `wo-20261028-acb82d6a` | scrvnr | dispatched | ALM rewrite pass: Act I | 2026-10-28 |
-| `wo-20261028-16c63343` | scrvnr | dispatched | ALM: rule, agreed rewrites without review | 2026-10-28 |
-| `wo-20261028-c328bfa7` | scrvnr | dispatched | ALM: She checked, draft 2 | 2026-10-28 |
 | `wo-20261028-c9c2ad6a` | scrvnr | blocked | ALM: the reconciliation chapter; Linda at a health insurer | 2026-10-28 |
 | `wo-20261028-e999aa6f` | scrvnr | blocked | ALM: cross-cut week cuts; parking lot stays | 2026-10-28 |
 | `wo-20261028-9da8f9a4` | scrvnr | blocked | ALM: David on the wells passage (open) | 2026-10-28 |
