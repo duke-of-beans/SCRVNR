@@ -7,7 +7,7 @@ Last Recorded: wo-20261028-8af1e81c — ALM: Saturday at Edward's door (option c
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T02:50:30.211Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T03:00:40.521Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,6 +25,9 @@ _Generated 2026-10-28T02:50:30.211Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261028-2b2b4b20` | scrvnr | dispatched | ALM: Edward sees Olivia in the blackout week | 2026-10-28 |
+| `wo-20261028-e995698e` | scrvnr | drafted | ALM: Edward sees Olivia in the blackout (glimpse placement) | 2026-10-28 |
+| `wo-20261028-a9b4bad3` | scrvnr | dispatched | ALM: Olivia's quiet stretch, O3 with a twist | 2026-10-28 |
 | `wo-20261028-7c002c00` | scrvnr | dispatched | ALM: Edward's answer at the door; Monday clears his label | 2026-10-28 |
 | `wo-20261027-4e669c70` | scrvnr | blocked | ALM: Olivia's return design (notes + chapter) | 2026-10-27 |
 | `wo-20261027-04f935a2` | scrvnr | dispatched | ALM: mid-draft diagnostic pass (findings + plain fixes) | 2026-10-27 |
