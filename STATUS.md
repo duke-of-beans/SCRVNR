@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-28
-Last Recorded: wo-20261028-a31f476b — ALM: the parents catch the officer; volunteer jail
+Last Recorded: wo-20261028-c3769989 — ALM: the trail past the domestic layer; the bear's tell
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T04:15:28.543Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T04:26:30.773Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,8 +25,7 @@ _Generated 2026-10-28T04:15:28.543Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261028-c3769989` | scrvnr | dispatched | ALM: the trail past the domestic layer; the bear's tell | 2026-10-28 |
-| `wo-20261028-1deb2450` | scrvnr | dispatched | ALM: how the bear reaches the officer (tradecraft); lesson | 2026-10-28 |
+| `wo-20261028-e6ca8aed` | scrvnr | dispatched | ALM: the trail ends abroad; tell options struck | 2026-10-28 |
 | `wo-20261028-9d213619` | scrvnr | blocked | ALM: the volunteer lockup and the blank status | 2026-10-28 |
 | `wo-20261028-e995698e` | scrvnr | drafted | ALM: Edward sees Olivia in the blackout (glimpse placement) | 2026-10-28 |
 | `wo-20261027-4e669c70` | scrvnr | blocked | ALM: Olivia's return design (notes + chapter) | 2026-10-27 |
