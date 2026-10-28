@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-28
-Last Recorded: wo-20261028-109778e0 — ALM rewrite pass: the July operation
+Last Recorded: wo-20261028-ae1e0940 — ALM rewrite pass: the reckoning chapters
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T09:08:28.522Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T09:18:31.531Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -26,7 +26,7 @@ _Generated 2026-10-28T09:08:28.522Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261028-ae1e0940` | scrvnr | dispatched | ALM rewrite pass: the reckoning chapters | 2026-10-28 |
+| `wo-20261028-a71ba23d` | scrvnr | dispatched | ALM rewrite pass: the ending and the source-of-truth files | 2026-10-28 |
 | `wo-20261028-c9c2ad6a` | scrvnr | blocked | ALM: the reconciliation chapter; Linda at a health insurer | 2026-10-28 |
 | `wo-20261028-e999aa6f` | scrvnr | blocked | ALM: cross-cut week cuts; parking lot stays | 2026-10-28 |
 | `wo-20261028-9da8f9a4` | scrvnr | blocked | ALM: David on the wells passage (open) | 2026-10-28 |
