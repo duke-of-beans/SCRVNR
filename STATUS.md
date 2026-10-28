@@ -7,7 +7,7 @@ Last Recorded: wo-20261028-1f9cfce0 — ALM: what Anton tells Olivia at the bank
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T02:18:36.903Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T02:29:23.604Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
