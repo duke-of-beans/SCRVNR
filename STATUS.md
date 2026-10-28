@@ -7,7 +7,7 @@ Last Recorded: wo-20261028-6ab080e8 — ALM: Edward in Olivia's building; the pr
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T06:51:28.369Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T07:02:33.865Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,6 +25,7 @@ _Generated 2026-10-28T06:51:28.369Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261028-4dfe180c` | scrvnr | dispatched | ALM: the heist all-hands and Esther's private moment | 2026-10-28 |
 | `wo-20261028-6cc51959` | scrvnr | dispatched | ALM: the Fas heist as a founders' operation (direction) | 2026-10-28 |
 | `wo-20261028-af5197e5` | scrvnr | dispatched | ALM: the coordinated heist (open, structural) | 2026-10-28 |
 | `wo-20261028-dcc4905e` | scrvnr | dispatched | ALM: Edward is a good father (rule); red eyes cut | 2026-10-28 |
