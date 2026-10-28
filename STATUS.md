@@ -7,7 +7,7 @@ Last Recorded: wo-20261028-6ab080e8 — ALM: Edward in Olivia's building; the pr
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T07:12:34.019Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T07:22:35.807Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,6 +25,8 @@ _Generated 2026-10-28T07:12:34.019Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261028-220bbda4` | scrvnr | dispatched | ALM: Olivia's seed and her mirror | 2026-10-28 |
+| `wo-20261028-52633545` | scrvnr | dispatched | ALM: Olivia knows about Brooke and Chris | 2026-10-28 |
 | `wo-20261028-830f27e9` | scrvnr | dispatched | ALM: re-land the 2026-10-27/28 design decisions (#708–#723) | 2026-10-28 |
 | `wo-20261028-bcb3444c` | scrvnr | dispatched | ALM: the July operation details (Chris outside, Fas's eyes) | 2026-10-28 |
 | `wo-20261028-4dfe180c` | scrvnr | dispatched | ALM: the heist all-hands and Esther's private moment | 2026-10-28 |
