@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-28
-Last Recorded: wo-20261028-e0b9bfd6 — ALM: Brooke's last words, the flashlight, the sisters
+Last Recorded: wo-20261028-83e5619d — ALM: Esther's death coincides with the broadcast
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T08:05:25.496Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T08:15:27.435Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,8 +25,8 @@ _Generated 2026-10-28T08:05:25.496Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261028-b8c24d5b` | scrvnr | dispatched | ALM: names for the officer, his daughter, Effie's father | 2026-10-28 |
 | `wo-20261028-f0f10598` | scrvnr | dispatched | ALM: Anton's Monday statement (reading breaks into rant) | 2026-10-28 |
-| `wo-20261028-83e5619d` | scrvnr | dispatched | ALM: Esther's death coincides with the broadcast | 2026-10-28 |
 | `wo-20261028-c9c2ad6a` | scrvnr | blocked | ALM: the reconciliation chapter; Linda at a health insurer | 2026-10-28 |
 | `wo-20261028-e999aa6f` | scrvnr | blocked | ALM: cross-cut week cuts; parking lot stays | 2026-10-28 |
 | `wo-20261028-9da8f9a4` | scrvnr | blocked | ALM: David on the wells passage (open) | 2026-10-28 |
