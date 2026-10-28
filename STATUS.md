@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-28
-Last Recorded: wo-20261028-193040de — ALM: the officer (ICE, recent hire, school bracelet) and his sheet
+Last Recorded: wo-20261028-eccd760a — ALM: the officer at the door; he recognizes her
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T03:22:28.200Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T03:33:24.931Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,8 +25,9 @@ _Generated 2026-10-28T03:22:28.200Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261028-9d213619` | scrvnr | dispatched | ALM: the volunteer lockup and the blank status | 2026-10-28 |
+| `wo-20261028-a31f476b` | scrvnr | dispatched | ALM: the parents catch the officer; volunteer jail | 2026-10-28 |
 | `wo-20261028-91e9e3a6` | scrvnr | dispatched | ALM: Effie recognizes the bracelet | 2026-10-28 |
-| `wo-20261028-eccd760a` | scrvnr | dispatched | ALM: the officer at the door; he recognizes her | 2026-10-28 |
 | `wo-20261028-e995698e` | scrvnr | drafted | ALM: Edward sees Olivia in the blackout (glimpse placement) | 2026-10-28 |
 | `wo-20261027-4e669c70` | scrvnr | blocked | ALM: Olivia's return design (notes + chapter) | 2026-10-27 |
 | `wo-20261027-04f935a2` | scrvnr | dispatched | ALM: mid-draft diagnostic pass (findings + plain fixes) | 2026-10-27 |
