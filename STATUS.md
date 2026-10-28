@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-28
-Last Recorded: wo-20261028-c3769989 — ALM: the trail past the domestic layer; the bear's tell
+Last Recorded: wo-20261028-e6ca8aed — ALM: the trail ends abroad; tell options struck
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T04:26:30.773Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T04:37:23.533Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,11 +25,12 @@ _Generated 2026-10-28T04:26:30.773Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261028-e6ca8aed` | scrvnr | dispatched | ALM: the trail ends abroad; tell options struck | 2026-10-28 |
+| `wo-20261028-ac539f78` | scrvnr | dispatched | ALM: Fas posts the paths; Olivia first viewer | 2026-10-28 |
+| `wo-20261027-04f935a2` | scrvnr | in_progress | ALM: mid-draft diagnostic pass (findings + plain fixes) | 2026-10-28 |
+| `wo-20261028-10c936fd` | scrvnr | dispatched | ALM: the tell is the last designation | 2026-10-28 |
 | `wo-20261028-9d213619` | scrvnr | blocked | ALM: the volunteer lockup and the blank status | 2026-10-28 |
 | `wo-20261028-e995698e` | scrvnr | drafted | ALM: Edward sees Olivia in the blackout (glimpse placement) | 2026-10-28 |
 | `wo-20261027-4e669c70` | scrvnr | blocked | ALM: Olivia's return design (notes + chapter) | 2026-10-27 |
-| `wo-20261027-04f935a2` | scrvnr | dispatched | ALM: mid-draft diagnostic pass (findings + plain fixes) | 2026-10-27 |
 | `wo-20261027-08842aba` | scrvnr | blocked | ALM: rules + method from the collapse discussion | 2026-10-27 |
 | `wo-20261017-35d2db65` | scrvnr | blocked | Scene 6, Click (first draft) | 2026-10-24 |
 | `wo-20261016-fb611172` | scrvnr | blocked | Save Supposed to Be Nice Tomorrow working files | 2026-10-24 |
