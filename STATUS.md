@@ -7,7 +7,7 @@ Last Recorded: wo-20261027-efcac03f — ALM: GTIA story graph (2026-10-27)
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T00:00:26.148Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T00:10:26.931Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,6 +25,7 @@ _Generated 2026-10-28T00:00:26.148Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261028-d66912e0` | scrvnr | dispatched | ALM: David's answers to the story graph (2026-10-27) | 2026-10-28 |
 | `wo-20261027-4e669c70` | scrvnr | blocked | ALM: Olivia's return design (notes + chapter) | 2026-10-27 |
 | `wo-20261027-04f935a2` | scrvnr | dispatched | ALM: mid-draft diagnostic pass (findings + plain fixes) | 2026-10-27 |
 | `wo-20261027-08842aba` | scrvnr | blocked | ALM: rules + method from the collapse discussion | 2026-10-27 |
