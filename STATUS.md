@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-28
-Last Recorded: wo-20261028-52633545 — ALM: Olivia knows about Brooke and Chris
+Last Recorded: wo-20261028-603edd3c — ALM: Olivia and Edward, eight beats from David's life
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T07:33:35.446Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T07:43:36.305Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,10 +25,10 @@ _Generated 2026-10-28T07:33:35.446Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261028-13fab9a7` | scrvnr | dispatched | ALM: the quick batch of small calls | 2026-10-28 |
+| `wo-20261028-e0ebc582` | scrvnr | dispatched | ALM: Olivia's son stays, in the background | 2026-10-28 |
 | `wo-20261028-05033766` | scrvnr | dispatched | ALM: the raid's pretext is the watch list | 2026-10-28 |
 | `wo-20261028-adb59721` | scrvnr | dispatched | ALM: Olivia's marriages; Effie's father | 2026-10-28 |
-| `wo-20261028-603edd3c` | scrvnr | dispatched | ALM: Olivia and Edward, eight beats from David's life | 2026-10-28 |
-| `wo-20261028-220bbda4` | scrvnr | dispatched | ALM: Olivia's seed and her mirror | 2026-10-28 |
 | `wo-20261028-bcb3444c` | scrvnr | dispatched | ALM: the July operation details (Chris outside, Fas's eyes) | 2026-10-28 |
 | `wo-20261028-4dfe180c` | scrvnr | dispatched | ALM: the heist all-hands and Esther's private moment | 2026-10-28 |
 | `wo-20261028-6cc51959` | scrvnr | dispatched | ALM: the Fas heist as a founders' operation (direction) | 2026-10-28 |
