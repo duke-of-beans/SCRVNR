@@ -7,7 +7,7 @@ Last Recorded: wo-20261028-6ab080e8 — ALM: Edward in Olivia's building; the pr
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T06:30:36.766Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T06:41:26.199Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,7 +25,9 @@ _Generated 2026-10-28T06:30:36.766Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261028-d97e8ce5` | scrvnr | drafted | ALM: wells line becomes an unattributed River 2 rumor | 2026-10-28 |
+| `wo-20261028-dcc4905e` | scrvnr | dispatched | ALM: Edward is a good father (rule); red eyes cut | 2026-10-28 |
+| `wo-20261028-5718f133` | scrvnr | dispatched | ALM: the ballgame moves before the gate | 2026-10-28 |
+| `wo-20261028-d97e8ce5` | scrvnr | dispatched | ALM: wells line becomes an unattributed River 2 rumor | 2026-10-28 |
 | `wo-20261028-9da8f9a4` | scrvnr | dispatched | ALM: David on the wells passage (open) | 2026-10-28 |
 | `wo-20261028-6a4e7fec` | scrvnr | blocked | ALM: the prescription and the equation (direction) | 2026-10-28 |
 | `wo-20261028-fcfbf4ee` | scrvnr | blocked | ALM: the inhaler through the book; refill on the 1st | 2026-10-28 |
