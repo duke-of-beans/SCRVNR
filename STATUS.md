@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-28
-Last Recorded: wo-20261028-f0f10598 — ALM: Anton's Monday statement (reading breaks into rant)
+Last Recorded: wo-20261028-9cc1b027 — ALM: land the plain fixes (69 of 70)
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T08:25:35.107Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T08:35:45.068Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,11 +25,10 @@ _Generated 2026-10-28T08:25:35.107Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261028-a8b0995a` | scrvnr | dispatched | ALM rewrite pass: Olivia, the raid, Anton | 2026-10-28 |
+| `wo-20261028-acb82d6a` | scrvnr | dispatched | ALM rewrite pass: Act I | 2026-10-28 |
 | `wo-20261028-16c63343` | scrvnr | dispatched | ALM: rule, agreed rewrites without review | 2026-10-28 |
 | `wo-20261028-c328bfa7` | scrvnr | dispatched | ALM: She checked, draft 2 | 2026-10-28 |
-| `wo-20261028-9cc1b027` | scrvnr | dispatched | ALM: land the plain fixes (69 of 70) | 2026-10-28 |
-| `wo-20261028-d36204d1` | scrvnr | dispatched | ALM: Calder Elementary; John's NUL career to health | 2026-10-28 |
-| `wo-20261028-b8c24d5b` | scrvnr | dispatched | ALM: names for the officer, his daughter, Effie's father | 2026-10-28 |
 | `wo-20261028-c9c2ad6a` | scrvnr | blocked | ALM: the reconciliation chapter; Linda at a health insurer | 2026-10-28 |
 | `wo-20261028-e999aa6f` | scrvnr | blocked | ALM: cross-cut week cuts; parking lot stays | 2026-10-28 |
 | `wo-20261028-9da8f9a4` | scrvnr | blocked | ALM: David on the wells passage (open) | 2026-10-28 |
