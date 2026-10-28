@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-28
-Last Recorded: wo-20261028-10c936fd — ALM: the tell is the last designation
+Last Recorded: wo-20261028-6ab080e8 — ALM: Edward in Olivia's building; the prescription drop
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T04:47:23.733Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T04:58:22.774Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -26,8 +26,6 @@ _Generated 2026-10-28T04:47:23.733Z from the work-order store. Done means verifi
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
 | `wo-20261028-3b857861` | scrvnr | blocked | ALM: his element is the worksheet | 2026-10-28 |
-| `wo-20261028-6ab080e8` | scrvnr | dispatched | ALM: Edward in Olivia's building; the prescription drop | 2026-10-28 |
-| `wo-20261028-ac539f78` | scrvnr | dispatched | ALM: Fas posts the paths; Olivia first viewer | 2026-10-28 |
 | `wo-20261027-04f935a2` | scrvnr | in_progress | ALM: mid-draft diagnostic pass (findings + plain fixes) | 2026-10-28 |
 | `wo-20261028-9d213619` | scrvnr | blocked | ALM: the volunteer lockup and the blank status | 2026-10-28 |
 | `wo-20261028-e995698e` | scrvnr | drafted | ALM: Edward sees Olivia in the blackout (glimpse placement) | 2026-10-28 |
