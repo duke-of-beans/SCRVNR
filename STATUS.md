@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-28
-Last Recorded: wo-20261028-603edd3c — ALM: Olivia and Edward, eight beats from David's life
+Last Recorded: wo-20261028-e0ebc582 — ALM: Olivia's son stays, in the background
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T07:43:36.305Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T07:54:29.707Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,25 +25,24 @@ _Generated 2026-10-28T07:43:36.305Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261028-83e5619d` | scrvnr | dispatched | ALM: Esther's death coincides with the broadcast | 2026-10-28 |
+| `wo-20261028-e0b9bfd6` | scrvnr | dispatched | ALM: Brooke's last words, the flashlight, the sisters | 2026-10-28 |
+| `wo-20261028-c9c2ad6a` | scrvnr | blocked | ALM: the reconciliation chapter; Linda at a health insurer | 2026-10-28 |
+| `wo-20261028-e999aa6f` | scrvnr | blocked | ALM: cross-cut week cuts; parking lot stays | 2026-10-28 |
+| `wo-20261028-9da8f9a4` | scrvnr | blocked | ALM: David on the wells passage (open) | 2026-10-28 |
+| `wo-20261028-d97e8ce5` | scrvnr | blocked | ALM: wells line becomes an unattributed River 2 rumor | 2026-10-28 |
+| `wo-20261028-5718f133` | scrvnr | blocked | ALM: the ballgame moves before the gate | 2026-10-28 |
+| `wo-20261028-dcc4905e` | scrvnr | blocked | ALM: Edward is a good father (rule); red eyes cut | 2026-10-28 |
+| `wo-20261028-af5197e5` | scrvnr | blocked | ALM: the coordinated heist (open, structural) | 2026-10-28 |
+| `wo-20261028-6cc51959` | scrvnr | blocked | ALM: the Fas heist as a founders' operation (direction) | 2026-10-28 |
+| `wo-20261028-4dfe180c` | scrvnr | blocked | ALM: the heist all-hands and Esther's private moment | 2026-10-28 |
+| `wo-20261028-bcb3444c` | scrvnr | blocked | ALM: the July operation details (Chris outside, Fas's eyes) | 2026-10-28 |
 | `wo-20261028-13fab9a7` | scrvnr | dispatched | ALM: the quick batch of small calls | 2026-10-28 |
-| `wo-20261028-e0ebc582` | scrvnr | dispatched | ALM: Olivia's son stays, in the background | 2026-10-28 |
-| `wo-20261028-05033766` | scrvnr | dispatched | ALM: the raid's pretext is the watch list | 2026-10-28 |
-| `wo-20261028-adb59721` | scrvnr | dispatched | ALM: Olivia's marriages; Effie's father | 2026-10-28 |
-| `wo-20261028-bcb3444c` | scrvnr | dispatched | ALM: the July operation details (Chris outside, Fas's eyes) | 2026-10-28 |
-| `wo-20261028-4dfe180c` | scrvnr | dispatched | ALM: the heist all-hands and Esther's private moment | 2026-10-28 |
-| `wo-20261028-6cc51959` | scrvnr | dispatched | ALM: the Fas heist as a founders' operation (direction) | 2026-10-28 |
-| `wo-20261028-af5197e5` | scrvnr | dispatched | ALM: the coordinated heist (open, structural) | 2026-10-28 |
-| `wo-20261028-dcc4905e` | scrvnr | dispatched | ALM: Edward is a good father (rule); red eyes cut | 2026-10-28 |
-| `wo-20261028-5718f133` | scrvnr | dispatched | ALM: the ballgame moves before the gate | 2026-10-28 |
-| `wo-20261028-d97e8ce5` | scrvnr | dispatched | ALM: wells line becomes an unattributed River 2 rumor | 2026-10-28 |
-| `wo-20261028-9da8f9a4` | scrvnr | dispatched | ALM: David on the wells passage (open) | 2026-10-28 |
 | `wo-20261028-6a4e7fec` | scrvnr | blocked | ALM: the prescription and the equation (direction) | 2026-10-28 |
 | `wo-20261028-fcfbf4ee` | scrvnr | blocked | ALM: the inhaler through the book; refill on the 1st | 2026-10-28 |
 | `wo-20261028-3a11c5f8` | scrvnr | blocked | ALM: Linda's line about the inhaler | 2026-10-28 |
 | `wo-20261028-073b37ca` | scrvnr | blocked | ALM: Linda's blank is breath mints | 2026-10-28 |
 | `wo-20261028-f5cf84f6` | scrvnr | blocked | ALM: the administration reconciliation (two lenses) | 2026-10-28 |
-| `wo-20261028-e999aa6f` | scrvnr | dispatched | ALM: cross-cut week cuts; parking lot stays | 2026-10-28 |
-| `wo-20261028-c9c2ad6a` | scrvnr | dispatched | ALM: the reconciliation chapter; Linda at a health insurer | 2026-10-28 |
 | `wo-20261028-3b857861` | scrvnr | blocked | ALM: his element is the worksheet | 2026-10-28 |
 | `wo-20261027-04f935a2` | scrvnr | in_progress | ALM: mid-draft diagnostic pass (findings + plain fixes) | 2026-10-28 |
 | `wo-20261028-9d213619` | scrvnr | blocked | ALM: the volunteer lockup and the blank status | 2026-10-28 |
