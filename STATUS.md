@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-28
-Last Recorded: wo-20261028-46738ad2 — ALM: notes on Anton's killer
+Last Recorded: wo-20261028-ed62c59e — ALM: the bracelet; Olivia names him
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T01:24:32.239Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T01:35:48.343Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,8 +25,9 @@ _Generated 2026-10-28T01:24:32.239Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261028-ed62c59e` | scrvnr | dispatched | ALM: the bracelet; Olivia names him | 2026-10-28 |
-| `wo-20261028-89492638` | scrvnr | dispatched | ALM: notes on the identifier and the killing | 2026-10-28 |
+| `wo-20261028-4815257b` | scrvnr | dispatched | ALM: killing order approved | 2026-10-28 |
+| `wo-20261028-d52cd47b` | scrvnr | dispatched | ALM: the killing, Claire's contact, Olivia's moment | 2026-10-28 |
+| `wo-20261028-e94b644b` | scrvnr | dispatched | ALM: Anton's killing, inferred | 2026-10-28 |
 | `wo-20261027-4e669c70` | scrvnr | blocked | ALM: Olivia's return design (notes + chapter) | 2026-10-27 |
 | `wo-20261027-04f935a2` | scrvnr | dispatched | ALM: mid-draft diagnostic pass (findings + plain fixes) | 2026-10-27 |
 | `wo-20261027-08842aba` | scrvnr | blocked | ALM: rules + method from the collapse discussion | 2026-10-27 |
