@@ -7,7 +7,7 @@ Last Recorded: wo-20261027-efcac03f — ALM: GTIA story graph (2026-10-27)
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T00:10:26.931Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T00:21:25.198Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
