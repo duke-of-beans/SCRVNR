@@ -2,12 +2,12 @@
 
 Status: active
 Last Updated: 2026-10-28
-Last Recorded: wo-20261028-acb82d6a — ALM rewrite pass: Act I
+Last Recorded: wo-20261028-a8b0995a — ALM rewrite pass: Olivia, the raid, Anton
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T08:46:25.999Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T08:57:26.684Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -20,13 +20,13 @@ _Generated 2026-10-28T08:46:25.999Z from the work-order store. Done means verifi
 - `wo-20261019-d92a608a` **Exploring vault: untitled canary novel** (scrvnr) — kicked up: "duke-of-beans/ops-context#69 clean-context review asks for changes: The diff only appends stated notes to areas/untitled-canary.md; it does not add the request…"
 - `wo-20261020-7cc6665b` **untitled-canary: build out as an Obsidian vault on G7** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#596 clean-context review asks for changes: PR adds books/untitled-canary/GREG_MOIRE_BRIEF.md, which is outside the work order's st…"
 - `wo-20261027-5615c143` **35c Not her — pillar stage 2, first draft** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#667 clean-context review asks for changes: The scene does not implement the work order's premise: it keeps Esther's face on the pi…"
+- `wo-20261028-08dbb50f` **ALM rewrite pass: the middle** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#742 clean-context review asks for changes: The work order asked to handle the "wells → River 2 rumor" rewrite, but the diff shows …"
 
 ### In flight
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261028-08dbb50f` | scrvnr | dispatched | ALM rewrite pass: the middle | 2026-10-28 |
-| `wo-20261028-a8b0995a` | scrvnr | dispatched | ALM rewrite pass: Olivia, the raid, Anton | 2026-10-28 |
+| `wo-20261028-109778e0` | scrvnr | dispatched | ALM rewrite pass: the July operation | 2026-10-28 |
 | `wo-20261028-c9c2ad6a` | scrvnr | blocked | ALM: the reconciliation chapter; Linda at a health insurer | 2026-10-28 |
 | `wo-20261028-e999aa6f` | scrvnr | blocked | ALM: cross-cut week cuts; parking lot stays | 2026-10-28 |
 | `wo-20261028-9da8f9a4` | scrvnr | blocked | ALM: David on the wells passage (open) | 2026-10-28 |
