@@ -7,7 +7,7 @@ Last Recorded: wo-20261028-6ab080e8 — ALM: Edward in Olivia's building; the pr
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T05:38:30.353Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T05:49:23.871Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,13 +25,13 @@ _Generated 2026-10-28T05:38:30.353Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261028-6a4e7fec` | scrvnr | blocked | ALM: the prescription and the equation (direction) | 2026-10-28 |
+| `wo-20261028-fcfbf4ee` | scrvnr | blocked | ALM: the inhaler through the book; refill on the 1st | 2026-10-28 |
+| `wo-20261028-3a11c5f8` | scrvnr | blocked | ALM: Linda's line about the inhaler | 2026-10-28 |
+| `wo-20261028-073b37ca` | scrvnr | blocked | ALM: Linda's blank is breath mints | 2026-10-28 |
+| `wo-20261028-f5cf84f6` | scrvnr | blocked | ALM: the administration reconciliation (two lenses) | 2026-10-28 |
 | `wo-20261028-e999aa6f` | scrvnr | dispatched | ALM: cross-cut week cuts; parking lot stays | 2026-10-28 |
 | `wo-20261028-c9c2ad6a` | scrvnr | dispatched | ALM: the reconciliation chapter; Linda at a health insurer | 2026-10-28 |
-| `wo-20261028-f5cf84f6` | scrvnr | dispatched | ALM: the administration reconciliation (two lenses) | 2026-10-28 |
-| `wo-20261028-073b37ca` | scrvnr | dispatched | ALM: Linda's blank is breath mints | 2026-10-28 |
-| `wo-20261028-3a11c5f8` | scrvnr | dispatched | ALM: Linda's line about the inhaler | 2026-10-28 |
-| `wo-20261028-fcfbf4ee` | scrvnr | dispatched | ALM: the inhaler through the book; refill on the 1st | 2026-10-28 |
-| `wo-20261028-6a4e7fec` | scrvnr | dispatched | ALM: the prescription and the equation (direction) | 2026-10-28 |
 | `wo-20261028-3b857861` | scrvnr | blocked | ALM: his element is the worksheet | 2026-10-28 |
 | `wo-20261027-04f935a2` | scrvnr | in_progress | ALM: mid-draft diagnostic pass (findings + plain fixes) | 2026-10-28 |
 | `wo-20261028-9d213619` | scrvnr | blocked | ALM: the volunteer lockup and the blank status | 2026-10-28 |
