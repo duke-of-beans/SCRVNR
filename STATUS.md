@@ -7,7 +7,7 @@ Last Recorded: wo-20261028-6ab080e8 — ALM: Edward in Olivia's building; the pr
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-28T05:28:27.438Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-28T05:38:30.353Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -25,6 +25,7 @@ _Generated 2026-10-28T05:28:27.438Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261028-e999aa6f` | scrvnr | dispatched | ALM: cross-cut week cuts; parking lot stays | 2026-10-28 |
 | `wo-20261028-c9c2ad6a` | scrvnr | dispatched | ALM: the reconciliation chapter; Linda at a health insurer | 2026-10-28 |
 | `wo-20261028-f5cf84f6` | scrvnr | dispatched | ALM: the administration reconciliation (two lenses) | 2026-10-28 |
 | `wo-20261028-073b37ca` | scrvnr | dispatched | ALM: Linda's blank is breath mints | 2026-10-28 |
