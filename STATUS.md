@@ -2,20 +2,18 @@
 
 Status: active
 Last Updated: 2026-10-29
-Last Recorded: wo-20261028-a71ba23d — ALM rewrite pass: the ending and the source-of-truth files
+Last Recorded: wo-20261029-7892344b — STBNT physical read-through notes (through ch 17)
 
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-29T19:50:44.892Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-29T20:00:55.956Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
 ### Waiting on David
 
-- `wo-20261016-45472099` **Book vault: GitHub canonical, G7 a self-updating mirror** (scrvnr) — kicked up: "duke-of-beans/ops-context#65 clean-context review asks for changes: PR modifies ops-context repo, which is out of scope (work order limits to duke-of-beans/SCR…"
 - `wo-20261016-8b196ff3` **Carla's kitchen Spanish vs. no Italian** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#19 clean-context review asks for changes: The work order specifies 30 years of proximity to the Rios, but the PR says forty-five y…"
-- `wo-20261016-b284f58a` **Live cumulative synopsis (with spoilers)** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#25 clean-context review asks for changes: The structure-map artifact is not updated with a synopsis section as required by the wor…"
 - `wo-20261019-62093443` **untitled-canary: fork holder depth and keys hole** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#313 clean-context review asks for changes: The PR modifies books/untitled-canary/Devices and hooks ledger.md, but the work order s…"
 - `wo-20261019-d92a608a` **Exploring vault: untitled canary novel** (scrvnr) — kicked up: "duke-of-beans/ops-context#69 clean-context review asks for changes: The diff only appends stated notes to areas/untitled-canary.md; it does not add the request…"
 - `wo-20261020-7cc6665b` **untitled-canary: build out as an Obsidian vault on G7** (scrvnr) — kicked up: "duke-of-beans/SCRVNR-private#596 clean-context review asks for changes: PR adds books/untitled-canary/GREG_MOIRE_BRIEF.md, which is outside the work order's st…"
@@ -26,7 +24,6 @@ _Generated 2026-10-29T19:50:44.892Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
-| `wo-20261029-7892344b` | scrvnr | dispatched | STBNT physical read-through notes (through ch 17) | 2026-10-29 |
 | `wo-20261028-c9c2ad6a` | scrvnr | blocked | ALM: the reconciliation chapter; Linda at a health insurer | 2026-10-28 |
 | `wo-20261028-e999aa6f` | scrvnr | blocked | ALM: cross-cut week cuts; parking lot stays | 2026-10-28 |
 | `wo-20261028-9da8f9a4` | scrvnr | blocked | ALM: David on the wells passage (open) | 2026-10-28 |
@@ -49,23 +46,10 @@ _Generated 2026-10-29T19:50:44.892Z from the work-order store. Done means verifi
 | `wo-20261027-4e669c70` | scrvnr | blocked | ALM: Olivia's return design (notes + chapter) | 2026-10-27 |
 | `wo-20261027-08842aba` | scrvnr | blocked | ALM: rules + method from the collapse discussion | 2026-10-27 |
 | `wo-20261017-35d2db65` | scrvnr | blocked | Scene 6, Click (first draft) | 2026-10-24 |
-| `wo-20261016-fb611172` | scrvnr | blocked | Save Supposed to Be Nice Tomorrow working files | 2026-10-24 |
 | `wo-20261019-57c64c4b` | scrvnr | drafted | untitled-canary: record alt-timeline purpose + spine options | 2026-10-19 |
 | `wo-20261017-8c260ac6` | scrvnr | drafted | Scene 27: Rose looks at Alma in the freeze | 2026-10-17 |
 | `wo-20261017-eaf59bc4` | scrvnr | drafted | Scene 6: Carla reports to the photograph; new ending | 2026-10-17 |
 | `wo-20261016-8f619dd7` | scrvnr | drafted | Carla's tremor explains the shaking card in the last call | 2026-10-16 |
-| `wo-20261016-fd8a8c84` | scrvnr | drafted | G7 Obsidian: open the GitHub-backed vault, retire the zip copy | 2026-10-16 |
-| `wo-20261016-9362b031` | scrvnr | blocked | Save Rosaria's letter (Supposed to Be Nice Tomorrow) | 2026-10-16 |
-| `wo-20261016-49bf003b` | scrvnr | blocked | Save locked last call + letter timing fix + new prose rules | 2026-10-16 |
-| `wo-20261016-1f3fcea5` | scrvnr | blocked | Update letter (Müller, Columbus Day), last call town, prose rules | 2026-10-16 |
-| `wo-20261016-2ce8e7ee` | scrvnr | blocked | Character bible (first pass) + Alma lines in letter and last call | 2026-10-16 |
-| `wo-20261016-44f28258` | scrvnr | blocked | Character bible pass 2: Rose, Marisol/Beto, gravy year, setting; Alma lines in scenes | 2026-10-16 |
-| `wo-20261016-0154fe42` | scrvnr | blocked | Supposed to Be Nice Tomorrow: full spine + Miller family + the wake | 2026-10-16 |
-| `wo-20261016-91cce8a5` | scrvnr | blocked | Supposed to Be Nice Tomorrow: lock scenes 14 and 15, language rule | 2026-10-16 |
-| `wo-20261016-d97cb4cc` | scrvnr | drafted | SCRVNR-private: gate workflow + Sentinel runner so book saves land | 2026-10-16 |
-| `wo-20261016-ae3d261b` | scrvnr | drafted | Save locked last call + letter timing fix | 2026-10-16 |
-| `wo-20261016-c5da0350` | scrvnr | drafted | Knowledge: Supposed to Be Nice area file in ops-context | 2026-10-16 |
-| `wo-20261016-89905a00` | scrvnr | drafted | Save Supposed to Be Nice working files | 2026-10-16 |
 
 ### Receipts
 
