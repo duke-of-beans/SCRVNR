@@ -7,7 +7,7 @@ Last Recorded: wo-20261028-a71ba23d — ALM rewrite pass: the ending and the sou
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-29T19:40:44.948Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-29T19:50:44.892Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
@@ -26,6 +26,7 @@ _Generated 2026-10-29T19:40:44.948Z from the work-order store. Done means verifi
 
 | Order | Project | State | Title | Updated |
 |---|---|---|---|---|
+| `wo-20261029-7892344b` | scrvnr | dispatched | STBNT physical read-through notes (through ch 17) | 2026-10-29 |
 | `wo-20261028-c9c2ad6a` | scrvnr | blocked | ALM: the reconciliation chapter; Linda at a health insurer | 2026-10-28 |
 | `wo-20261028-e999aa6f` | scrvnr | blocked | ALM: cross-cut week cuts; parking lot stays | 2026-10-28 |
 | `wo-20261028-9da8f9a4` | scrvnr | blocked | ALM: David on the wells passage (open) | 2026-10-28 |
