@@ -7,7 +7,7 @@ Last Recorded: wo-20261028-a71ba23d — ALM rewrite pass: the ending and the sou
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-29T13:17:35.587Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-29T13:28:29.118Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
