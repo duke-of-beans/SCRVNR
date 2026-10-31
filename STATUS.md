@@ -7,7 +7,7 @@ Last Recorded: wo-20261029-4926f698 — STBNT: Ch 4 pacing, cover type, doc fixe
 <!-- work-orders:begin (generated from portfolio.orders by the record step; edits inside this block are overwritten) -->
 ## Work orders
 
-_Generated 2026-10-31T05:10:46.821Z from the work-order store. Done means verified and recorded; the live view is GregLite._
+_Generated 2026-10-31T05:21:44.145Z from the work-order store. Done means verified and recorded; the live view is GregLite._
 
 **Project:** scrvnr (SCRVNR, active)
 
